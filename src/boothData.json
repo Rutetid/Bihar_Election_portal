@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Asian Public School",
+    "totalVoters": 892,
+    "votes": {
+      "08:00": 145,
+      "10:00": 278,
+      "12:00": 356,
+      "14:00": 397,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 2,
+    "name": "Sima Shulka Karyalya",
+    "totalVoters": 1061,
+    "votes": {
+      "08:00": 189,
+      "10:00": 287,
+      "12:00": 412,
+      "14:00": 490,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 3,
+    "name": "Arabi Kolej",
+    "totalVoters": 734,
+    "votes": {
+      "08:00": 95,
+      "10:00": 176,
+      "12:00": 254,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 4,
+    "name": "Samudaik Bhawan",
+    "totalVoters": 1189,
+    "votes": {
+      "08:00": 167,
+      "10:00": 298,
+      "12:00": 445,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 5,
+    "name": "Vidhut Vibhag",
+    "totalVoters": 823,
+    "votes": {
+      "08:00": 112,
+      "10:00": 198,
+      "12:00": 287,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 6,
+    "name": "Prabhat tara School",
+    "totalVoters": 945,
+    "votes": {
+      "08:00": 134,
+      "10:00": 245,
+      "12:00": 354,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 7,
+    "name": "Sikandarpur Stadium",
+    "totalVoters": 1123,
+    "votes": {
+      "08:00": 156,
+      "10:00": 267,
+      "12:00": 389,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 8,
+    "name": "Radha Devi Uchcha Vidyalaya",
+    "totalVoters": 678,
+    "votes": {
+      "08:00": 89,
+      "10:00": 167,
+      "12:00": 245,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  }
+]
