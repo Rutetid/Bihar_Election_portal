@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { useNavigate } from "react-router-dom";
 
 const VotingTable = ({
   boothData,
@@ -7,6 +8,7 @@ const VotingTable = ({
   getCellStatus,
   getStatusColor,
 }) => {
+  const navigate = useNavigate();
   const [currentPage, setCurrentPage] = useState(1);
   const boothsPerPage = 15;
 
@@ -93,8 +95,13 @@ const VotingTable = ({
                   <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
                     {indexOfFirstBooth + index + 1}.
                   </td>
-                  <td className="px-6 py-4 text-sm font-medium text-gray-900 max-w-md">
-                    <div className="break-words">{booth.name}</div>
+                  <td className="px-6 py-4 text-sm font-medium max-w-md">
+                    <button
+                      onClick={() => navigate(`/booth/${booth.id}`)}
+                      className="text-blue-700 hover:text-blue-800 hover:underline text-left break-words transition-colors"
+                    >
+                      {booth.name}
+                    </button>
                   </td>
                   <td className="px-2 py-4 text-center whitespace-nowrap">
                     <div className="bg-blue-100 rounded-md px-2 py-2 text-sm font-semibold inline-block min-w-[80px]">
@@ -168,7 +175,7 @@ const VotingTable = ({
               className={`px-4 py-2 rounded-lg font-medium transition-colors ${
                 currentPage === 1
                   ? "bg-gray-100 text-gray-400 cursor-not-allowed"
-                  : "bg-white border border-gray-300 text-gray-700 hover:bg-gray-50"
+                  : "bg-white border border-gray-300 text-gray-700 hover:bg-blue-50"
               }`}
             >
               Previous
@@ -189,8 +196,8 @@ const VotingTable = ({
                     onClick={() => handlePageChange(pageNum)}
                     className={`px-4 py-2 rounded-lg font-medium transition-colors ${
                       currentPage === pageNum
-                        ? "bg-orange-500 text-white"
-                        : "bg-white border border-gray-300 text-gray-700 hover:bg-gray-50"
+                        ? "bg-blue-700 text-white"
+                        : "bg-white border border-gray-300 text-gray-700 hover:bg-blue-50"
                     }`}
                   >
                     {pageNum}
@@ -205,7 +212,7 @@ const VotingTable = ({
               className={`px-4 py-2 rounded-lg font-medium transition-colors ${
                 currentPage === totalPages
                   ? "bg-gray-100 text-gray-400 cursor-not-allowed"
-                  : "bg-white border border-gray-300 text-gray-700 hover:bg-gray-50"
+                  : "bg-white border border-gray-300 text-gray-700 hover:bg-blue-50"
               }`}
             >
               Next
