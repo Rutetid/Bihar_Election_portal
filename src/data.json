@@ -1,0 +1,2082 @@
+[
+  {
+    "id": 1,
+    "name": "Muzaffarpur Institue Of Technology Brahampura, Purab Bhag",
+    "total_voters": 638
+  },
+  {
+    "id": 2,
+    "name": "Muzaffarpur Institue Of Technology Brahampura Uttar Bhag",
+    "total_voters": 629
+  },
+  {
+    "id": 3,
+    "name": "Muzaffarpur Institute Of Tecnalogy Brahmapura Madhya Bhag",
+    "total_voters": 712
+  },
+  {
+    "id": 4,
+    "name": "Muzaffarpur Institute Of Tecnalogy Brahmapura Dakshin Bhag",
+    "total_voters": 715
+  },
+  {
+    "id": 5,
+    "name": "Muzaffarpur Institute Of Technalogy, Brahmapura Paschim Bhag",
+    "total_voters": 707
+  },
+  {
+    "id": 6,
+    "name": "Muzaffarpur Institute Of Technalogy, Brahmapura Uttar Pashchimi Bhag",
+    "total_voters": 680
+  },
+  {
+    "id": 7,
+    "name": "Yantrik Karyalay, Rashtriya Uchcha Path Pariyojana Lok Nirman Vibhag Muzaffarpur Sikandarapur Kundal Pachhmi Bhag",
+    "total_voters": 572
+  },
+  {
+    "id": 8,
+    "name": "Yantrik Karyalay, Rashtriya Uchcha Path Pariyojana Lok Nirman Vibhag Muzaffarpur Sikandarapur Kundal Uttar Bhag",
+    "total_voters": 528
+  },
+  {
+    "id": 9,
+    "name": "Yantrik Karyalay, Rashtriya Uchcha Path Pariyojana Lok Nirman Vibhag Muzaffarpur Sikandarapur Kundal Purvi Bhag",
+    "total_voters": 591
+  },
+  {
+    "id": 10,
+    "name": "Yantrik Karyalay, Rashtriya Uchcha Path Pariyojana Lok Nirman Vibhag Muzaffarpur Sikandarapur Kundal Dakshin Bhag",
+    "total_voters": 591
+  },
+  {
+    "id": 11,
+    "name": "Ratri Pathashala, Brahmapura Daya Bhag",
+    "total_voters": 582
+  },
+  {
+    "id": 12,
+    "name": "Shahid Jubba Sahni Pustkalay Bhawan Brhampura Muzaffarpur",
+    "total_voters": 773
+  },
+  {
+    "id": 13,
+    "name": "Ratri Pathashala Brahmapura, Baya Bhag",
+    "total_voters": 665
+  },
+  {
+    "id": 14,
+    "name": "Ratri Pathashala Brahmapura, Purab Bhag",
+    "total_voters": 593
+  },
+  {
+    "id": 15,
+    "name": "Anirudda Lal Keshari Mitra Pustakalaya Brahmapura Uttar Bhag",
+    "total_voters": 785
+  },
+  {
+    "id": 16,
+    "name": "Anirudda Lal Keshari Mitra Pustakalaya Brahmapura Dakshin Bhag",
+    "total_voters": 570
+  },
+  {
+    "id": 17,
+    "name": "Rajkiye Madhya Vidhyalay Balak, Brahmapura Naka Baya Bhag",
+    "total_voters": 509
+  },
+  {
+    "id": 18,
+    "name": "Rajkiye Madhya Vidhyalay Balak, Brahmapura Naka Purab Bhag",
+    "total_voters": 481
+  },
+  {
+    "id": 19,
+    "name": "Asian Public School, Brahmapura, Purab Bhag",
+    "total_voters": 524
+  },
+  {
+    "id": 20,
+    "name": "Asian Public School, Brahmapura, Uttar Bhag",
+    "total_voters": 509
+  },
+  {
+    "id": 21,
+    "name": "Asian Public School, Brahampura Pashchim Bhag",
+    "total_voters": 798
+  },
+  {
+    "id": 22,
+    "name": "Rajkiye Madhya Vidhyalay, Laxmi Chowk Brahmapura, Uttar Bhag",
+    "total_voters": 554
+  },
+  {
+    "id": 23,
+    "name": "Rajkiye Madhya Vidhyalay, Laxmi Chowk Brahmapura, Purab Bhag",
+    "total_voters": 559
+  },
+  {
+    "id": 24,
+    "name": "Rajkiye Madhya Vidhyalay, Laxmi Chowk Brahmapura Dakshin Bhag",
+    "total_voters": 594
+  },
+  {
+    "id": 25,
+    "name": "Rajkiye Madhya Vidhyalay, Laxmi Chowk Brahmapura Paschim Bhag",
+    "total_voters": 590
+  },
+  {
+    "id": 26,
+    "name": "Madhya Vidhyalay, Daudapur, Muzaffarpur Uttar Bhag",
+    "total_voters": 639
+  },
+  {
+    "id": 27,
+    "name": "Madhya Vidhyalay, Daudapur, Muzaffarpur Paschim Bhag",
+    "total_voters": 625
+  },
+  {
+    "id": 28,
+    "name": "Madhya Vidhyalay, Daudapur Muzaffarpur, Dakshin Bhag",
+    "total_voters": 707
+  },
+  {
+    "id": 29,
+    "name": "Madhya Vidhyalay, Daudapur Muzaffarpur, Purab Madhya Bhag",
+    "total_voters": 720
+  },
+  {
+    "id": 30,
+    "name": "Madhya Vidhyalay, Daudapur Muzaffarpur, Purab Bhag",
+    "total_voters": 1014
+  },
+  {
+    "id": 31,
+    "name": "Rajkiya Madhya VidhyalayRailway Colony, Brahmapura, Daya Bhag",
+    "total_voters": 973
+  },
+  {
+    "id": 32,
+    "name": "Rajkiya Madhya Vidhyalay, Railway Colony, Brahmapura, Baya Bhag",
+    "total_voters": 667
+  },
+  {
+    "id": 33,
+    "name": "Rajkiye Madhya Vidhyalay Balak, Brahmapura Naka Daya Bhag",
+    "total_voters": 517
+  },
+  {
+    "id": 34,
+    "name": "Rajkiye Madhya Vidhyalay Balak, Brahmapura Naka Paschim Bhag",
+    "total_voters": 618
+  },
+  {
+    "id": 35,
+    "name": "Madhya Vidhyalay, Juran Chhapra, Muzaffarpur (Dakshin Bhag)",
+    "total_voters": 1105
+  },
+  {
+    "id": 36,
+    "name": "Madhya Vidhyalay Juran Chhapra Mazaffarpur Uttar Bhag",
+    "total_voters": 1012
+  },
+  {
+    "id": 37,
+    "name": "Madhya Vidhyalay, Juran Chhapra Ke Uttar Ka Bhawan Me Paschimi Bhag",
+    "total_voters": 518
+  },
+  {
+    "id": 38,
+    "name": "Madhya Vidhyalay, Juran Chhapra Paschimi Bhag",
+    "total_voters": 621
+  },
+  {
+    "id": 39,
+    "name": "Madhya Vidhyalay, Juran Chhapra Ke Uttar Bhawan Me Purab Bhag",
+    "total_voters": 636
+  },
+  {
+    "id": 40,
+    "name": "Madhya Vidhyalay, Juran Chhapra Purab Bhag",
+    "total_voters": 679
+  },
+  {
+    "id": 41,
+    "name": "Rajkiyakrit Balika Uchcha Vidhyalaya Juran Chharpra Uttar Bhag",
+    "total_voters": 504
+  },
+  {
+    "id": 42,
+    "name": "Rajkiyakrit Balika Uchcha Vidhyalaya Juran Chharpra Purab Bhag",
+    "total_voters": 475
+  },
+  {
+    "id": 43,
+    "name": "Rajkiyakrit Balika Uchcha Vidhyalaya Juran Chharpra Dakshin Bhag",
+    "total_voters": 895
+  },
+  {
+    "id": 44,
+    "name": "Sima Shulka Karyalya, Imalichatati Ovarabrij, Purab Bhag",
+    "total_voters": 824
+  },
+  {
+    "id": 45,
+    "name": "Sima Shulka Karyalya, Imalichatti Ovarabrij, Paschim Bhag",
+    "total_voters": 477
+  },
+  {
+    "id": 46,
+    "name": "Arabi collage, Brahmapura, Uttar Bhag",
+    "total_voters": 583
+  },
+  {
+    "id": 47,
+    "name": "Arabi collage, Brahmapura, Purab Bhag",
+    "total_voters": 638
+  },
+  {
+    "id": 48,
+    "name": "Arabi Kolej, Brahmapura, Dakshin Bhag",
+    "total_voters": 89
+  },
+  {
+    "id": 49,
+    "name": "Kshetriye Nideshak Tirhut pramandal Pashupalan Vibhag ka karyalay Brahmpura bibi ganj, uttar Bhag",
+    "total_voters": 768
+  },
+  {
+    "id": 50,
+    "name": "Lalit Narayan Mishra Bussiness Management College Purab Bhag",
+    "total_voters": 662
+  },
+  {
+    "id": 51,
+    "name": "Kshetriye Nideshak Tirhut Pramandal Pashupalan Vibhag ka karyalay, Brahmpura Bibi Ganj, Paschim Bhag",
+    "total_voters": 478
+  },
+  {
+    "id": 52,
+    "name": "Lalit Narayan Mishra Bussiness Management College Paschim Bhag",
+    "total_voters": 870
+  },
+  {
+    "id": 53,
+    "name": "Samudaik Bhawan, Chitrakut Nagar, B.B.Ganj Dakshin Bhag",
+    "total_voters": 623
+  },
+  {
+    "id": 54,
+    "name": "Samudaik Bhawan, Chitrakut Nagar, B.B.Ganj Purab Bhag",
+    "total_voters": 621
+  },
+  {
+    "id": 55,
+    "name": "Samudaik Bhawan, Chitrakut Nagar, B.B.Ganj Paschim Bhag",
+    "total_voters": 734
+  },
+  {
+    "id": 56,
+    "name": "Samudaik Bhawan, Chitrakut Nagar, B.B.Ganj Uttar Bhag",
+    "total_voters": 721
+  },
+  {
+    "id": 57,
+    "name": "Vidhut Vibhag, Madipur, Parisadan Rod",
+    "total_voters": 707
+  },
+  {
+    "id": 58,
+    "name": "Madarsa Tegiya Anwarul Ulum Chhapra Lodi Maripur",
+    "total_voters": 544
+  },
+  {
+    "id": 59,
+    "name": "Madarsa Tegiya Anwarul Ulum Chhapra Lodi Maripur Paschim Bhag",
+    "total_voters": 589
+  },
+  {
+    "id": 60,
+    "name": "Rajakiya Chitraguptapuri Madhya Vidhyalay, Madipur Daya Bhag",
+    "total_voters": 630
+  },
+  {
+    "id": 61,
+    "name": "Rajakiya Chitraguptapuri Madhya Vidhyalay, Madipur Baya Bhag",
+    "total_voters": 823
+  },
+  {
+    "id": 62,
+    "name": "Niteshwar Madhya Vidhyalay, Madipur, Baya Bhag",
+    "total_voters": 944
+  },
+  {
+    "id": 63,
+    "name": "Niteshwar Madhya Vidhyalay, Madipur, Madhya Bhag",
+    "total_voters": 918
+  },
+  {
+    "id": 64,
+    "name": "Niteshwar Madhya Vidhyalay, Madipur, Daya Bhag",
+    "total_voters": 786
+  },
+  {
+    "id": 65,
+    "name": "Niteshwar Madhya Vidhyalay, Madipur, Purab Bhag",
+    "total_voters": 514
+  },
+  {
+    "id": 66,
+    "name": "Karyalay Sahayak Vidut Abhiyanta, Vidhut Karyalay Madipur, Baya Bhag",
+    "total_voters": 598
+  },
+  {
+    "id": 67,
+    "name": "Karyalay Sahayak Vidut Abhiyanta, Vidhut Karyalay Madipur, Purab Bhag",
+    "total_voters": 605
+  },
+  {
+    "id": 68,
+    "name": "Karyalay Sahayak Vidhut Abhiyanta, Vidut Karyalay, Madipur, Daya Bhag",
+    "total_voters": 672
+  },
+  {
+    "id": 69,
+    "name": "Karyalay Sahayak Vidhut Abhiyanta, Vidut Karyalay, Madipur, Paschim Bhag",
+    "total_voters": 647
+  },
+  {
+    "id": 70,
+    "name": "Karyalya Karyapalk Abhiyanta Lok Nirman Vibhag, Madipur, Pashchim Bhag",
+    "total_voters": 686
+  },
+  {
+    "id": 71,
+    "name": "Karyalya Karyapalk Abhinyata Lok Nirman Vibhag, Madipur, Purwi Bhag",
+    "total_voters": 807
+  },
+  {
+    "id": 72,
+    "name": "Adhikshak Abhiyanta ka karyalay Rastriya uch path anchal maripur, pachami Bhag",
+    "total_voters": 582
+  },
+  {
+    "id": 73,
+    "name": "Adhikshan Abhiyanta ka karyalay Rastriya uch path Anchal Maripur, Purvi Bhag",
+    "total_voters": 403
+  },
+  {
+    "id": 74,
+    "name": "The Indian Prep. School Lenin Chowk Muzaffarpur",
+    "total_voters": 719
+  },
+  {
+    "id": 75,
+    "name": "Prabhat tara School, Chakkar Maidan Daya Bhag",
+    "total_voters": 780
+  },
+  {
+    "id": 76,
+    "name": "Prabhat tara School, Chakkar Maidan Baya Bhag",
+    "total_voters": 837
+  },
+  {
+    "id": 77,
+    "name": "Railway Prashikshan Kendar Chhatrawas, Batalar Ke Pass",
+    "total_voters": 727
+  },
+  {
+    "id": 78,
+    "name": "Madhya Vidhyalay, Saraiyaganj, Baink Road Saraiyaganj, Uttar Bhag",
+    "total_voters": 1178
+  },
+  {
+    "id": 79,
+    "name": "Madhya Vidhyalay, Saraiyaganj, Bank Road, Saraiyaganj Dakshin Bhag",
+    "total_voters": 784
+  },
+  {
+    "id": 80,
+    "name": "Kshetriy Prashikshan Mahavidhyalay, N.E.Railway, Company bagh, Karabala, Saraiyaganj, Uttar Bhag",
+    "total_voters": 1045
+  },
+  {
+    "id": 81,
+    "name": "Kshetriy Prashikshan Mahavidyalay, N.E.Railway, Kampanibag, Karabala, Saraiyaganj, Dakshin Bhag",
+    "total_voters": 953
+  },
+  {
+    "id": 82,
+    "name": "N.E.Railway Ka Manoranjan Bhavan, Relave Station Ke Dakshin, Muzaffarpur Daya Bhag",
+    "total_voters": 635
+  },
+  {
+    "id": 83,
+    "name": "Samudayik Bhawan, Ambedakar Nagar, Sikandarpur, Purwi Bhag",
+    "total_voters": 835
+  },
+  {
+    "id": 84,
+    "name": "Samudayik Bhavan Ambedkar Nagar Sikandarpur Paschim Bhag",
+    "total_voters": 758
+  },
+  {
+    "id": 85,
+    "name": "Rajkiye Parthmik Vidyalay Sikandarpur Mushar Ambedakarnagar Purwi Kshetra Muzaffarpur",
+    "total_voters": 597
+  },
+  {
+    "id": 86,
+    "name": "Rajkiye Parthmik Vidyalay Sikandarpur Mushar Ambedakarnagar Purwi Nagar Kshetra Muzaffarpur Purbi Bhag",
+    "total_voters": 551
+  },
+  {
+    "id": 87,
+    "name": "Sikandarpur Stadium, Kaimra Na. - 11",
+    "total_voters": 501
+  },
+  {
+    "id": 88,
+    "name": "Sikandarpur Stadium, Purvi Bhag",
+    "total_voters": 574
+  },
+  {
+    "id": 89,
+    "name": "Sikandarpur Stadium Kaimra Na. - 17",
+    "total_voters": 993
+  },
+  {
+    "id": 90,
+    "name": "Sikandarpur Stadium, Kamara Na. - 5",
+    "total_voters": 729
+  },
+  {
+    "id": 91,
+    "name": "Sikandarpur Stadium, Paschim Bhag",
+    "total_voters": 659
+  },
+  {
+    "id": 92,
+    "name": "Dakghar, Prabhat Zarda Factory, Akharaghat, Sinkandarapur",
+    "total_voters": 772
+  },
+  {
+    "id": 93,
+    "name": "Radha Devi Uchcha Vidyalaya, Sikandarpur, Madhya Bhag",
+    "total_voters": 655
+  },
+  {
+    "id": 94,
+    "name": "Radha Devi Uchcha Vidyalaya, Sikandarpur, Purab Bhag",
+    "total_voters": 661
+  },
+  {
+    "id": 95,
+    "name": "Radha Devi Uchcha Vidyalaya, Sikandarpur, Daya Bhag",
+    "total_voters": 455
+  },
+  {
+    "id": 96,
+    "name": "Radha Devi Uchcha Vidyalaya, Sikandarpur, Paschim Bhag",
+    "total_voters": 504
+  },
+  {
+    "id": 97,
+    "name": "Radha Devi Uchcha Vidyalay, Sikandarpur, Baya Bhag",
+    "total_voters": 579
+  },
+  {
+    "id": 98,
+    "name": "Radha Devi Uchcha Vidyalay, Sikandarpur, Dakshin Bhag",
+    "total_voters": 648
+  },
+  {
+    "id": 99,
+    "name": "Parathmik Vidyalay Karpuri Nagar Akharaghat Muzaffarpur Purab Bhag",
+    "total_voters": 755
+  },
+  {
+    "id": 100,
+    "name": "Parathmik Vidyalay Karpuri Nagar Akharaghat Muzaffarpur Paschim Bhag",
+    "total_voters": 717
+  },
+  {
+    "id": 101,
+    "name": "Parathmik Vidyalay Karpuri Nagar Akharaghat Muzaffarpur Dakshin Bhag",
+    "total_voters": 733
+  },
+  {
+    "id": 102,
+    "name": "Parathmik Vidyalay Karpuri Nagar Akharaghat Muzaffarpur Uttar Bhag",
+    "total_voters": 677
+  },
+  {
+    "id": 103,
+    "name": "Rajnarayan Singh College, Balughat, Purab Bhag",
+    "total_voters": 587
+  },
+  {
+    "id": 104,
+    "name": "Rajnarayan Singh College, Balughat, Purab Madhya Bhag",
+    "total_voters": 573
+  },
+  {
+    "id": 105,
+    "name": "Rajanrayan Singh Collage, Balughat, Pashchim Bhag",
+    "total_voters": 710
+  },
+  {
+    "id": 106,
+    "name": "Rajanrayan Singh Collage, Balughat, Pashchim Madhya Bhag",
+    "total_voters": 682
+  },
+  {
+    "id": 107,
+    "name": "Rajnarayan Singh Collage, Balughat, Uttar Bhag",
+    "total_voters": 1115
+  },
+  {
+    "id": 108,
+    "name": "Rajanarayan Singh college, Balughat, Dakshin Bhag",
+    "total_voters": 641
+  },
+  {
+    "id": 109,
+    "name": "Rajanarayan Singh college, Balughat, Dakshin Madhya Bhag",
+    "total_voters": 680
+  },
+  {
+    "id": 110,
+    "name": "Marawari Uchcha Vidhyalay, Chandawara, Pashchim Bhag",
+    "total_voters": 634
+  },
+  {
+    "id": 111,
+    "name": "Marawari Uchcha Vidhyalay, Chandawara, Pashchim Madhya Bhag",
+    "total_voters": 667
+  },
+  {
+    "id": 112,
+    "name": "Marwari Uchcha Vidhyalay, Chandawara, Uttar Bhag",
+    "total_voters": 715
+  },
+  {
+    "id": 113,
+    "name": "Marwari Uchcha Vidhyalay, Chandawara, Uttar Madhya Bhag",
+    "total_voters": 704
+  },
+  {
+    "id": 114,
+    "name": "Marwari Uchcha Vidhyalay, Chandavara, Dakshin Bhag",
+    "total_voters": 998
+  },
+  {
+    "id": 115,
+    "name": "Marawari Uchcha Vidhyalay, Chandavara, Purab Bhag",
+    "total_voters": 1170
+  },
+  {
+    "id": 116,
+    "name": "Prathamik Shikshak Sikhcha Mahavidyalay, Chandavara Purab Bhag",
+    "total_voters": 623
+  },
+  {
+    "id": 117,
+    "name": "Prathamik Shikshak Sikhcha Mahavidyalay, Chandavara Paschim Bhag",
+    "total_voters": 628
+  },
+  {
+    "id": 118,
+    "name": "Radha krishna Kediya Balika Uchcha Vidhyalay, Balughat, Paschim Bhag",
+    "total_voters": 621
+  },
+  {
+    "id": 119,
+    "name": "Radha krishna Kediya Balika Uchcha Vidhyalay, Balughat, Uttar Bhag",
+    "total_voters": 630
+  },
+  {
+    "id": 120,
+    "name": "Radha krishna Kediya Balika Uchcha Vidhyalay, Balughat, Pashchim Madhya Bhag",
+    "total_voters": 567
+  },
+  {
+    "id": 121,
+    "name": "Radha krishna Kediya Balika Uchcha Vidhyalay, Balughat, Uttar Madhya Bhag",
+    "total_voters": 571
+  },
+  {
+    "id": 122,
+    "name": "Radha krishna Kediya Balika Uchcha Vidyalay, Balughat, Purab Bhag",
+    "total_voters": 719
+  },
+  {
+    "id": 123,
+    "name": "Radha krishna Kediya Balika Uchcha Vidyalay, Balughat, Purab Madhya Bhag",
+    "total_voters": 712
+  },
+  {
+    "id": 124,
+    "name": "G D Mother International school, Akharaghat Road, Muzaffarpur,",
+    "total_voters": 609
+  },
+  {
+    "id": 125,
+    "name": "G D Mother International school, Akharaghat Road, Muzaffarpur Purab Bhag",
+    "total_voters": 605
+  },
+  {
+    "id": 126,
+    "name": "Mahila Shilp Kala Bhawan, Chandawara, Purab Bhag",
+    "total_voters": 658
+  },
+  {
+    "id": 127,
+    "name": "Mahila Shilp Kala Bhawan, Chandawara, Purab Madhya Bhag",
+    "total_voters": 663
+  },
+  {
+    "id": 128,
+    "name": "Mahila Shilpa Kala Bhawan, Chandawara, Pashchim Bhag",
+    "total_voters": 866
+  },
+  {
+    "id": 129,
+    "name": "Mahila Shilpa Kala Bhawan, Chandavara Madhya Bhag",
+    "total_voters": 617
+  },
+  {
+    "id": 130,
+    "name": "Mahila Shilpa Kala Bhawan, Chandavara Paschim Madhya Bhag",
+    "total_voters": 608
+  },
+  {
+    "id": 131,
+    "name": "Madhya Vidhyalay, Mahila Shilpakala Bhavan, Chandavara Purab Bhag",
+    "total_voters": 651
+  },
+  {
+    "id": 132,
+    "name": "Madhya Vidhyalay, Mahila Shilpakala Bhavan, Chandavara Paschim Bhag",
+    "total_voters": 646
+  },
+  {
+    "id": 133,
+    "name": "Shri Gandhi Pustakalay, Gola Road, Muzaffarpur",
+    "total_voters": 761
+  },
+  {
+    "id": 134,
+    "name": "Dwarikanath Uchcha Vidhyalay, Gola Road Madhya Bhag",
+    "total_voters": 640
+  },
+  {
+    "id": 135,
+    "name": "Dwarikanath Uchcha Vidhyalay, Gola Road Dakshin Bhag",
+    "total_voters": 647
+  },
+  {
+    "id": 136,
+    "name": "Vanijya Mahavidyalay, Ramabhajan Sah Market Gola Road, Nazirpur, Dakshin Bhag",
+    "total_voters": 658
+  },
+  {
+    "id": 137,
+    "name": "Vanijya Mahavidyalay, Ramabhajan Sah Market Gola Road, Nazirpur, Paschim Bhag",
+    "total_voters": 651
+  },
+  {
+    "id": 138,
+    "name": "Vanijya Mahavidyalay, Ramabhajan Shah Market, Gola Rod, Najirapur, Uttar Bhag",
+    "total_voters": 916
+  },
+  {
+    "id": 139,
+    "name": "Vanijya Mahavidyalay, Ramabhajan Shah Market, Gola Rod, Najirapur, Madhya Bhag",
+    "total_voters": 778
+  },
+  {
+    "id": 140,
+    "name": "Madhya Vidhyalay, Mahavir Sthan, Gola Rod Daya Bhag",
+    "total_voters": 958
+  },
+  {
+    "id": 141,
+    "name": "Adarsh Vidhya Mandir, Baink Rod Uttar Bhag",
+    "total_voters": 905
+  },
+  {
+    "id": 142,
+    "name": "Adarsh Vidhya Mandir Bank Raod Dakshin Bhag",
+    "total_voters": 622
+  },
+  {
+    "id": 143,
+    "name": "Madavari Dharmashala, Sutapatti, Purwi Bhag",
+    "total_voters": 981
+  },
+  {
+    "id": 144,
+    "name": "Madavari Dharmashala, Sutapatati, Pashchim Bhag",
+    "total_voters": 716
+  },
+  {
+    "id": 145,
+    "name": "Adarsh Vidhya Mandir, Saraiyaganj, Dakshin Bhag",
+    "total_voters": 712
+  },
+  {
+    "id": 146,
+    "name": "Adarsh Vidhya Mandir, Saraiyaganj, Uttar Bhag",
+    "total_voters": 584
+  },
+  {
+    "id": 147,
+    "name": "Adarsh Vidhya Mandir, Saraiyaganj, Paschim Bhag",
+    "total_voters": 759
+  },
+  {
+    "id": 148,
+    "name": "Anganvari Kendra, Durga Sthan, Gola Rod",
+    "total_voters": 918
+  },
+  {
+    "id": 149,
+    "name": "Dwarikanath Uchcha Vidhyalay, Gola Rod Purwi Bhag",
+    "total_voters": 978
+  },
+  {
+    "id": 150,
+    "name": "Dwarika Nath Uchcha Vidyalay, Gola Road, Pashchim Bhag",
+    "total_voters": 1012
+  },
+  {
+    "id": 151,
+    "name": "Baba Fathechandra Sangat Jiwit Samadhimath Barhamantoli Muzaffarpur ke Parisar Me Chalant Matdan Kendra Paschim Bhag Khata No.-402, Khesara No.-436 K. Kha Rakwa-0.0535he.",
+    "total_voters": 874
+  },
+  {
+    "id": 152,
+    "name": "Baba Fathechandra Sangat Jiwit Samadhimath Barhamantoli Muzaffarpur ke Parisar Me Chalant Matdan Kendra Purab Bhag Khata No.-402, Khesara No.-436 K. Kha Rakwa-0.0535he.",
+    "total_voters": 559
+  },
+  {
+    "id": 153,
+    "name": "Rajkiye Marwari Madhay Vidhalay Purani Bazar Nagar Kshetra Muzaffarpur Uttar Bhag",
+    "total_voters": 869
+  },
+  {
+    "id": 154,
+    "name": "Rajkiye Marwari Madhay Vidhalay Purani Bazar Nagar Kshetra Muzaffarpur Madhya Bhag",
+    "total_voters": 478
+  },
+  {
+    "id": 155,
+    "name": "Rajkiye Marwari Madhay Vidhalay Purani Bazar Nagar Kshetra Muzaffarpur Dakshin Bhag",
+    "total_voters": 625
+  },
+  {
+    "id": 156,
+    "name": "Chaturbhurj Ram Memorial Trust Sahu Road Dakshin Bhag",
+    "total_voters": 714
+  },
+  {
+    "id": 157,
+    "name": "Rajkiye Marwari Madhay Vidhalay Purani Bazar Nagar Kshetra Muzaffarpur Paschim Bhag",
+    "total_voters": 980
+  },
+  {
+    "id": 158,
+    "name": "Children Park, Sahu Road, Chalanta Matadan Kendra Khata No.-390 Khesara No.-345,346 Rakwa-0.0425 He. Purab Bhag",
+    "total_voters": 907
+  },
+  {
+    "id": 159,
+    "name": "Ramesh Rani Agrwal Balika Uchcha Vidhyalay Raguvansh Raod Raod Purab Bhag",
+    "total_voters": 968
+  },
+  {
+    "id": 160,
+    "name": "Madhya Vidhyalay, Gokhalepuri, Islamapur",
+    "total_voters": 660
+  },
+  {
+    "id": 161,
+    "name": "Madhya Vidhyalay, Gokhalepuri, Islamapur Muzaffarpur Purab Bhag",
+    "total_voters": 470
+  },
+  {
+    "id": 162,
+    "name": "B B Collegiate School, Motijheel, Purab Bhag",
+    "total_voters": 538
+  },
+  {
+    "id": 163,
+    "name": "B B Collegiate School, Motijheel, Paschim Bhag",
+    "total_voters": 959
+  },
+  {
+    "id": 164,
+    "name": "Dr. Ram Manohar Lohiya Smarak Collage, Divan Road, Uttar Bhag",
+    "total_voters": 843
+  },
+  {
+    "id": 165,
+    "name": "Dra. Ram Manohar Lohiya Smarak Collage, Divan Road, Madhya Bhag",
+    "total_voters": 707
+  },
+  {
+    "id": 166,
+    "name": "Dra. Ram Manohar Lohiya Smarak Collage, Diwan Road, Dakshin Bhag",
+    "total_voters": 621
+  },
+  {
+    "id": 167,
+    "name": "Da. Ram Manohar Lohiya Smarak College Deewan Road Dakschin Madhya Bhag",
+    "total_voters": 646
+  },
+  {
+    "id": 168,
+    "name": "Dr. Ram Manohar Lohiya Smarak collage, Diwan Rod, Purwi Bhag",
+    "total_voters": 479
+  },
+  {
+    "id": 169,
+    "name": "Dr Ram Manohar Lohiya Smarak collage, Diwan Road, Purwi Madhya Bhag",
+    "total_voters": 552
+  },
+  {
+    "id": 170,
+    "name": "Dr. Ram Manohar Lohiya Smarak collage, Diwan Road, Pashchim Bhag",
+    "total_voters": 766
+  },
+  {
+    "id": 171,
+    "name": "B.B Collegiate School Motijheel (Madhya Bhag)",
+    "total_voters": 811
+  },
+  {
+    "id": 172,
+    "name": "Government Polytechnic, Shyam Nandan Road, Naya Tola, Purab Bhag",
+    "total_voters": 758
+  },
+  {
+    "id": 173,
+    "name": "Government Polytechnic, Shyam Nandan Road, Naya Tola, Madhya Bhag",
+    "total_voters": 753
+  },
+  {
+    "id": 174,
+    "name": "Government Polytechnic, Shyam Nandan Road, Naya Tola Paschim Bhag",
+    "total_voters": 680
+  },
+  {
+    "id": 175,
+    "name": "Government Polytechnic, Shyam Nandan Road, Naya Tola Paschim Madhya Bhag",
+    "total_voters": 661
+  },
+  {
+    "id": 176,
+    "name": "Shatrudhan Devi Kanchan Devi Kanya Madhya Vidyalay, Chandralok Chowk, Naya Tola Daya Bhag",
+    "total_voters": 716
+  },
+  {
+    "id": 177,
+    "name": "Shatrudhan Devi Kanchan Devi Kanya Madhya Vidyalay, Chandralok Chowk, Naya Tola Baya Bhag",
+    "total_voters": 565
+  },
+  {
+    "id": 178,
+    "name": "Rajkiya urdu Prathmik Vidhalay saray saiyad alli nagar kshetra Purab Bhag",
+    "total_voters": 820
+  },
+  {
+    "id": 179,
+    "name": "Saray Saiyad Ali Balika Uchcha Vidyalay Damuchak Purab Bhag",
+    "total_voters": 818
+  },
+  {
+    "id": 180,
+    "name": "Saray Saiyad Ali Balika Uchcha Vidyalay Damuchak Purab Madhya Bhag",
+    "total_voters": 573
+  },
+  {
+    "id": 181,
+    "name": "Saray saiyad alli Balika uchch Vidyalay damuchak pachim bhag",
+    "total_voters": 759
+  },
+  {
+    "id": 182,
+    "name": "Makatab Chauk Abdul Vahid, Mazauliya, Purwi Bhag",
+    "total_voters": 885
+  },
+  {
+    "id": 183,
+    "name": "Makatab Chak Abdul Vahid, Mazauliya, Pashchim Bhag",
+    "total_voters": 521
+  },
+  {
+    "id": 184,
+    "name": "Makatab Chak Abdul Vahid, Mazauliya, Uttar Bhag",
+    "total_voters": 656
+  },
+  {
+    "id": 185,
+    "name": "Saray Saiyad Ali Balika Uchcha Vidyalay Damuchak Madhya Bhag",
+    "total_voters": 1026
+  },
+  {
+    "id": 186,
+    "name": "Avakari Godam, Damuchak, Purab Bhag",
+    "total_voters": 713
+  },
+  {
+    "id": 187,
+    "name": "Abakari Godam, Damuchak, Paschim Bhag",
+    "total_voters": 754
+  },
+  {
+    "id": 188,
+    "name": "Saray Saiyad Ali Balika Uchcha Vidyalay Damuchak Uttar Bhag",
+    "total_voters": 906
+  },
+  {
+    "id": 189,
+    "name": "Karyalay Mukhya Abhiyanta Sinchai Vibhag, Kalambag Road Muzaffarpur Dakshin Bhag",
+    "total_voters": 853
+  },
+  {
+    "id": 190,
+    "name": "Audyogik Prashikshan Sansthan, Gannipur Purab Bhag",
+    "total_voters": 1027
+  },
+  {
+    "id": 191,
+    "name": "S.K.J. Law College, Gannipur, Purwi Bhag",
+    "total_voters": 734
+  },
+  {
+    "id": 192,
+    "name": "S. K. J.Law. collage, Gannipur, Madhya Bhag",
+    "total_voters": 905
+  },
+  {
+    "id": 193,
+    "name": "S.K.J. Law.collage, Gannipur, Pashchim Bhag",
+    "total_voters": 596
+  },
+  {
+    "id": 194,
+    "name": "SK J. Law.collage, Gannipur, Pashchim Madhya Bhag",
+    "total_voters": 586
+  },
+  {
+    "id": 195,
+    "name": "Tirhut Academy, Aghoriya Bazar Chowk, Purab Bhag",
+    "total_voters": 741
+  },
+  {
+    "id": 196,
+    "name": "Tirhut Academy, Aghoriya Bazar Chauk, Uttar Bhag",
+    "total_voters": 527
+  },
+  {
+    "id": 197,
+    "name": "Tirahut Academy, Aghoriya Bazar Chowk, Pashchim Bhag",
+    "total_voters": 619
+  },
+  {
+    "id": 198,
+    "name": "Bhartiya Jeevan Bima nigam si.a.b.shakha hotal Ambedkar prisar kalambag Road muzaffarpur Uttar bhag",
+    "total_voters": 821
+  },
+  {
+    "id": 199,
+    "name": "Bhartiya Jeevan Bima nigam si.a.b.shakha hotal Ambedkar prisar kalambag Road muzaffarpur dakshani bhag",
+    "total_voters": 540
+  },
+  {
+    "id": 200,
+    "name": "Bhartiya Jeevan Bima nigam si.a.b.shakha hotal Ambedkar prisar kalambag Road muzaffarpur Purv bhag",
+    "total_voters": 1028
+  },
+  {
+    "id": 201,
+    "name": "Bhartiya jeevan Bima nigam si.a.b.shakha hotal Ambedkar prisar kalambag Road muzaffapur paschim Bhag",
+    "total_voters": 975
+  },
+  {
+    "id": 202,
+    "name": "Shram Niyojan Ev Prashikshan Vibhag, Karmachari Rajya Bima Chikitsalay, Mujafafarapur, Pankha Toli, Purab Bhag",
+    "total_voters": 995
+  },
+  {
+    "id": 203,
+    "name": "Shram Niyojan Ev Prashikshan Vibhag, Karmachari Rajya Bima Chikitsalay, Mujafafarapur, Pankha Toli, Paschim Bhag",
+    "total_voters": 426
+  },
+  {
+    "id": 204,
+    "name": "Madhya Vidhyalay, Amagola Pankha Toli, Purab Bhag",
+    "total_voters": 450
+  },
+  {
+    "id": 205,
+    "name": "Madhya Vidyalay Aamgola Pankha Toli Ke Parishar Me Chlant Matdan Kendar Purab Madhya Bhag",
+    "total_voters": 748
+  },
+  {
+    "id": 206,
+    "name": "Madhya Vidhyalay, Amagola Pankha Toli, Pschin Bhag",
+    "total_voters": 574
+  },
+  {
+    "id": 207,
+    "name": "Madhya Vidhyalay, Amagola Pankha Toli, Paschim Madhya Bhag",
+    "total_voters": 555
+  },
+  {
+    "id": 208,
+    "name": "Orient Club Ke Prangan Me Chalit Matdan Kendra, Uttar Bhag Khata No.- 621, Khesara No.-177, K, Rakwa-11224 He.",
+    "total_voters": 538
+  },
+  {
+    "id": 209,
+    "name": "Orient Club Ke Prangan Me Chalit Matdan Kendra, Uttar Madhya Bhag Khata No.-621, Khesara No.-177, K, Rakwa-11224 Не.",
+    "total_voters": 560
+  },
+  {
+    "id": 210,
+    "name": "Orient Club Ke Prangan Me Chalit Matdan Kendra, Dakschin Madhya Bhag Khata No.-621, Khesara No.-177, K, Rakwa-11224 Не.",
+    "total_voters": 1086
+  },
+  {
+    "id": 211,
+    "name": "Rajkiy Madhy Vidayalay Balak Sadpura Urdu Paschim Bhag",
+    "total_voters": 1171
+  },
+  {
+    "id": 212,
+    "name": "Rajkiy Madhy Vidayalay Balak Sadpura Urdu (Paschim Madhy Bhag)",
+    "total_voters": 669
+  },
+  {
+    "id": 213,
+    "name": "Rajkiy Madhy Vidayalay Balak Sadpura Urdu Purab Madhay Bhag",
+    "total_voters": 536
+  },
+  {
+    "id": 214,
+    "name": "Mukharji Seminari Harisabha Daya Bhag",
+    "total_voters": 665
+  },
+  {
+    "id": 215,
+    "name": "Mukharji Seminari Harisabha Baya Bhag",
+    "total_voters": 542
+  },
+  {
+    "id": 216,
+    "name": "Rajkiya Kanya Madhya Vidhyalay, Kalab Road",
+    "total_voters": 733
+  },
+  {
+    "id": 217,
+    "name": "Nitishwar Mahavidyalay, Club Road",
+    "total_voters": 794
+  },
+  {
+    "id": 218,
+    "name": "Madhya Vidhyalay, Harisabha Purab Bhag",
+    "total_voters": 545
+  },
+  {
+    "id": 219,
+    "name": "Madhya Vidhyalay, Harisabha Paschim Bhag",
+    "total_voters": 639
+  },
+  {
+    "id": 220,
+    "name": "Nagarapalika Workshop, Bahalakhana, Gudari Road Muzaffarpur Dakshin Bhag",
+    "total_voters": 585
+  },
+  {
+    "id": 221,
+    "name": "Nagarapalika Workshop, Bahalakhana, Gudari Road Muzaffarpur Paschim Bhag",
+    "total_voters": 704
+  },
+  {
+    "id": 222,
+    "name": "Nagarapalika Workshop, Bahalakhana, Gudari Road Muzaffarpur Uttar Bhag",
+    "total_voters": 1075
+  },
+  {
+    "id": 223,
+    "name": "Nagarapalika Workshop, Bahalakhana, Gudari Road Muzaffarpur Madhya Bhag",
+    "total_voters": 777
+  },
+  {
+    "id": 224,
+    "name": "Chaturbhuj Ram Memorial Trust, Sahu Rod, Purab Bhag",
+    "total_voters": 587
+  },
+  {
+    "id": 225,
+    "name": "Chaturbhuj Ram Memorial Trust, Sahu Road, Purab Madhya Bhag",
+    "total_voters": 579
+  },
+  {
+    "id": 226,
+    "name": "Chaturbhuj Ram Memorial Trust, Sahu Rod, Pashchim Bhag",
+    "total_voters": 806
+  },
+  {
+    "id": 227,
+    "name": "Chaturbhuj Ram Memorial Trust, Sahu Rod Uttar Bhag",
+    "total_voters": 884
+  },
+  {
+    "id": 228,
+    "name": "Thok Vastra Vikreta, Atithi Bhawan, Shukla Road, Dakshini Bhag",
+    "total_voters": 926
+  },
+  {
+    "id": 229,
+    "name": "Madarsa Bibi Sogara Data Kambal Shah Mazar Muslim Club Road",
+    "total_voters": 625
+  },
+  {
+    "id": 230,
+    "name": "Madarsa Bibi Sogara Data Kambal Shah Mazar Muslim Club Road Uttar Bhag",
+    "total_voters": 596
+  },
+  {
+    "id": 231,
+    "name": "Thok Vastra Vikreta, Atithi Bhawan Shukla Road, Uttar Bhag",
+    "total_voters": 779
+  },
+  {
+    "id": 232,
+    "name": "Muslim Club Pakki Saray Muzaffarpur Paschim Bhag",
+    "total_voters": 607
+  },
+  {
+    "id": 233,
+    "name": "Muslim Club Pakki Saray Muzaffarpur Purab Bhag",
+    "total_voters": 606
+  },
+  {
+    "id": 234,
+    "name": "Pani Tanki Karyalay, Jail Road, Chandwara, Purab Bhag",
+    "total_voters": 700
+  },
+  {
+    "id": 235,
+    "name": "Pani Tanki Karyalay, Jail Road, Chandwara, Uttar Bhag",
+    "total_voters": 698
+  },
+  {
+    "id": 236,
+    "name": "Pani Tanki Karyalay, Jail Road, Chandavara, Pashchim Bhag",
+    "total_voters": 932
+  },
+  {
+    "id": 237,
+    "name": "Rajkiya Prathamik Vidhyalay Chaturbhuj Sthan Nagar (1) Pakki Sarai Purab Bhag",
+    "total_voters": 890
+  },
+  {
+    "id": 238,
+    "name": "Rajkiya Prathamik Vidhyalay Chaturbhuj Sthan Nagar (1) Pakki Sarai Paschim Bhag",
+    "total_voters": 1000
+  },
+  {
+    "id": 239,
+    "name": "Madarasa Jame Ul Ulum, Chanwara",
+    "total_voters": 945
+  },
+  {
+    "id": 240,
+    "name": "Urdu Balika Uchcha Vidhyalay, Chandavara, Pakki Saray Purab Bhag",
+    "total_voters": 876
+  },
+  {
+    "id": 241,
+    "name": "Agni Shamak Karyalay, Nawav Road, Chandawara, Uttar Bhag",
+    "total_voters": 621
+  },
+  {
+    "id": 242,
+    "name": "Agni Shamak Karyalay, Nawav Road, Chandawara, Purab Bhag",
+    "total_voters": 611
+  },
+  {
+    "id": 243,
+    "name": "Agni Shamak Karyalay, Nawab Road, Chandwara, Dakshin Bhag",
+    "total_voters": 691
+  },
+  {
+    "id": 244,
+    "name": "Mahila Prathmik Shikshak Prashikshan Chandwara Dakshin bhag",
+    "total_voters": 680
+  },
+  {
+    "id": 245,
+    "name": "Urdu Madhya Vidhyalay, Chandwara, Mukarri Balak Muzaffarpur",
+    "total_voters": 1036
+  },
+  {
+    "id": 246,
+    "name": "Urdu Madhya Vidhyalay, Chandwara, Mukarri Balika Muzaffarpur",
+    "total_voters": 645
+  },
+  {
+    "id": 247,
+    "name": "Urdu Madhya Vidhyalay, Chandwara, Mukarri Kanya Muzaffarpur Purab Bhag",
+    "total_voters": 604
+  },
+  {
+    "id": 248,
+    "name": "Pani Kal Compound Jal Karya Vibhag Chandwara, Purab Bhag",
+    "total_voters": 907
+  },
+  {
+    "id": 249,
+    "name": "Pani Kal Kampaund, Jal Kary Vibhag, Chandwara, Ke Prangan Me Chalant Matdan Kendra Paschim Bhag Khata No.-601, Khesara No.-854 K, Kh, Rakwa- 0.0400 He0",
+    "total_voters": 418
+  },
+  {
+    "id": 250,
+    "name": "Pani Kal Kampaund, Jal Kary Vibhag, Chandwara, Ke Prangan Me Chalant Matdan Kendra Uttar Bhag Khata No.-601, Khesara No.-854 K, Kh, Rakwa- 0.0400 He0",
+    "total_voters": 514
+  },
+  {
+    "id": 251,
+    "name": "Pani Kal Kampaund, Jal Kary Vibhag, Chandwara, Ke Prangan Me Chalant Matdan Kendra Uttar Madhya Bhag Khata No.-601, Khesara No.-854 K, Kh, Rakwa-0.0400 He0",
+    "total_voters": 511
+  },
+  {
+    "id": 252,
+    "name": "Pani Kal Kampaund, Jal Kary Vibhag, Chandwara, Ke Prangan Me Chalant Matdan Kendra Dakshin Bhag Khata No.-601, Khesara No.-854 K,Kh, Rakwa- 0.0400 He0",
+    "total_voters": 837
+  },
+  {
+    "id": 253,
+    "name": "Madhya Vidhyalay, Malighat Daya Bhag",
+    "total_voters": 913
+  },
+  {
+    "id": 254,
+    "name": "Madhya Vidhyalay, Malighat Baya Bhag",
+    "total_voters": 920
+  },
+  {
+    "id": 255,
+    "name": "Rajkirt Tulasi Madhya Vidhyalay, Kalibari Road, Nagar Kshtra Muzaffarpur Purab Bhag",
+    "total_voters": 651
+  },
+  {
+    "id": 256,
+    "name": "Rajkirt Tulasi Madhya Vidhyalay, Kalibari Road, Nagar Kshtra Muzaffarpur Paschim Bhag",
+    "total_voters": 752
+  },
+  {
+    "id": 257,
+    "name": "Aweda Uchcha Vidhyalay, Tinkothiya Chandwara Purab Bhag",
+    "total_voters": 991
+  },
+  {
+    "id": 258,
+    "name": "Aweda Uchcha Vidhyalay, Tinkothiya Chandwara Madhya Bhag",
+    "total_voters": 627
+  },
+  {
+    "id": 259,
+    "name": "Aweda Uchcha Vidhyalay, Tinkothiya ChandwaraPaschim Bhag",
+    "total_voters": 618
+  },
+  {
+    "id": 260,
+    "name": "Aweda Uchcha Vidhyalay, Tinkothiya Chandwara Paschim Madhya Bhag",
+    "total_voters": 624
+  },
+  {
+    "id": 261,
+    "name": "Rajkirt Urdu Parthmik Vidhyalay, Kanhauli Dih Sanskirt College Road Muzaffarpur",
+    "total_voters": 653
+  },
+  {
+    "id": 262,
+    "name": "Rajkirt Urdu Parthmik Vidhyalay, Kanhauli Dih Sanskirt College Road Muzaffarpur Purab Bhag",
+    "total_voters": 619
+  },
+  {
+    "id": 263,
+    "name": "Rajkirt Tulasi Madhya Vidhyalay, Kalibari Road, Nagar Kshtra Muzaffarpur Uttar Paschim Bhag",
+    "total_voters": 703
+  },
+  {
+    "id": 264,
+    "name": "Rajkirt Tulasi Madhya Vidhyalay, Kalibari Road, Nagar Kshtra Muzaffarpur Uttar Dakshin Bhag",
+    "total_voters": 710
+  },
+  {
+    "id": 265,
+    "name": "Mahantha Sukhadev Das Uchcha Vidhyalay, Rambag Dakshin Bhag",
+    "total_voters": 670
+  },
+  {
+    "id": 266,
+    "name": "Mahantha Sukhadev Das Uchcha Vidhyalay, Rambag Uttar Bhag",
+    "total_voters": 574
+  },
+  {
+    "id": 267,
+    "name": "Nirala Niketan Parisar Chatarbhuj Asthan Muzaffarpur Purab Bhag",
+    "total_voters": 525
+  },
+  {
+    "id": 268,
+    "name": "Nirala Niketan Parisar Chatarbhuj Asthan Muzaffarpur Uttar Bhag",
+    "total_voters": 526
+  },
+  {
+    "id": 269,
+    "name": "Nirala Niketan Parisar Chatarbhuj Asthan Muzaffarpur Dakshin Bhag",
+    "total_voters": 541
+  },
+  {
+    "id": 270,
+    "name": "Mahila Prathmik Shikshak Prashikshan Mahavidyalay Rambag (Uttar Bhag)",
+    "total_voters": 885
+  },
+  {
+    "id": 271,
+    "name": "Mahila Prathmik Shikshak Prashikshan Mahavidyalay Rambag (Dakshin Bhag)",
+    "total_voters": 1167
+  },
+  {
+    "id": 272,
+    "name": "Karyalay Chhetriy Up-Nideshak, Swasthya Sewa, V. Pra. Muzaffarpur Kanhauli",
+    "total_voters": 897
+  },
+  {
+    "id": 273,
+    "name": "Kanhauli Prathamik Vidhyalay, Ramabag Daya Bhag",
+    "total_voters": 921
+  },
+  {
+    "id": 274,
+    "name": "Kanhauli Prathamik Vidhyalay, Ramabag Baya Bhag",
+    "total_voters": 1023
+  },
+  {
+    "id": 275,
+    "name": "Mahila Prathamik Shikshak Prashikshan Mahavidyalay, Rambag Purab Madhya Bhag",
+    "total_voters": 767
+  },
+  {
+    "id": 276,
+    "name": "Mahila Prathmik Shikshak Prashikshan Mahavidiyalay Rambag Paschim Bhag",
+    "total_voters": 758
+  },
+  {
+    "id": 277,
+    "name": "Zila School, Ramna",
+    "total_voters": 781
+  },
+  {
+    "id": 278,
+    "name": "Laghu Udhog Sewa Sansthan, Gosala Road, Mithanpura Uttar Bhag",
+    "total_voters": 689
+  },
+  {
+    "id": 279,
+    "name": "Laghu Udhog Sewa Sansthan, Gosala Road, Mithanpura Purab Bhag",
+    "total_voters": 695
+  },
+  {
+    "id": 280,
+    "name": "Laghu Udhog Sewa Sansthan, Gosala Road, Mithanpura Dakshin Bhag",
+    "total_voters": 1052
+  },
+  {
+    "id": 281,
+    "name": "Laghu Udhog Sewa Sansthan, Gosala Road, Mithanpura Madhya Dakshin Bhag",
+    "total_voters": 736
+  },
+  {
+    "id": 282,
+    "name": "Baba Saheb Bhim Rav Ambedakar Ratri Pathsala, Mithanpura Purab Bhag",
+    "total_voters": 1151
+  },
+  {
+    "id": 283,
+    "name": "Baba Saheb Bhim Rav Ambedakar Ratri Pathsala, Mithanpura Paschim Bhag",
+    "total_voters": 629
+  },
+  {
+    "id": 284,
+    "name": "Baba Saheb Bhim Rao Ambedakar Ratri Pathsala, Mithanapura ke Parisar Prangan Me Chalant Matdan Kendar Uttar Bhag Khata No.-06, Khesara No.- 330 A Rakwa-8 dicmel",
+    "total_voters": 924
+  },
+  {
+    "id": 285,
+    "name": "Baba Saheb Bhim Rao Ambedakar Ratri Pathsala, Mithanapura ke Parisar Me Chalant Matdan Kendar Dakshin Bhag khata 06 keshra 330 rakwa 8de.",
+    "total_voters": 868
+  },
+  {
+    "id": 286,
+    "name": "Mahantha Sukhadev Das Uchcha Vidhyalay, Rambag Purab Bhag",
+    "total_voters": 599
+  },
+  {
+    "id": 287,
+    "name": "Mahantha Sukhadev Das Uchcha Vidhyalay, Rambag Paschim Bhag",
+    "total_voters": 604
+  },
+  {
+    "id": 288,
+    "name": "Dharm Samaj Sanskrit Mahavidhyaly, Muzaffarpur, Uttar Bhag",
+    "total_voters": 692
+  },
+  {
+    "id": 289,
+    "name": "Dharm Samaj Sanskrit Mahavidhyaly, Muzaffarpur, Uttar Madhya Bhag",
+    "total_voters": 702
+  },
+  {
+    "id": 290,
+    "name": "Dharm Samaj Sanskrit Mahavidhyaly, Muzaffarpur, Purab Bhag",
+    "total_voters": 871
+  },
+  {
+    "id": 291,
+    "name": "Dharm Samaj Sanskrit Mahavidhyaly, Muzaffarpur, Purab Madhya Bhag",
+    "total_voters": 980
+  },
+  {
+    "id": 292,
+    "name": "Dharm Samaj Sanskrit Mahavidhyaly, Muzaffarpur, Dakshin Bhag",
+    "total_voters": 719
+  },
+  {
+    "id": 293,
+    "name": "Dharm Samaj Sanskrit Mahavidhyaly, Muzaffarpur, Dakshin Madhya Bhag",
+    "total_voters": 740
+  },
+  {
+    "id": 294,
+    "name": "Dharm Samaj Sanskrit Mahavidhyaly, Muzaffarpur, Paschim Bhag",
+    "total_voters": 742
+  },
+  {
+    "id": 295,
+    "name": "Dharm Samaj Sanskrit Mahavidhyaly, Muzaffarpur, Paschim Madhya Bhag",
+    "total_voters": 746
+  },
+  {
+    "id": 296,
+    "name": "Madhya Vidhyalay Nai Talim, Kanhauli, Khadi Bhandar Uttar Bhag",
+    "total_voters": 655
+  },
+  {
+    "id": 297,
+    "name": "Madhya Vidyalaya Nai Talim, Kanhauli Khadi Bhandar Ke Parisar Me Chalant Matdan Kendar Uttar Madhya Bhag",
+    "total_voters": 757
+  },
+  {
+    "id": 298,
+    "name": "Madhya Vidhyalay Nai Talim, Kanhauli, Khadi Bhandar Purab Bhag",
+    "total_voters": 515
+  },
+  {
+    "id": 299,
+    "name": "Madhya Vidyalaya Nai Talim, Kanhauli Khadi Bhandar Ke Parisar Me Chalant Matdan Kendar Purab Madhya Bhag",
+    "total_voters": 797
+  },
+  {
+    "id": 300,
+    "name": "Madhya Vidhyalay Nai Talim, Kanhauli, Khadi Bhandar Pashchimi Bhag",
+    "total_voters": 708
+  },
+  {
+    "id": 301,
+    "name": "Madhya Vidhyalay Nai Talim, Kanhauli, Khadi Bhandar Pashchimi Madhya Bhag",
+    "total_voters": 707
+  },
+  {
+    "id": 302,
+    "name": "Madhya Vidhyalay Nai Talim, Kanhauli, Khadi Bhandar Dakshin Bhag",
+    "total_voters": 654
+  },
+  {
+    "id": 303,
+    "name": "Madhya Vidhyalay Nai Talim, Kanhauli, Khadi Bhandar Dakshin Madhya Bhag",
+    "total_voters": 616
+  },
+  {
+    "id": 304,
+    "name": "Nitishawar Aruvedik Collage, AN M Training School, BavanBidha Kanhauli Vishundatta, Pashchami Bhag",
+    "total_voters": 1085
+  },
+  {
+    "id": 305,
+    "name": "Nitishawar Aruvedik Collage, A.N.M. Training School, Bavanbidha Kanhauli Vishundatta, Purav Bhag",
+    "total_voters": 678
+  },
+  {
+    "id": 306,
+    "name": "Nitishawar Aruvedik Collage, A.N.M. Training School, Bavanbidha Kanhauli Vishundatta, Purav Madhya Bhag",
+    "total_voters": 646
+  },
+  {
+    "id": 307,
+    "name": "Niteshawar Aruvedik Collage, A.N.M Trraining School, Bawan Bidha Kanhauli Vishundatta, Uttar Bhag",
+    "total_voters": 707
+  },
+  {
+    "id": 308,
+    "name": "Niteshawar Ayruvedik Collage, A.N.M Training School, Bawan Bidha Kanhauli Vishundatta, Dakshin Bhag",
+    "total_voters": 619
+  },
+  {
+    "id": 309,
+    "name": "Niteshawar Ayruvedik Collage, A.N.M Training School, Bawan Bidha Kanhauli Vishundatta, Dakshin Madhya Bhag",
+    "total_voters": 623
+  },
+  {
+    "id": 310,
+    "name": "Prathamik Vidhyalay, Kanhauli Vishundatta, Ajarkave Math Daya Bhag",
+    "total_voters": 1022
+  },
+  {
+    "id": 311,
+    "name": "Prathamik Vidhyalay, Kanhauli Vishundatta, Ajarkave Math Baya Bhag",
+    "total_voters": 693
+  },
+  {
+    "id": 312,
+    "name": "Rajkiye Madhya Vidhyalay, Mithanpura Hindi Muzaffarpur, Dakshin Bhag",
+    "total_voters": 934
+  },
+  {
+    "id": 313,
+    "name": "Rajkiye Madhya Vidhyalay, Mithanpura Hindi Muzaffarpur, Purab Bhag",
+    "total_voters": 938
+  },
+  {
+    "id": 314,
+    "name": "Rajkiye Madhya Vidhyalay, Mithanpura Hindi Muzaffarpur, Uttar Bhag",
+    "total_voters": 547
+  },
+  {
+    "id": 315,
+    "name": "Sanyukta Krishi Nideshak Ka Karyalay, Mithanpura, Muzaffarpur PaschimBhag",
+    "total_voters": 803
+  },
+  {
+    "id": 316,
+    "name": "Sanyukta Krishi Nideshak Ka Karyalaya, Mithanpura, Muzaffarpur Purab Bhag",
+    "total_voters": 726
+  },
+  {
+    "id": 317,
+    "name": "Sanyukta Krishi Nideshak Ka Karyalay, Mithanpura, Muzaffarpur Uttar Bhag",
+    "total_voters": 740
+  },
+  {
+    "id": 318,
+    "name": "Sanyukta Krishi Nideshak Ka Karyalaya, Mithanpura, Muzaffarpur Dakshin Bhag",
+    "total_voters": 745
+  },
+  {
+    "id": 319,
+    "name": "Madhya Vidyalay, Sadapur, Urdu Kanya Purab Bhag",
+    "total_voters": 723
+  },
+  {
+    "id": 320,
+    "name": "Madhya Vidyalay, Sadapur, Urdu Kanya Uttar Bhag",
+    "total_voters": 698
+  },
+  {
+    "id": 321,
+    "name": "Madhya Vidhyalay, Sadpura, Urdu Kanya Purab Madhya Bhag",
+    "total_voters": 751
+  },
+  {
+    "id": 322,
+    "name": "Madhya Vidhyalay, Sadpura, Urdu Kanya Dakshin Bhag",
+    "total_voters": 658
+  },
+  {
+    "id": 323,
+    "name": "Madhya Vidyalay, Sadpura, Urdu Kanya Paschim Madhya Bhag",
+    "total_voters": 743
+  },
+  {
+    "id": 324,
+    "name": "Madhya Vidyalay, Sadpura, Urdu Kanya Paschim Bhag",
+    "total_voters": 688
+  },
+  {
+    "id": 325,
+    "name": "Madhya Vidyalay Sadpura Urdu Kanya Dakshin Madhya Bhag",
+    "total_voters": 814
+  },
+  {
+    "id": 326,
+    "name": "Madhya Vidhyalay Sadpura Urdu Balak Purab Bhag",
+    "total_voters": 805
+  },
+  {
+    "id": 327,
+    "name": "Orient Club, Amgola, Uttar Bhag",
+    "total_voters": 579
+  },
+  {
+    "id": 328,
+    "name": "Orient Club, Amgola, Dakshin Bhag",
+    "total_voters": 602
+  },
+  {
+    "id": 329,
+    "name": "Orient Club Ke Prangan Me Chalit Matdan Kendra, Daya Bhag Khata No.- 621, Khesara No.-177, K, Rakwa-11224 He.",
+    "total_voters": 621
+  },
+  {
+    "id": 330,
+    "name": "Oriyanat Club Ke Prangan me Chalit Matdan Kendra, Baya Bhag Khata No.- 621, Khesara No.-177, K, Rakwa-11224 He.",
+    "total_voters": 514
+  },
+  {
+    "id": 331,
+    "name": "Ray Bahadur Tunaki Sah Homeopathic Mahavidhalay, Ramadyalu nagar, Uttar Bhag",
+    "total_voters": 1079
+  },
+  {
+    "id": 332,
+    "name": "Raybahadur Tunaki Sah Homeopathic Mahavidyalay Ramdayalu Nagar Dakshin Bhag",
+    "total_voters": 658
+  },
+  {
+    "id": 333,
+    "name": "Prathamik Vidhyalay, Ataradah, Uttar Bhag",
+    "total_voters": 988
+  },
+  {
+    "id": 334,
+    "name": "Prathamik Vidyalay Ataradah Uttar Purab Bhag",
+    "total_voters": 775
+  },
+  {
+    "id": 335,
+    "name": "Prathmik Vidylay, Atardah, Dakshin Bhag",
+    "total_voters": 853
+  },
+  {
+    "id": 336,
+    "name": "Prathamik Vidyalay Ataradah Dakschin Paschim Bhag",
+    "total_voters": 751
+  },
+  {
+    "id": 337,
+    "name": "Prathamik Vidhyalay, Ataradah, Madhya Bhag",
+    "total_voters": 825
+  },
+  {
+    "id": 338,
+    "name": "Prathamik Vidhyalay, Ataradah, Purab Bhag",
+    "total_voters": 578
+  },
+  {
+    "id": 339,
+    "name": "Karyalay Karypalak Aviyanta Gandak Project, Tirahut Pramandal, Sadpura, Pashchim Bhag",
+    "total_voters": 1127
+  },
+  {
+    "id": 340,
+    "name": "Karyalay Karyapalak Aviyanta Gandak Project, Tirahut Pramandal, Sadpura, Purab Bhag",
+    "total_voters": 1015
+  },
+  {
+    "id": 341,
+    "name": "Sichayi Vibhag Ka Nirikshan Bhawan Jenith Petrol Pump Ke Samne Aghoriya Bazaar Daya Bhag",
+    "total_voters": 868
+  },
+  {
+    "id": 342,
+    "name": "Sinchai Vibhag ka Nirikshan Bhavan Jenith Petrol Ke Bagal Me Ke samane Aghoriya Bazaar Baya Bhag",
+    "total_voters": 826
+  },
+  {
+    "id": 343,
+    "name": "Mushahar Vidhyalay, Milki Tola, Sadpura, Uttar Bhag",
+    "total_voters": 719
+  },
+  {
+    "id": 344,
+    "name": "Mushahar Vidhyalay, Milki Tola, Sadpura Ke Parisar Me Chalit Matdan Kendar Uttar Madhya Bhag",
+    "total_voters": 684
+  },
+  {
+    "id": 345,
+    "name": "Mushahar Vidhyalay, Milki Tola, Sadpura, Dakshin Bhag",
+    "total_voters": 986
+  },
+  {
+    "id": 346,
+    "name": "Madhay Vidhalay Mithanpura Urdu Daya Bhag",
+    "total_voters": 627
+  },
+  {
+    "id": 347,
+    "name": "Madhya Vidyalay Mithanpura Urdu Baya Bhag",
+    "total_voters": 976
+  },
+  {
+    "id": 348,
+    "name": "Samaj Bhawan, Bela Chhapara,",
+    "total_voters": 958
+  },
+  {
+    "id": 349,
+    "name": "Rajkiya Prathamik Vidhyalay Bela Muzaffarpur",
+    "total_voters": 693
+  },
+  {
+    "id": 350,
+    "name": "Rajkiya Prathamik Vidhyalay Bela Muzaffarpur Uttar Bhag",
+    "total_voters": 632
+  },
+  {
+    "id": 351,
+    "name": "Uttar Bihar Adhoyagik Kshetra Vikas Karyalay, Bela Purab Bhag",
+    "total_voters": 1072
+  },
+  {
+    "id": 352,
+    "name": "Uttar Bihar Adhyagik Ksheta Vikas Karyalay Bela Paschim Bhag",
+    "total_voters": 556
+  },
+  {
+    "id": 353,
+    "name": "Uttar Bihar Adhyagik Ksheta Vikas Karyalay Bela Uttar Bhag",
+    "total_voters": 603
+  },
+  {
+    "id": 354,
+    "name": "Vaishali Rural Business Management College, Mithanpura Lal, Purab Bhag",
+    "total_voters": 621
+  },
+  {
+    "id": 355,
+    "name": "Vaishali Rural Business Management College, Mithanpura Lal, Uttar Bhag",
+    "total_voters": 591
+  },
+  {
+    "id": 356,
+    "name": "Vaishali Rural Bijanes Mainejamenta Collage, Mithanpura Lala, Paschim Bhag",
+    "total_voters": 1127
+  },
+  {
+    "id": 357,
+    "name": "Uttkramit Madhyalay Kanhauli Azarkbe Rajput Tola",
+    "total_voters": 464
+  },
+  {
+    "id": 358,
+    "name": "Prathamik Vidhyalay, Patahi Rup Purab Bhag",
+    "total_voters": 869
+  },
+  {
+    "id": 359,
+    "name": "Prathmik Vidyalay Patahi Rup Paschim Bhag",
+    "total_voters": 832
+  },
+  {
+    "id": 360,
+    "name": "Balak Madhya Vidhyalay, Patahi Purab Bhag",
+    "total_voters": 938
+  },
+  {
+    "id": 361,
+    "name": "Balak Madhya Vidyalya Patahi Paschim Bhag",
+    "total_voters": 869
+  },
+  {
+    "id": 362,
+    "name": "Balika Madhya Vidhyalay, Patahi Purab Bhag",
+    "total_voters": 676
+  },
+  {
+    "id": 363,
+    "name": "Balika Madhya Vidhyalay, Patahi Paschim Bhag",
+    "total_voters": 616
+  },
+  {
+    "id": 364,
+    "name": "Prathamik Vidhyalay, Narayanpur, Patahi Purab Bhag",
+    "total_voters": 831
+  },
+  {
+    "id": 365,
+    "name": "Prathamik Vidyalay Narayanapur Patahi Paschim Bhag",
+    "total_voters": 768
+  },
+  {
+    "id": 366,
+    "name": "Prathamik Vidhyalay, Nayatola Patahi, Lahladpur Purab Bhag",
+    "total_voters": 701
+  },
+  {
+    "id": 367,
+    "name": "Prathamik Vidyalay nayatola Patahi Lahladapur Paschim Bhag",
+    "total_voters": 656
+  },
+  {
+    "id": 368,
+    "name": "Prathamik Vidhyalay, Methurapur",
+    "total_voters": 1117
+  },
+  {
+    "id": 369,
+    "name": "Uttkramit Madhya Vidhyalay, Bhagwanpur, Uttar Bhag",
+    "total_voters": 1078
+  },
+  {
+    "id": 370,
+    "name": "Uttkramit Madhya Vidhyalay, Bhagwanpur, Dakshin Bhag",
+    "total_voters": 627
+  },
+  {
+    "id": 371,
+    "name": "Mukhya Abhiyanta Ka Karyalya, Vidhut Apurti Vibhag, Bhagwanpur, Purab Bhag",
+    "total_voters": 753
+  },
+  {
+    "id": 372,
+    "name": "Mukhya Abhiyanta ka Karyalay Vidut Apurti Vibhag Bhagwanpur Purab Madhaya Bhag",
+    "total_voters": 845
+  },
+  {
+    "id": 373,
+    "name": "Mukhya Abhiyanta Ka Karyalay, Vidhut Apurti Vibhag, Bhagwanpur, Pashchim Bhag",
+    "total_voters": 782
+  },
+  {
+    "id": 374,
+    "name": "Mukhya Abhiyanta ka Karyalay Vidut Apurti Vibhag Bhagwanpur Pashchim Dakshin Bhag",
+    "total_voters": 727
+  },
+  {
+    "id": 375,
+    "name": "Mukhya Abhiyanta Ka Karyalya, Vidhut Apurti Vibhag, Bhagwanpur, Paschim Madhay Bhag",
+    "total_voters": 686
+  },
+  {
+    "id": 376,
+    "name": "Mukhya Abhiyanta Ka Karyalya, Vidhut Apurti Vibhag, Bhagwanpur, Paschim Purab Bhag",
+    "total_voters": 694
+  },
+  {
+    "id": 377,
+    "name": "Prathamik Vidhyalya, Yadav Tola, Pashchim Bhag",
+    "total_voters": 588
+  },
+  {
+    "id": 378,
+    "name": "Prathamik Vidhyalya, Yadav Tola Prangan Me Chalit Matdan Kendar Purab Madhya Bhag",
+    "total_voters": 584
+  },
+  {
+    "id": 379,
+    "name": "Prathamik Vidhyalay, Yadav Tola, Paschim Madhya Bhag",
+    "total_voters": 1031
+  },
+  {
+    "id": 380,
+    "name": "Prathamik Vidhyalay, Yadav Tola, Purab Bhag",
+    "total_voters": 971
+  },
+  {
+    "id": 381,
+    "name": "Prathamik Vidhyalay Yadav Tola Prangan Me Chalnat Matdan Kendar",
+    "total_voters": 1028
+  },
+  {
+    "id": 382,
+    "name": "Panchayat Bhavan, Bhagwanpur, Uttar Bhag",
+    "total_voters": 664
+  },
+  {
+    "id": 383,
+    "name": "Panchayat Bhavan, Bhagwanpur, Purab Bhag",
+    "total_voters": 605
+  },
+  {
+    "id": 384,
+    "name": "Panchayat Bhawan, Bhagwanpur, Madhya Bhag",
+    "total_voters": 888
+  },
+  {
+    "id": 385,
+    "name": "Uttakramit Madhya Vidhyalya, Bhagwanpur Ke Parisar Me C.R.C. Bhawan Bhagwanpur (Uttar Bhag)",
+    "total_voters": 1087
+  },
+  {
+    "id": 386,
+    "name": "Uttkramit Madhya Vidhyalay Bhagwanpur Ke Parisar me C. R. C.Bhawan Bhagwanpur Uttar Madhya Bhag",
+    "total_voters": 901
+  },
+  {
+    "id": 387,
+    "name": "Uttkramit Madhya Vidyalay, Bhagwanpur Ke Parisar Me C.R.C.Bhawan, Bhagwanpur, Dakshin Bhag",
+    "total_voters": 661
+  },
+  {
+    "id": 388,
+    "name": "Uttkramit Madhya Vidyalay, Bhagwanpur Ke Parisar Me C.R.C.Bhawan, Bhagwanpur, Dakshin Madhya Bhag",
+    "total_voters": 658
+  },
+  {
+    "id": 389,
+    "name": "Karypalak Abhiyanta Muzaffarpur, Pashchim Vidhut Apurti Vibhag, Bhagwanpur, Daya Bhag",
+    "total_voters": 604
+  },
+  {
+    "id": 390,
+    "name": "Karyapalak Abhiyanta Muzaffarpur Pashchim vidut Apurti Vibhag Bhagwanpur Baya Bhag",
+    "total_voters": 809
+  },
+  {
+    "id": 391,
+    "name": "Prathamik Vidhyalay, Madhubani Daya Bhag",
+    "total_voters": 952
+  },
+  {
+    "id": 392,
+    "name": "Uttkramit Madhya Vidhyalay Chausima, Uttar Bhag",
+    "total_voters": 705
+  },
+  {
+    "id": 393,
+    "name": "Utkramit Madhya Vidyalay, Chausima, Uttar Madhya Bhag",
+    "total_voters": 683
+  },
+  {
+    "id": 394,
+    "name": "Uttkramit Madhya Vidhyalay, Chausima, Dakshin Bhag",
+    "total_voters": 1021
+  },
+  {
+    "id": 395,
+    "name": "Uttkramit Madhya Vidhyalay Chausima Dakshin Madhya Bhag",
+    "total_voters": 1014
+  },
+  {
+    "id": 396,
+    "name": "Madhya Vidhyalay, Madapur Purab Bhag",
+    "total_voters": 713
+  },
+  {
+    "id": 397,
+    "name": "Madhya Vidhyalay, Madapur Paschim Bhag",
+    "total_voters": 666
+  },
+  {
+    "id": 398,
+    "name": "Madhya Vidhyalay, Pakari Ismail Uttar Bhag",
+    "total_voters": 949
+  },
+  {
+    "id": 399,
+    "name": "Madhya Vidhyalay, Pakari Ismail Dakshin Bhag",
+    "total_voters": 932
+  },
+  {
+    "id": 400,
+    "name": "Prathamik Vidhyalya, Gobrasahi, Uttar Bhag",
+    "total_voters": 1009
+  },
+  {
+    "id": 401,
+    "name": "Prathamik Vidhyalay Gobarsahi Purab Bhag",
+    "total_voters": 973
+  },
+  {
+    "id": 402,
+    "name": "Prathamik Vidhyalya, Gobrashi, Madhya Bhag",
+    "total_voters": 618
+  },
+  {
+    "id": 403,
+    "name": "Prathamik Vidhyalya, Gobrasahi, Purab Madhya Bhag",
+    "total_voters": 593
+  },
+  {
+    "id": 404,
+    "name": "Prathamik Vidhyalay, Gobarashi, Dakshin Bhag",
+    "total_voters": 772
+  },
+  {
+    "id": 405,
+    "name": "Prathamik Vidyalay, Gobarasahi Dakshin Madhya Bhag",
+    "total_voters": 763
+  },
+  {
+    "id": 406,
+    "name": "Prathamik Vidhyalay, Dumari, Purwi Bhag",
+    "total_voters": 1109
+  },
+  {
+    "id": 407,
+    "name": "Prathamik Vidhyalay, Dumari, Pashchimi Bhag",
+    "total_voters": 833
+  },
+  {
+    "id": 408,
+    "name": "Prathamik Vidyalay, Dumari Paschim Madhya Bhag",
+    "total_voters": 781
+  },
+  {
+    "id": 409,
+    "name": "Madhya Vidhyalay, Mazauliya, Uttar Bhag",
+    "total_voters": 961
+  },
+  {
+    "id": 410,
+    "name": "Madhya Vidhyalay Majhauliya, Paschim Bhag",
+    "total_voters": 857
+  },
+  {
+    "id": 411,
+    "name": "Mahesh Prasad Singh Science College Majhauliya, Muzaffarpur, Daya Bhag",
+    "total_voters": 664
+  },
+  {
+    "id": 412,
+    "name": "Mahesh Prasad Singh Science College Majhauliya, Muzaffarpur, Uttar Bhag",
+    "total_voters": 593
+  },
+  {
+    "id": 413,
+    "name": "Madhya Vidhyalay, Mazauliya, Madhya Dakshin Bhag",
+    "total_voters": 537
+  },
+  {
+    "id": 414,
+    "name": "Madhya Vidhyalay, Mazauliya, Dakshin Bhag",
+    "total_voters": 542
+  },
+  {
+    "id": 415,
+    "name": "Mahesh Prasad Singh Science College Majhauliya, Muzaffarpur, Baya Bhag",
+    "total_voters": 736
+  },
+  {
+    "id": 416,
+    "name": "Mahesh Prasad Singh Science College Majhauliya, Muzaffarpur, Dakshin Bhag",
+    "total_voters": 585
+  }
+]

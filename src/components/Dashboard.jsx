@@ -18,9 +18,15 @@ const Dashboard = () => {
     return time;
   });
   const [boothData] = useState(boothDataJson);
+  const [searchTerm, setSearchTerm] = useState("");
 
   const timeSlots = ["08:00", "10:00", "12:00", "14:00", "16:00", "18:00"];
   const timeLabels = ["8 AM", "10 AM", "12 PM", "2 PM", "4 PM", "6 PM"];
+
+  // Filter booths based on search term
+  const filteredBooths = boothData.filter((booth) =>
+    booth.name.toLowerCase().includes(searchTerm.toLowerCase())
+  );
 
   // Update current time every minute
   useEffect(() => {
@@ -115,6 +121,8 @@ const Dashboard = () => {
       <div className="mx-auto p-4">
         <Header currentTime={currentTime} />
 
+        {/* Search Bar */}
+
         <div>
           <p className="text-xs text-gray-500 text-end mb-5 pr-2">
             Last Updated:{" "}
@@ -128,16 +136,100 @@ const Dashboard = () => {
             })}
           </p>
         </div>
+        <div className="flex justify-between">
+          <div className=" mb-6">
+            <div className="relative">
+              <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none">
+                <svg
+                  className="w-5 h-5 text-gray-400"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
+                  />
+                </svg>
+              </div>
+              <input
+                type="text"
+                placeholder="Search by booth name... (e.g., Booth 001, Muzaffarpur)"
+                value={searchTerm}
+                onChange={(e) => setSearchTerm(e.target.value)}
+                className="w-full pl-12 pr-4 py-3 bg-white border-2 border-gray-200 rounded-xl text-base focus:outline-none focus:border-orange-500 transition-colors shadow-sm"
+              />
+              {searchTerm && (
+                <button
+                  onClick={() => setSearchTerm("")}
+                  className="absolute inset-y-0 right-4 flex items-center text-gray-400 hover:text-gray-600"
+                >
+                  <svg
+                    className="w-5 h-5"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M6 18L18 6M6 6l12 12"
+                    />
+                  </svg>
+                </button>
+              )}
+            </div>
+            {searchTerm && (
+              <p className="mt-2 text-sm text-gray-600 text-center">
+                Found {filteredBooths.length} booth
+                {filteredBooths.length !== 1 ? "s" : ""} matching "{searchTerm}"
+              </p>
+            )}
+          </div>
+          <StatusLegend />
+        </div>
 
-        <StatusLegend />
-
-        <VotingTable
-          boothData={boothData}
-          timeSlots={timeSlots}
-          timeLabels={timeLabels}
-          getCellStatus={getCellStatus}
-          getStatusColor={getStatusColor}
-        />
+        {filteredBooths.length > 0 ? (
+          <VotingTable
+            boothData={filteredBooths}
+            timeSlots={timeSlots}
+            timeLabels={timeLabels}
+            getCellStatus={getCellStatus}
+            getStatusColor={getStatusColor}
+          />
+        ) : (
+          <div className="bg-white rounded-xl shadow-sm border border-gray-200 p-12 text-center">
+            <svg
+              className="w-16 h-16 text-gray-300 mx-auto mb-4"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+              />
+            </svg>
+            <h3 className="text-xl font-semibold text-gray-700 mb-2">
+              No booths found
+            </h3>
+            <p className="text-gray-500">
+              No booths match your search "{searchTerm}". Try a different search
+              term.
+            </p>
+            <button
+              onClick={() => setSearchTerm("")}
+              className="mt-4 px-6 py-2 bg-orange-500 text-white rounded-lg font-medium hover:bg-orange-600 transition-colors"
+            >
+              Clear Search
+            </button>
+          </div>
+        )}
 
         {/* Footer */}
         <div className="text-center mt-8 text-gray-600">

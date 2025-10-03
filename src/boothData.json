@@ -1,37 +1,986 @@
 [
   {
     "id": 1,
-    "name": "Asian Public School",
-    "totalVoters": 892,
+    "name": "Muzaffarpur Institue Of Technology Brahampura, Purab Bhag",
+    "totalVoters": 638,
     "votes": {
-      "08:00": 145,
-      "10:00": 278,
-      "12:00": 356,
-      "14:00": 397,
+      "08:00": 87,
+      "10:00": 170,
+      "12:00": 238,
+      "14:00": 390,
       "16:00": null,
       "18:00": null
     }
   },
   {
     "id": 2,
-    "name": "Sima Shulka Karyalya",
-    "totalVoters": 1061,
+    "name": "Muzaffarpur Institue Of Technology Brahampura Uttar Bhag",
+    "totalVoters": 629,
     "votes": {
-      "08:00": 189,
-      "10:00": 287,
-      "12:00": 412,
-      "14:00": 490,
+      "08:00": 89,
+      "10:00": 155,
+      "12:00": 243,
+      "14:00": 421,
       "16:00": null,
       "18:00": null
     }
   },
   {
     "id": 3,
-    "name": "Arabi Kolej",
-    "totalVoters": 734,
+    "name": "Muzaffarpur Institute Of Tecnalogy Brahmapura Madhya Bhag",
+    "totalVoters": 712,
+    "votes": {
+      "08:00": 64,
+      "10:00": 195,
+      "12:00": 242,
+      "14:00": 409,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 4,
+    "name": "Muzaffarpur Institute Of Tecnalogy Brahmapura Dakshin Bhag",
+    "totalVoters": 715,
+    "votes": {
+      "08:00": 108,
+      "10:00": 156,
+      "12:00": 283,
+      "14:00": 447,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 5,
+    "name": "Muzaffarpur Institute Of Technalogy, Brahmapura Paschim Bhag",
+    "totalVoters": 707,
     "votes": {
       "08:00": 95,
-      "10:00": 176,
+      "10:00": 162,
+      "12:00": 288,
+      "14:00": 457,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 6,
+    "name": "Muzaffarpur Institute Of Technalogy, Brahmapura Uttar Pashchimi Bhag",
+    "totalVoters": 680,
+    "votes": {
+      "08:00": 78,
+      "10:00": 170,
+      "12:00": 254,
+      "14:00": 451,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 7,
+    "name": "Yantrik Karyalay, Rashtriya Uchcha Path Pariyojana Lok Nirman Vibhag Muzaffarpur Sikandarapur Kundal Pachhmi Bhag",
+    "totalVoters": 572,
+    "votes": {
+      "08:00": 73,
+      "10:00": 138,
+      "12:00": 218,
+      "14:00": 303,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 8,
+    "name": "Yantrik Karyalay, Rashtriya Uchcha Path Pariyojana Lok Nirman Vibhag Muzaffarpur Sikandarapur Kundal Uttar Bhag",
+    "totalVoters": 528,
+    "votes": {
+      "08:00": 37,
+      "10:00": 99,
+      "12:00": 170,
+      "14:00": 243,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 9,
+    "name": "Yantrik Karyalay, Rashtriya Uchcha Path Pariyojana Lok Nirman Vibhag Muzaffarpur Sikandarapur Kundal Purvi Bhag",
+    "totalVoters": 591,
+    "votes": {
+      "08:00": 68,
+      "10:00": 184,
+      "12:00": 284,
+      "14:00": 388,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 10,
+    "name": "Yantrik Karyalay, Rashtriya Uchcha Path Pariyojana Lok Nirman Vibhag Muzaffarpur Sikandarapur Kundal Dakshin Bhag",
+    "totalVoters": 591,
+    "votes": {
+      "08:00": 66,
+      "10:00": 154,
+      "12:00": 254,
+      "14:00": 357,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 11,
+    "name": "Ratri Pathashala, Brahmapura Daya Bhag",
+    "totalVoters": 582,
+    "votes": {
+      "08:00": 55,
+      "10:00": 153,
+      "12:00": 191,
+      "14:00": 325,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 12,
+    "name": "Shahid Jubba Sahni Pustkalay Bhawan Brhampura Muzaffarpur",
+    "totalVoters": 773,
+    "votes": {
+      "08:00": 80,
+      "10:00": 215,
+      "12:00": 314,
+      "14:00": 528,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 13,
+    "name": "Ratri Pathashala Brahmapura, Baya Bhag",
+    "totalVoters": 665,
+    "votes": {
+      "08:00": 72,
+      "10:00": 230,
+      "12:00": 264,
+      "14:00": 463,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 14,
+    "name": "Ratri Pathashala Brahmapura, Purab Bhag",
+    "totalVoters": 593,
+    "votes": {
+      "08:00": 75,
+      "10:00": 168,
+      "12:00": 242,
+      "14:00": 404,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 15,
+    "name": "Anirudda Lal Keshari Mitra Pustakalaya Brahmapura Uttar Bhag",
+    "totalVoters": 785,
+    "votes": {
+      "08:00": 86,
+      "10:00": 233,
+      "12:00": 375,
+      "14:00": 510,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 16,
+    "name": "Anirudda Lal Keshari Mitra Pustakalaya Brahmapura Dakshin Bhag",
+    "totalVoters": 570,
+    "votes": {
+      "08:00": 55,
+      "10:00": 141,
+      "12:00": 209,
+      "14:00": 301,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 17,
+    "name": "Rajkiye Madhya Vidhyalay Balak, Brahmapura Naka Baya Bhag",
+    "totalVoters": 509,
+    "votes": {
+      "08:00": 60,
+      "10:00": 139,
+      "12:00": 236,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 18,
+    "name": "Rajkiye Madhya Vidhyalay Balak, Brahmapura Naka Purab Bhag",
+    "totalVoters": 481,
+    "votes": {
+      "08:00": 74,
+      "10:00": 155,
+      "12:00": 207,
+      "14:00": 317,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 19,
+    "name": "Asian Public School, Brahmapura, Purab Bhag",
+    "totalVoters": 524,
+    "votes": {
+      "08:00": 48,
+      "10:00": 142,
+      "12:00": 229,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 20,
+    "name": "Asian Public School, Brahmapura, Uttar Bhag",
+    "totalVoters": 509,
+    "votes": {
+      "08:00": 63,
+      "10:00": 152,
+      "12:00": 251,
+      "14:00": 350,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 21,
+    "name": "Asian Public School, Brahampura Pashchim Bhag",
+    "totalVoters": 798,
+    "votes": {
+      "08:00": 68,
+      "10:00": 194,
+      "12:00": 243,
+      "14:00": 413,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 22,
+    "name": "Rajkiye Madhya Vidhyalay, Laxmi Chowk Brahmapura, Uttar Bhag",
+    "totalVoters": 554,
+    "votes": {
+      "08:00": 42,
+      "10:00": 126,
+      "12:00": 165,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 23,
+    "name": "Rajkiye Madhya Vidhyalay, Laxmi Chowk Brahmapura, Purab Bhag",
+    "totalVoters": 559,
+    "votes": {
+      "08:00": 91,
+      "10:00": 160,
+      "12:00": 216,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 24,
+    "name": "Rajkiye Madhya Vidhyalay, Laxmi Chowk Brahmapura Dakshin Bhag",
+    "totalVoters": 594,
+    "votes": {
+      "08:00": 76,
+      "10:00": 198,
+      "12:00": 282,
+      "14:00": 409,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 25,
+    "name": "Rajkiye Madhya Vidhyalay, Laxmi Chowk Brahmapura Paschim Bhag",
+    "totalVoters": 590,
+    "votes": {
+      "08:00": 66,
+      "10:00": 126,
+      "12:00": 174,
+      "14:00": 287,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 26,
+    "name": "Madhya Vidhyalay, Daudapur, Muzaffarpur Uttar Bhag",
+    "totalVoters": 639,
+    "votes": {
+      "08:00": 92,
+      "10:00": 183,
+      "12:00": 250,
+      "14:00": 400,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 27,
+    "name": "Madhya Vidhyalay, Daudapur, Muzaffarpur Paschim Bhag",
+    "totalVoters": 625,
+    "votes": {
+      "08:00": 48,
+      "10:00": 110,
+      "12:00": 173,
+      "14:00": 303,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 28,
+    "name": "Madhya Vidhyalay, Daudapur Muzaffarpur, Dakshin Bhag",
+    "totalVoters": 707,
+    "votes": {
+      "08:00": 94,
+      "10:00": 183,
+      "12:00": 282,
+      "14:00": 481,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 29,
+    "name": "Madhya Vidhyalay, Daudapur Muzaffarpur, Purab Madhya Bhag",
+    "totalVoters": 720,
+    "votes": {
+      "08:00": 77,
+      "10:00": 155,
+      "12:00": 261,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 30,
+    "name": "Madhya Vidhyalay, Daudapur Muzaffarpur, Purab Bhag",
+    "totalVoters": 1014,
+    "votes": {
+      "08:00": 108,
+      "10:00": 213,
+      "12:00": 347,
+      "14:00": 584,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 31,
+    "name": "Rajkiya Madhya VidhyalayRailway Colony, Brahmapura, Daya Bhag",
+    "totalVoters": 973,
+    "votes": {
+      "08:00": 107,
+      "10:00": 201,
+      "12:00": 341,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 32,
+    "name": "Rajkiya Madhya Vidhyalay, Railway Colony, Brahmapura, Baya Bhag",
+    "totalVoters": 667,
+    "votes": {
+      "08:00": 109,
+      "10:00": 156,
+      "12:00": 333,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 33,
+    "name": "Rajkiye Madhya Vidhyalay Balak, Brahmapura Naka Daya Bhag",
+    "totalVoters": 517,
+    "votes": {
+      "08:00": 66,
+      "10:00": 153,
+      "12:00": 188,
+      "14:00": 323,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 34,
+    "name": "Rajkiye Madhya Vidhyalay Balak, Brahmapura Naka Paschim Bhag",
+    "totalVoters": 618,
+    "votes": {
+      "08:00": 50,
+      "10:00": 142,
+      "12:00": 196,
+      "14:00": 333,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 35,
+    "name": "Madhya Vidhyalay, Juran Chhapra, Muzaffarpur (Dakshin Bhag)",
+    "totalVoters": 1105,
+    "votes": {
+      "08:00": 124,
+      "10:00": 260,
+      "12:00": 334,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 36,
+    "name": "Madhya Vidhyalay Juran Chhapra Mazaffarpur Uttar Bhag",
+    "totalVoters": 1012,
+    "votes": {
+      "08:00": 128,
+      "10:00": 302,
+      "12:00": 413,
+      "14:00": 609,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 37,
+    "name": "Madhya Vidhyalay, Juran Chhapra Ke Uttar Ka Bhawan Me Paschimi Bhag",
+    "totalVoters": 518,
+    "votes": {
+      "08:00": 53,
+      "10:00": 113,
+      "12:00": 176,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 38,
+    "name": "Madhya Vidhyalay, Juran Chhapra Paschimi Bhag",
+    "totalVoters": 621,
+    "votes": {
+      "08:00": 66,
+      "10:00": 148,
+      "12:00": 277,
+      "14:00": 380,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 39,
+    "name": "Madhya Vidhyalay, Juran Chhapra Ke Uttar Bhawan Me Purab Bhag",
+    "totalVoters": 636,
+    "votes": {
+      "08:00": 74,
+      "10:00": 131,
+      "12:00": 221,
+      "14:00": 306,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 40,
+    "name": "Madhya Vidhyalay, Juran Chhapra Purab Bhag",
+    "totalVoters": 679,
+    "votes": {
+      "08:00": 90,
+      "10:00": 182,
+      "12:00": 278,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 41,
+    "name": "Rajkiyakrit Balika Uchcha Vidhyalaya Juran Chharpra Uttar Bhag",
+    "totalVoters": 504,
+    "votes": {
+      "08:00": 78,
+      "10:00": 142,
+      "12:00": 231,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 42,
+    "name": "Rajkiyakrit Balika Uchcha Vidhyalaya Juran Chharpra Purab Bhag",
+    "totalVoters": 475,
+    "votes": {
+      "08:00": 40,
+      "10:00": 95,
+      "12:00": 131,
+      "14:00": 202,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 43,
+    "name": "Rajkiyakrit Balika Uchcha Vidhyalaya Juran Chharpra Dakshin Bhag",
+    "totalVoters": 895,
+    "votes": {
+      "08:00": 91,
+      "10:00": 273,
+      "12:00": 349,
+      "14:00": 581,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 44,
+    "name": "Sima Shulka Karyalya, Imalichatati Ovarabrij, Purab Bhag",
+    "totalVoters": 824,
+    "votes": {
+      "08:00": 78,
+      "10:00": 228,
+      "12:00": 332,
+      "14:00": 485,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 45,
+    "name": "Sima Shulka Karyalya, Imalichatti Ovarabrij, Paschim Bhag",
+    "totalVoters": 477,
+    "votes": {
+      "08:00": 34,
+      "10:00": 94,
+      "12:00": 168,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 46,
+    "name": "Arabi collage, Brahmapura, Uttar Bhag",
+    "totalVoters": 583,
+    "votes": {
+      "08:00": 55,
+      "10:00": 139,
+      "12:00": 247,
+      "14:00": 338,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 47,
+    "name": "Arabi collage, Brahmapura, Purab Bhag",
+    "totalVoters": 638,
+    "votes": {
+      "08:00": 96,
+      "10:00": 173,
+      "12:00": 271,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 48,
+    "name": "Arabi Kolej, Brahmapura, Dakshin Bhag",
+    "totalVoters": 89,
+    "votes": {
+      "08:00": 12,
+      "10:00": 23,
+      "12:00": 35,
+      "14:00": 55,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 49,
+    "name": "Kshetriye Nideshak Tirhut pramandal Pashupalan Vibhag ka karyalay Brahmpura bibi ganj, uttar Bhag",
+    "totalVoters": 768,
+    "votes": {
+      "08:00": 60,
+      "10:00": 157,
+      "12:00": 249,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 50,
+    "name": "Lalit Narayan Mishra Bussiness Management College Purab Bhag",
+    "totalVoters": 662,
+    "votes": {
+      "08:00": 59,
+      "10:00": 126,
+      "12:00": 213,
+      "14:00": 308,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 51,
+    "name": "Kshetriye Nideshak Tirhut Pramandal Pashupalan Vibhag ka karyalay, Brahmpura Bibi Ganj, Paschim Bhag",
+    "totalVoters": 478,
+    "votes": {
+      "08:00": 50,
+      "10:00": 90,
+      "12:00": 140,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 52,
+    "name": "Lalit Narayan Mishra Bussiness Management College Paschim Bhag",
+    "totalVoters": 870,
+    "votes": {
+      "08:00": 130,
+      "10:00": 223,
+      "12:00": 392,
+      "14:00": 540,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 53,
+    "name": "Samudaik Bhawan, Chitrakut Nagar, B.B.Ganj Dakshin Bhag",
+    "totalVoters": 623,
+    "votes": {
+      "08:00": 87,
+      "10:00": 180,
+      "12:00": 263,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 54,
+    "name": "Samudaik Bhawan, Chitrakut Nagar, B.B.Ganj Purab Bhag",
+    "totalVoters": 621,
+    "votes": {
+      "08:00": 69,
+      "10:00": 146,
+      "12:00": 210,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 55,
+    "name": "Samudaik Bhawan, Chitrakut Nagar, B.B.Ganj Paschim Bhag",
+    "totalVoters": 734,
+    "votes": {
+      "08:00": 93,
+      "10:00": 245,
+      "12:00": 343,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 56,
+    "name": "Samudaik Bhawan, Chitrakut Nagar, B.B.Ganj Uttar Bhag",
+    "totalVoters": 721,
+    "votes": {
+      "08:00": 68,
+      "10:00": 147,
+      "12:00": 222,
+      "14:00": 311,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 57,
+    "name": "Vidhut Vibhag, Madipur, Parisadan Rod",
+    "totalVoters": 707,
+    "votes": {
+      "08:00": 86,
+      "10:00": 163,
+      "12:00": 232,
+      "14:00": 349,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 58,
+    "name": "Madarsa Tegiya Anwarul Ulum Chhapra Lodi Maripur",
+    "totalVoters": 544,
+    "votes": {
+      "08:00": 63,
+      "10:00": 146,
+      "12:00": 219,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 59,
+    "name": "Madarsa Tegiya Anwarul Ulum Chhapra Lodi Maripur Paschim Bhag",
+    "totalVoters": 589,
+    "votes": {
+      "08:00": 48,
+      "10:00": 129,
+      "12:00": 196,
+      "14:00": 314,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 60,
+    "name": "Rajakiya Chitraguptapuri Madhya Vidhyalay, Madipur Daya Bhag",
+    "totalVoters": 630,
+    "votes": {
+      "08:00": 76,
+      "10:00": 166,
+      "12:00": 205,
+      "14:00": 342,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 61,
+    "name": "Rajakiya Chitraguptapuri Madhya Vidhyalay, Madipur Baya Bhag",
+    "totalVoters": 823,
+    "votes": {
+      "08:00": 128,
+      "10:00": 255,
+      "12:00": 374,
+      "14:00": 523,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 62,
+    "name": "Niteshwar Madhya Vidhyalay, Madipur, Baya Bhag",
+    "totalVoters": 944,
+    "votes": {
+      "08:00": 113,
+      "10:00": 204,
+      "12:00": 310,
+      "14:00": 499,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 63,
+    "name": "Niteshwar Madhya Vidhyalay, Madipur, Madhya Bhag",
+    "totalVoters": 918,
+    "votes": {
+      "08:00": 80,
+      "10:00": 225,
+      "12:00": 332,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 64,
+    "name": "Niteshwar Madhya Vidhyalay, Madipur, Daya Bhag",
+    "totalVoters": 786,
+    "votes": {
+      "08:00": 73,
+      "10:00": 222,
+      "12:00": 284,
+      "14:00": 485,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 65,
+    "name": "Niteshwar Madhya Vidhyalay, Madipur, Purab Bhag",
+    "totalVoters": 514,
+    "votes": {
+      "08:00": 79,
+      "10:00": 143,
+      "12:00": 256,
+      "14:00": 351,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 66,
+    "name": "Karyalay Sahayak Vidut Abhiyanta, Vidhut Karyalay Madipur, Baya Bhag",
+    "totalVoters": 598,
+    "votes": {
+      "08:00": 98,
+      "10:00": 190,
+      "12:00": 293,
+      "14:00": 397,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 67,
+    "name": "Karyalay Sahayak Vidut Abhiyanta, Vidhut Karyalay Madipur, Purab Bhag",
+    "totalVoters": 605,
+    "votes": {
+      "08:00": 55,
+      "10:00": 144,
+      "12:00": 193,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 68,
+    "name": "Karyalay Sahayak Vidhut Abhiyanta, Vidut Karyalay, Madipur, Daya Bhag",
+    "totalVoters": 672,
+    "votes": {
+      "08:00": 85,
+      "10:00": 180,
+      "12:00": 268,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 69,
+    "name": "Karyalay Sahayak Vidhut Abhiyanta, Vidut Karyalay, Madipur, Paschim Bhag",
+    "totalVoters": 647,
+    "votes": {
+      "08:00": 51,
+      "10:00": 111,
+      "12:00": 179,
+      "14:00": 275,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 70,
+    "name": "Karyalya Karyapalk Abhiyanta Lok Nirman Vibhag, Madipur, Pashchim Bhag",
+    "totalVoters": 686,
+    "votes": {
+      "08:00": 97,
+      "10:00": 222,
+      "12:00": 347,
+      "14:00": 471,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 71,
+    "name": "Karyalya Karyapalk Abhinyata Lok Nirman Vibhag, Madipur, Purwi Bhag",
+    "totalVoters": 807,
+    "votes": {
+      "08:00": 109,
+      "10:00": 202,
+      "12:00": 311,
+      "14:00": 537,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 72,
+    "name": "Adhikshak Abhiyanta ka karyalay Rastriya uch path anchal maripur, pachami Bhag",
+    "totalVoters": 582,
+    "votes": {
+      "08:00": 47,
+      "10:00": 139,
+      "12:00": 180,
+      "14:00": 288,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 73,
+    "name": "Adhikshan Abhiyanta ka karyalay Rastriya uch path Anchal Maripur, Purvi Bhag",
+    "totalVoters": 403,
+    "votes": {
+      "08:00": 42,
+      "10:00": 130,
+      "12:00": 203,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 74,
+    "name": "The Indian Prep. School Lenin Chowk Muzaffarpur",
+    "totalVoters": 719,
+    "votes": {
+      "08:00": 64,
+      "10:00": 194,
+      "12:00": 275,
+      "14:00": 423,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 75,
+    "name": "Prabhat tara School, Chakkar Maidan Daya Bhag",
+    "totalVoters": 780,
+    "votes": {
+      "08:00": 87,
+      "10:00": 252,
+      "12:00": 331,
+      "14:00": 518,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 76,
+    "name": "Prabhat tara School, Chakkar Maidan Baya Bhag",
+    "totalVoters": 837,
+    "votes": {
+      "08:00": 65,
+      "10:00": 137,
       "12:00": 254,
       "14:00": null,
       "16:00": null,
@@ -39,25 +988,1624 @@
     }
   },
   {
-    "id": 4,
-    "name": "Samudaik Bhawan",
-    "totalVoters": 1189,
+    "id": 77,
+    "name": "Railway Prashikshan Kendar Chhatrawas, Batalar Ke Pass",
+    "totalVoters": 727,
     "votes": {
-      "08:00": 167,
-      "10:00": 298,
-      "12:00": 445,
+      "08:00": 86,
+      "10:00": 146,
+      "12:00": 199,
+      "14:00": 362,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 78,
+    "name": "Madhya Vidhyalay, Saraiyaganj, Baink Road Saraiyaganj, Uttar Bhag",
+    "totalVoters": 1178,
+    "votes": {
+      "08:00": 106,
+      "10:00": 258,
+      "12:00": 461,
+      "14:00": 659,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 79,
+    "name": "Madhya Vidhyalay, Saraiyaganj, Bank Road, Saraiyaganj Dakshin Bhag",
+    "totalVoters": 784,
+    "votes": {
+      "08:00": 82,
+      "10:00": 240,
+      "12:00": 307,
+      "14:00": 502,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 80,
+    "name": "Kshetriy Prashikshan Mahavidhyalay, N.E.Railway, Company bagh, Karabala, Saraiyaganj, Uttar Bhag",
+    "totalVoters": 1045,
+    "votes": {
+      "08:00": 107,
+      "10:00": 235,
+      "12:00": 335,
       "14:00": null,
       "16:00": null,
       "18:00": null
     }
   },
   {
-    "id": 5,
-    "name": "Vidhut Vibhag",
-    "totalVoters": 823,
+    "id": 81,
+    "name": "Kshetriy Prashikshan Mahavidyalay, N.E.Railway, Kampanibag, Karabala, Saraiyaganj, Dakshin Bhag",
+    "totalVoters": 953,
+    "votes": {
+      "08:00": 119,
+      "10:00": 239,
+      "12:00": 341,
+      "14:00": 612,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 82,
+    "name": "N.E.Railway Ka Manoranjan Bhavan, Relave Station Ke Dakshin, Muzaffarpur Daya Bhag",
+    "totalVoters": 635,
+    "votes": {
+      "08:00": 43,
+      "10:00": 103,
+      "12:00": 178,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 83,
+    "name": "Samudayik Bhawan, Ambedakar Nagar, Sikandarpur, Purwi Bhag",
+    "totalVoters": 835,
+    "votes": {
+      "08:00": 94,
+      "10:00": 143,
+      "12:00": 264,
+      "14:00": 380,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 84,
+    "name": "Samudayik Bhavan Ambedkar Nagar Sikandarpur Paschim Bhag",
+    "totalVoters": 758,
+    "votes": {
+      "08:00": 51,
+      "10:00": 148,
+      "12:00": 229,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 85,
+    "name": "Rajkiye Parthmik Vidyalay Sikandarpur Mushar Ambedakarnagar Purwi Kshetra Muzaffarpur",
+    "totalVoters": 597,
+    "votes": {
+      "08:00": 79,
+      "10:00": 131,
+      "12:00": 252,
+      "14:00": 359,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 86,
+    "name": "Rajkiye Parthmik Vidyalay Sikandarpur Mushar Ambedakarnagar Purwi Nagar Kshetra Muzaffarpur Purbi Bhag",
+    "totalVoters": 551,
+    "votes": {
+      "08:00": 39,
+      "10:00": 115,
+      "12:00": 147,
+      "14:00": 253,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 87,
+    "name": "Sikandarpur Stadium, Kaimra Na. - 11",
+    "totalVoters": 501,
+    "votes": {
+      "08:00": 41,
+      "10:00": 98,
+      "12:00": 158,
+      "14:00": 241,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 88,
+    "name": "Sikandarpur Stadium, Purvi Bhag",
+    "totalVoters": 574,
+    "votes": {
+      "08:00": 67,
+      "10:00": 141,
+      "12:00": 211,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 89,
+    "name": "Sikandarpur Stadium Kaimra Na. - 17",
+    "totalVoters": 993,
+    "votes": {
+      "08:00": 101,
+      "10:00": 191,
+      "12:00": 274,
+      "14:00": 447,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 90,
+    "name": "Sikandarpur Stadium, Kamara Na. - 5",
+    "totalVoters": 729,
+    "votes": {
+      "08:00": 110,
+      "10:00": 199,
+      "12:00": 286,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 91,
+    "name": "Sikandarpur Stadium, Paschim Bhag",
+    "totalVoters": 659,
+    "votes": {
+      "08:00": 80,
+      "10:00": 186,
+      "12:00": 223,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 92,
+    "name": "Dakghar, Prabhat Zarda Factory, Akharaghat, Sinkandarapur",
+    "totalVoters": 772,
+    "votes": {
+      "08:00": 77,
+      "10:00": 141,
+      "12:00": 220,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 93,
+    "name": "Radha Devi Uchcha Vidyalaya, Sikandarpur, Madhya Bhag",
+    "totalVoters": 655,
+    "votes": {
+      "08:00": 52,
+      "10:00": 133,
+      "12:00": 214,
+      "14:00": 332,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 94,
+    "name": "Radha Devi Uchcha Vidyalaya, Sikandarpur, Purab Bhag",
+    "totalVoters": 661,
+    "votes": {
+      "08:00": 64,
+      "10:00": 173,
+      "12:00": 250,
+      "14:00": 362,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 95,
+    "name": "Radha Devi Uchcha Vidyalaya, Sikandarpur, Daya Bhag",
+    "totalVoters": 455,
+    "votes": {
+      "08:00": 60,
+      "10:00": 104,
+      "12:00": 171,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 96,
+    "name": "Radha Devi Uchcha Vidyalaya, Sikandarpur, Paschim Bhag",
+    "totalVoters": 504,
+    "votes": {
+      "08:00": 79,
+      "10:00": 149,
+      "12:00": 237,
+      "14:00": 348,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 97,
+    "name": "Radha Devi Uchcha Vidyalay, Sikandarpur, Baya Bhag",
+    "totalVoters": 579,
+    "votes": {
+      "08:00": 51,
+      "10:00": 109,
+      "12:00": 175,
+      "14:00": 291,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 98,
+    "name": "Radha Devi Uchcha Vidyalay, Sikandarpur, Dakshin Bhag",
+    "totalVoters": 648,
+    "votes": {
+      "08:00": 49,
+      "10:00": 108,
+      "12:00": 186,
+      "14:00": 272,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 99,
+    "name": "Parathmik Vidyalay Karpuri Nagar Akharaghat Muzaffarpur Purab Bhag",
+    "totalVoters": 755,
+    "votes": {
+      "08:00": 61,
+      "10:00": 191,
+      "12:00": 273,
+      "14:00": 405,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 100,
+    "name": "Parathmik Vidyalay Karpuri Nagar Akharaghat Muzaffarpur Paschim Bhag",
+    "totalVoters": 717,
+    "votes": {
+      "08:00": 86,
+      "10:00": 155,
+      "12:00": 194,
+      "14:00": 346,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 101,
+    "name": "Parathmik Vidyalay Karpuri Nagar Akharaghat Muzaffarpur Dakshin Bhag",
+    "totalVoters": 733,
+    "votes": {
+      "08:00": 68,
+      "10:00": 146,
+      "12:00": 259,
+      "14:00": 416,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 102,
+    "name": "Parathmik Vidyalay Karpuri Nagar Akharaghat Muzaffarpur Uttar Bhag",
+    "totalVoters": 677,
+    "votes": {
+      "08:00": 50,
+      "10:00": 117,
+      "12:00": 201,
+      "14:00": 291,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 103,
+    "name": "Rajnarayan Singh College, Balughat, Purab Bhag",
+    "totalVoters": 587,
+    "votes": {
+      "08:00": 91,
+      "10:00": 135,
+      "12:00": 215,
+      "14:00": 368,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 104,
+    "name": "Rajnarayan Singh College, Balughat, Purab Madhya Bhag",
+    "totalVoters": 573,
+    "votes": {
+      "08:00": 66,
+      "10:00": 113,
+      "12:00": 174,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 105,
+    "name": "Rajanrayan Singh Collage, Balughat, Pashchim Bhag",
+    "totalVoters": 710,
+    "votes": {
+      "08:00": 101,
+      "10:00": 173,
+      "12:00": 304,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 106,
+    "name": "Rajanrayan Singh Collage, Balughat, Pashchim Madhya Bhag",
+    "totalVoters": 682,
+    "votes": {
+      "08:00": 79,
+      "10:00": 173,
+      "12:00": 233,
+      "14:00": 358,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 107,
+    "name": "Rajnarayan Singh Collage, Balughat, Uttar Bhag",
+    "totalVoters": 1115,
+    "votes": {
+      "08:00": 78,
+      "10:00": 230,
+      "12:00": 380,
+      "14:00": 516,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 108,
+    "name": "Rajanarayan Singh college, Balughat, Dakshin Bhag",
+    "totalVoters": 641,
+    "votes": {
+      "08:00": 43,
+      "10:00": 131,
+      "12:00": 194,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 109,
+    "name": "Rajanarayan Singh college, Balughat, Dakshin Madhya Bhag",
+    "totalVoters": 680,
+    "votes": {
+      "08:00": 50,
+      "10:00": 104,
+      "12:00": 195,
+      "14:00": 297,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 110,
+    "name": "Marawari Uchcha Vidhyalay, Chandawara, Pashchim Bhag",
+    "totalVoters": 634,
+    "votes": {
+      "08:00": 82,
+      "10:00": 175,
+      "12:00": 224,
+      "14:00": 362,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 111,
+    "name": "Marawari Uchcha Vidhyalay, Chandawara, Pashchim Madhya Bhag",
+    "totalVoters": 667,
+    "votes": {
+      "08:00": 72,
+      "10:00": 137,
+      "12:00": 210,
+      "14:00": 336,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 112,
+    "name": "Marwari Uchcha Vidhyalay, Chandawara, Uttar Bhag",
+    "totalVoters": 715,
+    "votes": {
+      "08:00": 53,
+      "10:00": 146,
+      "12:00": 252,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 113,
+    "name": "Marwari Uchcha Vidhyalay, Chandawara, Uttar Madhya Bhag",
+    "totalVoters": 704,
+    "votes": {
+      "08:00": 100,
+      "10:00": 218,
+      "12:00": 249,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 114,
+    "name": "Marwari Uchcha Vidhyalay, Chandavara, Dakshin Bhag",
+    "totalVoters": 998,
+    "votes": {
+      "08:00": 139,
+      "10:00": 272,
+      "12:00": 410,
+      "14:00": 632,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 115,
+    "name": "Marawari Uchcha Vidhyalay, Chandavara, Purab Bhag",
+    "totalVoters": 1170,
+    "votes": {
+      "08:00": 110,
+      "10:00": 269,
+      "12:00": 344,
+      "14:00": 609,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 116,
+    "name": "Prathamik Shikshak Sikhcha Mahavidyalay, Chandavara Purab Bhag",
+    "totalVoters": 623,
+    "votes": {
+      "08:00": 72,
+      "10:00": 140,
+      "12:00": 267,
+      "14:00": 369,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 117,
+    "name": "Prathamik Shikshak Sikhcha Mahavidyalay, Chandavara Paschim Bhag",
+    "totalVoters": 628,
+    "votes": {
+      "08:00": 51,
+      "10:00": 131,
+      "12:00": 164,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 118,
+    "name": "Radha krishna Kediya Balika Uchcha Vidhyalay, Balughat, Paschim Bhag",
+    "totalVoters": 621,
+    "votes": {
+      "08:00": 65,
+      "10:00": 165,
+      "12:00": 240,
+      "14:00": 420,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 119,
+    "name": "Radha krishna Kediya Balika Uchcha Vidhyalay, Balughat, Uttar Bhag",
+    "totalVoters": 630,
+    "votes": {
+      "08:00": 94,
+      "10:00": 158,
+      "12:00": 309,
+      "14:00": 437,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 120,
+    "name": "Radha krishna Kediya Balika Uchcha Vidhyalay, Balughat, Pashchim Madhya Bhag",
+    "totalVoters": 567,
+    "votes": {
+      "08:00": 51,
+      "10:00": 110,
+      "12:00": 146,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 121,
+    "name": "Radha krishna Kediya Balika Uchcha Vidhyalay, Balughat, Uttar Madhya Bhag",
+    "totalVoters": 571,
+    "votes": {
+      "08:00": 78,
+      "10:00": 176,
+      "12:00": 233,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 122,
+    "name": "Radha krishna Kediya Balika Uchcha Vidyalay, Balughat, Purab Bhag",
+    "totalVoters": 719,
+    "votes": {
+      "08:00": 84,
+      "10:00": 121,
+      "12:00": 196,
+      "14:00": 342,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 123,
+    "name": "Radha krishna Kediya Balika Uchcha Vidyalay, Balughat, Purab Madhya Bhag",
+    "totalVoters": 712,
+    "votes": {
+      "08:00": 96,
+      "10:00": 186,
+      "12:00": 325,
+      "14:00": 471,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 124,
+    "name": "G D Mother International school, Akharaghat Road, Muzaffarpur,",
+    "totalVoters": 609,
+    "votes": {
+      "08:00": 76,
+      "10:00": 159,
+      "12:00": 207,
+      "14:00": 340,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 125,
+    "name": "G D Mother International school, Akharaghat Road, Muzaffarpur Purab Bhag",
+    "totalVoters": 605,
+    "votes": {
+      "08:00": 67,
+      "10:00": 139,
+      "12:00": 199,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 126,
+    "name": "Mahila Shilp Kala Bhawan, Chandawara, Purab Bhag",
+    "totalVoters": 658,
+    "votes": {
+      "08:00": 105,
+      "10:00": 154,
+      "12:00": 262,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 127,
+    "name": "Mahila Shilp Kala Bhawan, Chandawara, Purab Madhya Bhag",
+    "totalVoters": 663,
+    "votes": {
+      "08:00": 51,
+      "10:00": 125,
+      "12:00": 186,
+      "14:00": 273,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 128,
+    "name": "Mahila Shilpa Kala Bhawan, Chandawara, Pashchim Bhag",
+    "totalVoters": 866,
+    "votes": {
+      "08:00": 85,
+      "10:00": 200,
+      "12:00": 312,
+      "14:00": 443,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 129,
+    "name": "Mahila Shilpa Kala Bhawan, Chandavara Madhya Bhag",
+    "totalVoters": 617,
+    "votes": {
+      "08:00": 60,
+      "10:00": 138,
+      "12:00": 210,
+      "14:00": 350,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 130,
+    "name": "Mahila Shilpa Kala Bhawan, Chandavara Paschim Madhya Bhag",
+    "totalVoters": 608,
+    "votes": {
+      "08:00": 57,
+      "10:00": 160,
+      "12:00": 193,
+      "14:00": 326,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 131,
+    "name": "Madhya Vidhyalay, Mahila Shilpakala Bhavan, Chandavara Purab Bhag",
+    "totalVoters": 651,
+    "votes": {
+      "08:00": 75,
+      "10:00": 156,
+      "12:00": 206,
+      "14:00": 352,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 132,
+    "name": "Madhya Vidhyalay, Mahila Shilpakala Bhavan, Chandavara Paschim Bhag",
+    "totalVoters": 646,
+    "votes": {
+      "08:00": 67,
+      "10:00": 168,
+      "12:00": 261,
+      "14:00": 423,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 133,
+    "name": "Shri Gandhi Pustakalay, Gola Road, Muzaffarpur",
+    "totalVoters": 761,
+    "votes": {
+      "08:00": 87,
+      "10:00": 248,
+      "12:00": 323,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 134,
+    "name": "Dwarikanath Uchcha Vidhyalay, Gola Road Madhya Bhag",
+    "totalVoters": 640,
+    "votes": {
+      "08:00": 59,
+      "10:00": 145,
+      "12:00": 259,
+      "14:00": 389,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 135,
+    "name": "Dwarikanath Uchcha Vidhyalay, Gola Road Dakshin Bhag",
+    "totalVoters": 647,
+    "votes": {
+      "08:00": 85,
+      "10:00": 176,
+      "12:00": 240,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 136,
+    "name": "Vanijya Mahavidyalay, Ramabhajan Sah Market Gola Road, Nazirpur, Dakshin Bhag",
+    "totalVoters": 658,
+    "votes": {
+      "08:00": 83,
+      "10:00": 179,
+      "12:00": 229,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 137,
+    "name": "Vanijya Mahavidyalay, Ramabhajan Sah Market Gola Road, Nazirpur, Paschim Bhag",
+    "totalVoters": 651,
+    "votes": {
+      "08:00": 71,
+      "10:00": 119,
+      "12:00": 193,
+      "14:00": 340,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 138,
+    "name": "Vanijya Mahavidyalay, Ramabhajan Shah Market, Gola Rod, Najirapur, Uttar Bhag",
+    "totalVoters": 916,
+    "votes": {
+      "08:00": 88,
+      "10:00": 181,
+      "12:00": 289,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 139,
+    "name": "Vanijya Mahavidyalay, Ramabhajan Shah Market, Gola Rod, Najirapur, Madhya Bhag",
+    "totalVoters": 778,
+    "votes": {
+      "08:00": 85,
+      "10:00": 145,
+      "12:00": 218,
+      "14:00": 388,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 140,
+    "name": "Madhya Vidhyalay, Mahavir Sthan, Gola Rod Daya Bhag",
+    "totalVoters": 958,
+    "votes": {
+      "08:00": 92,
+      "10:00": 231,
+      "12:00": 356,
+      "14:00": 599,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 141,
+    "name": "Adarsh Vidhya Mandir, Baink Rod Uttar Bhag",
+    "totalVoters": 905,
+    "votes": {
+      "08:00": 128,
+      "10:00": 212,
+      "12:00": 410,
+      "14:00": 601,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 142,
+    "name": "Adarsh Vidhya Mandir Bank Raod Dakshin Bhag",
+    "totalVoters": 622,
+    "votes": {
+      "08:00": 67,
+      "10:00": 97,
+      "12:00": 193,
+      "14:00": 272,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 143,
+    "name": "Madavari Dharmashala, Sutapatti, Purwi Bhag",
+    "totalVoters": 981,
+    "votes": {
+      "08:00": 125,
+      "10:00": 256,
+      "12:00": 356,
+      "14:00": 550,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 144,
+    "name": "Madavari Dharmashala, Sutapatati, Pashchim Bhag",
+    "totalVoters": 716,
+    "votes": {
+      "08:00": 66,
+      "10:00": 126,
+      "12:00": 214,
+      "14:00": 323,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 145,
+    "name": "Adarsh Vidhya Mandir, Saraiyaganj, Dakshin Bhag",
+    "totalVoters": 712,
+    "votes": {
+      "08:00": 111,
+      "10:00": 192,
+      "12:00": 333,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 146,
+    "name": "Adarsh Vidhya Mandir, Saraiyaganj, Uttar Bhag",
+    "totalVoters": 584,
+    "votes": {
+      "08:00": 53,
+      "10:00": 116,
+      "12:00": 189,
+      "14:00": 323,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 147,
+    "name": "Adarsh Vidhya Mandir, Saraiyaganj, Paschim Bhag",
+    "totalVoters": 759,
+    "votes": {
+      "08:00": 81,
+      "10:00": 151,
+      "12:00": 253,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 148,
+    "name": "Anganvari Kendra, Durga Sthan, Gola Rod",
+    "totalVoters": 918,
+    "votes": {
+      "08:00": 115,
+      "10:00": 222,
+      "12:00": 278,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 149,
+    "name": "Dwarikanath Uchcha Vidhyalay, Gola Rod Purwi Bhag",
+    "totalVoters": 978,
+    "votes": {
+      "08:00": 99,
+      "10:00": 203,
+      "12:00": 269,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 150,
+    "name": "Dwarika Nath Uchcha Vidyalay, Gola Road, Pashchim Bhag",
+    "totalVoters": 1012,
+    "votes": {
+      "08:00": 108,
+      "10:00": 192,
+      "12:00": 316,
+      "14:00": 456,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 151,
+    "name": "Baba Fathechandra Sangat Jiwit Samadhimath Barhamantoli Muzaffarpur ke Parisar Me Chalant Matdan Kendra Paschim Bhag Khata No.-402, Khesara No.-436 K. Kha Rakwa-0.0535he.",
+    "totalVoters": 874,
+    "votes": {
+      "08:00": 82,
+      "10:00": 197,
+      "12:00": 276,
+      "14:00": 445,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 152,
+    "name": "Baba Fathechandra Sangat Jiwit Samadhimath Barhamantoli Muzaffarpur ke Parisar Me Chalant Matdan Kendra Purab Bhag Khata No.-402, Khesara No.-436 K. Kha Rakwa-0.0535he.",
+    "totalVoters": 559,
+    "votes": {
+      "08:00": 44,
+      "10:00": 104,
+      "12:00": 173,
+      "14:00": 269,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 153,
+    "name": "Rajkiye Marwari Madhay Vidhalay Purani Bazar Nagar Kshetra Muzaffarpur Uttar Bhag",
+    "totalVoters": 869,
+    "votes": {
+      "08:00": 92,
+      "10:00": 251,
+      "12:00": 340,
+      "14:00": 529,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 154,
+    "name": "Rajkiye Marwari Madhay Vidhalay Purani Bazar Nagar Kshetra Muzaffarpur Madhya Bhag",
+    "totalVoters": 478,
+    "votes": {
+      "08:00": 65,
+      "10:00": 135,
+      "12:00": 164,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 155,
+    "name": "Rajkiye Marwari Madhay Vidhalay Purani Bazar Nagar Kshetra Muzaffarpur Dakshin Bhag",
+    "totalVoters": 625,
+    "votes": {
+      "08:00": 99,
+      "10:00": 190,
+      "12:00": 263,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 156,
+    "name": "Chaturbhurj Ram Memorial Trust Sahu Road Dakshin Bhag",
+    "totalVoters": 714,
+    "votes": {
+      "08:00": 67,
+      "10:00": 136,
+      "12:00": 173,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 157,
+    "name": "Rajkiye Marwari Madhay Vidhalay Purani Bazar Nagar Kshetra Muzaffarpur Paschim Bhag",
+    "totalVoters": 980,
+    "votes": {
+      "08:00": 77,
+      "10:00": 174,
+      "12:00": 269,
+      "14:00": 407,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 158,
+    "name": "Children Park, Sahu Road, Chalanta Matadan Kendra Khata No.-390 Khesara No.-345,346 Rakwa-0.0425 He. Purab Bhag",
+    "totalVoters": 907,
+    "votes": {
+      "08:00": 109,
+      "10:00": 166,
+      "12:00": 261,
+      "14:00": 461,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 159,
+    "name": "Ramesh Rani Agrwal Balika Uchcha Vidhyalay Raguvansh Raod Raod Purab Bhag",
+    "totalVoters": 968,
+    "votes": {
+      "08:00": 125,
+      "10:00": 232,
+      "12:00": 402,
+      "14:00": 583,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 160,
+    "name": "Madhya Vidhyalay, Gokhalepuri, Islamapur",
+    "totalVoters": 660,
+    "votes": {
+      "08:00": 94,
+      "10:00": 149,
+      "12:00": 276,
+      "14:00": 400,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 161,
+    "name": "Madhya Vidhyalay, Gokhalepuri, Islamapur Muzaffarpur Purab Bhag",
+    "totalVoters": 470,
+    "votes": {
+      "08:00": 57,
+      "10:00": 83,
+      "12:00": 171,
+      "14:00": 233,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 162,
+    "name": "B B Collegiate School, Motijheel, Purab Bhag",
+    "totalVoters": 538,
+    "votes": {
+      "08:00": 65,
+      "10:00": 139,
+      "12:00": 177,
+      "14:00": 288,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 163,
+    "name": "B B Collegiate School, Motijheel, Paschim Bhag",
+    "totalVoters": 959,
+    "votes": {
+      "08:00": 76,
+      "10:00": 184,
+      "12:00": 352,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 164,
+    "name": "Dr. Ram Manohar Lohiya Smarak Collage, Divan Road, Uttar Bhag",
+    "totalVoters": 843,
+    "votes": {
+      "08:00": 91,
+      "10:00": 134,
+      "12:00": 241,
+      "14:00": 381,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 165,
+    "name": "Dra. Ram Manohar Lohiya Smarak Collage, Divan Road, Madhya Bhag",
+    "totalVoters": 707,
+    "votes": {
+      "08:00": 85,
+      "10:00": 225,
+      "12:00": 322,
+      "14:00": 490,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 166,
+    "name": "Dra. Ram Manohar Lohiya Smarak Collage, Diwan Road, Dakshin Bhag",
+    "totalVoters": 621,
+    "votes": {
+      "08:00": 70,
+      "10:00": 134,
+      "12:00": 160,
+      "14:00": 287,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 167,
+    "name": "Da. Ram Manohar Lohiya Smarak College Deewan Road Dakschin Madhya Bhag",
+    "totalVoters": 646,
+    "votes": {
+      "08:00": 69,
+      "10:00": 160,
+      "12:00": 233,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 168,
+    "name": "Dr. Ram Manohar Lohiya Smarak collage, Diwan Rod, Purwi Bhag",
+    "totalVoters": 479,
+    "votes": {
+      "08:00": 48,
+      "10:00": 125,
+      "12:00": 176,
+      "14:00": 262,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 169,
+    "name": "Dr Ram Manohar Lohiya Smarak collage, Diwan Road, Purwi Madhya Bhag",
+    "totalVoters": 552,
+    "votes": {
+      "08:00": 46,
+      "10:00": 134,
+      "12:00": 190,
+      "14:00": 277,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 170,
+    "name": "Dr. Ram Manohar Lohiya Smarak collage, Diwan Road, Pashchim Bhag",
+    "totalVoters": 766,
     "votes": {
       "08:00": 112,
-      "10:00": 198,
+      "10:00": 241,
+      "12:00": 366,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 171,
+    "name": "B.B Collegiate School Motijheel (Madhya Bhag)",
+    "totalVoters": 811,
+    "votes": {
+      "08:00": 103,
+      "10:00": 195,
+      "12:00": 330,
+      "14:00": 502,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 172,
+    "name": "Government Polytechnic, Shyam Nandan Road, Naya Tola, Purab Bhag",
+    "totalVoters": 758,
+    "votes": {
+      "08:00": 84,
+      "10:00": 197,
+      "12:00": 270,
+      "14:00": 426,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 173,
+    "name": "Government Polytechnic, Shyam Nandan Road, Naya Tola, Madhya Bhag",
+    "totalVoters": 753,
+    "votes": {
+      "08:00": 54,
+      "10:00": 113,
+      "12:00": 194,
+      "14:00": 308,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 174,
+    "name": "Government Polytechnic, Shyam Nandan Road, Naya Tola Paschim Bhag",
+    "totalVoters": 680,
+    "votes": {
+      "08:00": 78,
+      "10:00": 191,
+      "12:00": 257,
+      "14:00": 401,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 175,
+    "name": "Government Polytechnic, Shyam Nandan Road, Naya Tola Paschim Madhya Bhag",
+    "totalVoters": 661,
+    "votes": {
+      "08:00": 64,
+      "10:00": 137,
+      "12:00": 201,
+      "14:00": 277,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 176,
+    "name": "Shatrudhan Devi Kanchan Devi Kanya Madhya Vidyalay, Chandralok Chowk, Naya Tola Daya Bhag",
+    "totalVoters": 716,
+    "votes": {
+      "08:00": 92,
+      "10:00": 201,
+      "12:00": 242,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 177,
+    "name": "Shatrudhan Devi Kanchan Devi Kanya Madhya Vidyalay, Chandralok Chowk, Naya Tola Baya Bhag",
+    "totalVoters": 565,
+    "votes": {
+      "08:00": 60,
+      "10:00": 140,
+      "12:00": 180,
+      "14:00": 309,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 178,
+    "name": "Rajkiya urdu Prathmik Vidhalay saray saiyad alli nagar kshetra Purab Bhag",
+    "totalVoters": 820,
+    "votes": {
+      "08:00": 69,
+      "10:00": 161,
+      "12:00": 286,
+      "14:00": 439,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 179,
+    "name": "Saray Saiyad Ali Balika Uchcha Vidyalay Damuchak Purab Bhag",
+    "totalVoters": 818,
+    "votes": {
+      "08:00": 85,
+      "10:00": 216,
+      "12:00": 374,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 180,
+    "name": "Saray Saiyad Ali Balika Uchcha Vidyalay Damuchak Purab Madhya Bhag",
+    "totalVoters": 573,
+    "votes": {
+      "08:00": 77,
+      "10:00": 114,
+      "12:00": 234,
+      "14:00": 320,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 181,
+    "name": "Saray saiyad alli Balika uchch Vidyalay damuchak pachim bhag",
+    "totalVoters": 759,
+    "votes": {
+      "08:00": 75,
+      "10:00": 192,
+      "12:00": 303,
+      "14:00": 455,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 182,
+    "name": "Makatab Chauk Abdul Vahid, Mazauliya, Purwi Bhag",
+    "totalVoters": 885,
+    "votes": {
+      "08:00": 70,
+      "10:00": 179,
+      "12:00": 205,
+      "14:00": 360,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 183,
+    "name": "Makatab Chak Abdul Vahid, Mazauliya, Pashchim Bhag",
+    "totalVoters": 521,
+    "votes": {
+      "08:00": 89,
+      "10:00": 128,
+      "12:00": 213,
+      "14:00": 359,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 184,
+    "name": "Makatab Chak Abdul Vahid, Mazauliya, Uttar Bhag",
+    "totalVoters": 656,
+    "votes": {
+      "08:00": 56,
+      "10:00": 148,
+      "12:00": 263,
+      "14:00": 376,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 185,
+    "name": "Saray Saiyad Ali Balika Uchcha Vidyalay Damuchak Madhya Bhag",
+    "totalVoters": 1026,
+    "votes": {
+      "08:00": 102,
+      "10:00": 188,
+      "12:00": 258,
+      "14:00": 419,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 186,
+    "name": "Avakari Godam, Damuchak, Purab Bhag",
+    "totalVoters": 713,
+    "votes": {
+      "08:00": 71,
+      "10:00": 147,
+      "12:00": 177,
+      "14:00": 309,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 187,
+    "name": "Abakari Godam, Damuchak, Paschim Bhag",
+    "totalVoters": 754,
+    "votes": {
+      "08:00": 68,
+      "10:00": 191,
+      "12:00": 263,
+      "14:00": 387,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 188,
+    "name": "Saray Saiyad Ali Balika Uchcha Vidyalay Damuchak Uttar Bhag",
+    "totalVoters": 906,
+    "votes": {
+      "08:00": 134,
+      "10:00": 285,
+      "12:00": 351,
+      "14:00": 576,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 189,
+    "name": "Karyalay Mukhya Abhiyanta Sinchai Vibhag, Kalambag Road Muzaffarpur Dakshin Bhag",
+    "totalVoters": 853,
+    "votes": {
+      "08:00": 94,
+      "10:00": 255,
+      "12:00": 373,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 190,
+    "name": "Audyogik Prashikshan Sansthan, Gannipur Purab Bhag",
+    "totalVoters": 1027,
+    "votes": {
+      "08:00": 106,
+      "10:00": 219,
+      "12:00": 462,
+      "14:00": 623,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 191,
+    "name": "S.K.J. Law College, Gannipur, Purwi Bhag",
+    "totalVoters": 734,
+    "votes": {
+      "08:00": 83,
+      "10:00": 151,
+      "12:00": 226,
+      "14:00": 339,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 192,
+    "name": "S. K. J.Law. collage, Gannipur, Madhya Bhag",
+    "totalVoters": 905,
+    "votes": {
+      "08:00": 60,
+      "10:00": 189,
+      "12:00": 285,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 193,
+    "name": "S.K.J. Law.collage, Gannipur, Pashchim Bhag",
+    "totalVoters": 596,
+    "votes": {
+      "08:00": 61,
+      "10:00": 158,
+      "12:00": 224,
+      "14:00": 393,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 194,
+    "name": "SK J. Law.collage, Gannipur, Pashchim Madhya Bhag",
+    "totalVoters": 586,
+    "votes": {
+      "08:00": 38,
+      "10:00": 86,
+      "12:00": 175,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 195,
+    "name": "Tirhut Academy, Aghoriya Bazar Chowk, Purab Bhag",
+    "totalVoters": 741,
+    "votes": {
+      "08:00": 55,
+      "10:00": 148,
+      "12:00": 197,
+      "14:00": 312,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 196,
+    "name": "Tirhut Academy, Aghoriya Bazar Chauk, Uttar Bhag",
+    "totalVoters": 527,
+    "votes": {
+      "08:00": 44,
+      "10:00": 101,
+      "12:00": 166,
+      "14:00": 277,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 197,
+    "name": "Tirahut Academy, Aghoriya Bazar Chowk, Pashchim Bhag",
+    "totalVoters": 619,
+    "votes": {
+      "08:00": 59,
+      "10:00": 128,
+      "12:00": 176,
+      "14:00": 309,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 198,
+    "name": "Bhartiya Jeevan Bima nigam si.a.b.shakha hotal Ambedkar prisar kalambag Road muzaffarpur Uttar bhag",
+    "totalVoters": 821,
+    "votes": {
+      "08:00": 139,
+      "10:00": 238,
+      "12:00": 391,
+      "14:00": 569,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 199,
+    "name": "Bhartiya Jeevan Bima nigam si.a.b.shakha hotal Ambedkar prisar kalambag Road muzaffarpur dakshani bhag",
+    "totalVoters": 540,
+    "votes": {
+      "08:00": 41,
+      "10:00": 109,
+      "12:00": 137,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 200,
+    "name": "Bhartiya Jeevan Bima nigam si.a.b.shakha hotal Ambedkar prisar kalambag Road muzaffarpur Purv bhag",
+    "totalVoters": 1028,
+    "votes": {
+      "08:00": 139,
+      "10:00": 234,
+      "12:00": 374,
+      "14:00": 568,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 201,
+    "name": "Bhartiya jeevan Bima nigam si.a.b.shakha hotal Ambedkar prisar kalambag Road muzaffapur paschim Bhag",
+    "totalVoters": 975,
+    "votes": {
+      "08:00": 73,
+      "10:00": 169,
       "12:00": 287,
       "14:00": null,
       "16:00": null,
@@ -65,39 +2613,2795 @@
     }
   },
   {
-    "id": 6,
-    "name": "Prabhat tara School",
-    "totalVoters": 945,
+    "id": 202,
+    "name": "Shram Niyojan Ev Prashikshan Vibhag, Karmachari Rajya Bima Chikitsalay, Mujafafarapur, Pankha Toli, Purab Bhag",
+    "totalVoters": 995,
     "votes": {
-      "08:00": 134,
-      "10:00": 245,
-      "12:00": 354,
+      "08:00": 126,
+      "10:00": 234,
+      "12:00": 452,
+      "14:00": 631,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 203,
+    "name": "Shram Niyojan Ev Prashikshan Vibhag, Karmachari Rajya Bima Chikitsalay, Mujafafarapur, Pankha Toli, Paschim Bhag",
+    "totalVoters": 426,
+    "votes": {
+      "08:00": 41,
+      "10:00": 91,
+      "12:00": 158,
       "14:00": null,
       "16:00": null,
       "18:00": null
     }
   },
   {
-    "id": 7,
-    "name": "Sikandarpur Stadium",
-    "totalVoters": 1123,
+    "id": 204,
+    "name": "Madhya Vidhyalay, Amagola Pankha Toli, Purab Bhag",
+    "totalVoters": 450,
     "votes": {
-      "08:00": 156,
-      "10:00": 267,
-      "12:00": 389,
+      "08:00": 40,
+      "10:00": 81,
+      "12:00": 139,
+      "14:00": 207,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 205,
+    "name": "Madhya Vidyalay Aamgola Pankha Toli Ke Parishar Me Chlant Matdan Kendar Purab Madhya Bhag",
+    "totalVoters": 748,
+    "votes": {
+      "08:00": 77,
+      "10:00": 133,
+      "12:00": 227,
+      "14:00": 333,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 206,
+    "name": "Madhya Vidhyalay, Amagola Pankha Toli, Pschin Bhag",
+    "totalVoters": 574,
+    "votes": {
+      "08:00": 52,
+      "10:00": 114,
+      "12:00": 184,
+      "14:00": 288,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 207,
+    "name": "Madhya Vidhyalay, Amagola Pankha Toli, Paschim Madhya Bhag",
+    "totalVoters": 555,
+    "votes": {
+      "08:00": 86,
+      "10:00": 171,
+      "12:00": 218,
+      "14:00": 360,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 208,
+    "name": "Orient Club Ke Prangan Me Chalit Matdan Kendra, Uttar Bhag Khata No.- 621, Khesara No.-177, K, Rakwa-11224 He.",
+    "totalVoters": 538,
+    "votes": {
+      "08:00": 56,
+      "10:00": 118,
+      "12:00": 175,
       "14:00": null,
       "16:00": null,
       "18:00": null
     }
   },
   {
-    "id": 8,
-    "name": "Radha Devi Uchcha Vidyalaya",
-    "totalVoters": 678,
+    "id": 209,
+    "name": "Orient Club Ke Prangan Me Chalit Matdan Kendra, Uttar Madhya Bhag Khata No.-621, Khesara No.-177, K, Rakwa-11224 Не.",
+    "totalVoters": 560,
+    "votes": {
+      "08:00": 59,
+      "10:00": 113,
+      "12:00": 188,
+      "14:00": 295,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 210,
+    "name": "Orient Club Ke Prangan Me Chalit Matdan Kendra, Dakschin Madhya Bhag Khata No.-621, Khesara No.-177, K, Rakwa-11224 Не.",
+    "totalVoters": 1086,
+    "votes": {
+      "08:00": 107,
+      "10:00": 239,
+      "12:00": 464,
+      "14:00": 668,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 211,
+    "name": "Rajkiy Madhy Vidayalay Balak Sadpura Urdu Paschim Bhag",
+    "totalVoters": 1171,
+    "votes": {
+      "08:00": 130,
+      "10:00": 242,
+      "12:00": 363,
+      "14:00": 568,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 212,
+    "name": "Rajkiy Madhy Vidayalay Balak Sadpura Urdu (Paschim Madhy Bhag)",
+    "totalVoters": 669,
+    "votes": {
+      "08:00": 68,
+      "10:00": 114,
+      "12:00": 188,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 213,
+    "name": "Rajkiy Madhy Vidayalay Balak Sadpura Urdu Purab Madhay Bhag",
+    "totalVoters": 536,
+    "votes": {
+      "08:00": 71,
+      "10:00": 114,
+      "12:00": 223,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 214,
+    "name": "Mukharji Seminari Harisabha Daya Bhag",
+    "totalVoters": 665,
+    "votes": {
+      "08:00": 54,
+      "10:00": 159,
+      "12:00": 200,
+      "14:00": 353,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 215,
+    "name": "Mukharji Seminari Harisabha Baya Bhag",
+    "totalVoters": 542,
+    "votes": {
+      "08:00": 75,
+      "10:00": 160,
+      "12:00": 236,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 216,
+    "name": "Rajkiya Kanya Madhya Vidhyalay, Kalab Road",
+    "totalVoters": 733,
     "votes": {
       "08:00": 89,
-      "10:00": 167,
-      "12:00": 245,
+      "10:00": 168,
+      "12:00": 235,
+      "14:00": 357,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 217,
+    "name": "Nitishwar Mahavidyalay, Club Road",
+    "totalVoters": 794,
+    "votes": {
+      "08:00": 112,
+      "10:00": 183,
+      "12:00": 270,
+      "14:00": 476,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 218,
+    "name": "Madhya Vidhyalay, Harisabha Purab Bhag",
+    "totalVoters": 545,
+    "votes": {
+      "08:00": 52,
+      "10:00": 84,
+      "12:00": 137,
+      "14:00": 235,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 219,
+    "name": "Madhya Vidhyalay, Harisabha Paschim Bhag",
+    "totalVoters": 639,
+    "votes": {
+      "08:00": 85,
+      "10:00": 163,
+      "12:00": 209,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 220,
+    "name": "Nagarapalika Workshop, Bahalakhana, Gudari Road Muzaffarpur Dakshin Bhag",
+    "totalVoters": 585,
+    "votes": {
+      "08:00": 67,
+      "10:00": 120,
+      "12:00": 192,
+      "14:00": 291,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 221,
+    "name": "Nagarapalika Workshop, Bahalakhana, Gudari Road Muzaffarpur Paschim Bhag",
+    "totalVoters": 704,
+    "votes": {
+      "08:00": 49,
+      "10:00": 152,
+      "12:00": 197,
+      "14:00": 316,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 222,
+    "name": "Nagarapalika Workshop, Bahalakhana, Gudari Road Muzaffarpur Uttar Bhag",
+    "totalVoters": 1075,
+    "votes": {
+      "08:00": 94,
+      "10:00": 227,
+      "12:00": 332,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 223,
+    "name": "Nagarapalika Workshop, Bahalakhana, Gudari Road Muzaffarpur Madhya Bhag",
+    "totalVoters": 777,
+    "votes": {
+      "08:00": 64,
+      "10:00": 138,
+      "12:00": 196,
+      "14:00": 333,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 224,
+    "name": "Chaturbhuj Ram Memorial Trust, Sahu Rod, Purab Bhag",
+    "totalVoters": 587,
+    "votes": {
+      "08:00": 85,
+      "10:00": 199,
+      "12:00": 249,
+      "14:00": 401,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 225,
+    "name": "Chaturbhuj Ram Memorial Trust, Sahu Road, Purab Madhya Bhag",
+    "totalVoters": 579,
+    "votes": {
+      "08:00": 84,
+      "10:00": 154,
+      "12:00": 273,
+      "14:00": 398,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 226,
+    "name": "Chaturbhuj Ram Memorial Trust, Sahu Rod, Pashchim Bhag",
+    "totalVoters": 806,
+    "votes": {
+      "08:00": 116,
+      "10:00": 219,
+      "12:00": 356,
+      "14:00": 537,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 227,
+    "name": "Chaturbhuj Ram Memorial Trust, Sahu Rod Uttar Bhag",
+    "totalVoters": 884,
+    "votes": {
+      "08:00": 77,
+      "10:00": 123,
+      "12:00": 258,
+      "14:00": 353,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 228,
+    "name": "Thok Vastra Vikreta, Atithi Bhawan, Shukla Road, Dakshini Bhag",
+    "totalVoters": 926,
+    "votes": {
+      "08:00": 105,
+      "10:00": 184,
+      "12:00": 286,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 229,
+    "name": "Madarsa Bibi Sogara Data Kambal Shah Mazar Muslim Club Road",
+    "totalVoters": 625,
+    "votes": {
+      "08:00": 63,
+      "10:00": 117,
+      "12:00": 209,
+      "14:00": 291,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 230,
+    "name": "Madarsa Bibi Sogara Data Kambal Shah Mazar Muslim Club Road Uttar Bhag",
+    "totalVoters": 596,
+    "votes": {
+      "08:00": 88,
+      "10:00": 159,
+      "12:00": 231,
+      "14:00": 402,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 231,
+    "name": "Thok Vastra Vikreta, Atithi Bhawan Shukla Road, Uttar Bhag",
+    "totalVoters": 779,
+    "votes": {
+      "08:00": 55,
+      "10:00": 160,
+      "12:00": 230,
+      "14:00": 348,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 232,
+    "name": "Muslim Club Pakki Saray Muzaffarpur Paschim Bhag",
+    "totalVoters": 607,
+    "votes": {
+      "08:00": 69,
+      "10:00": 106,
+      "12:00": 205,
+      "14:00": 295,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 233,
+    "name": "Muslim Club Pakki Saray Muzaffarpur Purab Bhag",
+    "totalVoters": 606,
+    "votes": {
+      "08:00": 66,
+      "10:00": 101,
+      "12:00": 190,
+      "14:00": 275,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 234,
+    "name": "Pani Tanki Karyalay, Jail Road, Chandwara, Purab Bhag",
+    "totalVoters": 700,
+    "votes": {
+      "08:00": 46,
+      "10:00": 132,
+      "12:00": 189,
+      "14:00": 302,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 235,
+    "name": "Pani Tanki Karyalay, Jail Road, Chandwara, Uttar Bhag",
+    "totalVoters": 698,
+    "votes": {
+      "08:00": 78,
+      "10:00": 224,
+      "12:00": 342,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 236,
+    "name": "Pani Tanki Karyalay, Jail Road, Chandavara, Pashchim Bhag",
+    "totalVoters": 932,
+    "votes": {
+      "08:00": 134,
+      "10:00": 220,
+      "12:00": 402,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 237,
+    "name": "Rajkiya Prathamik Vidhyalay Chaturbhuj Sthan Nagar (1) Pakki Sarai Purab Bhag",
+    "totalVoters": 890,
+    "votes": {
+      "08:00": 81,
+      "10:00": 144,
+      "12:00": 209,
+      "14:00": 357,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 238,
+    "name": "Rajkiya Prathamik Vidhyalay Chaturbhuj Sthan Nagar (1) Pakki Sarai Paschim Bhag",
+    "totalVoters": 1000,
+    "votes": {
+      "08:00": 87,
+      "10:00": 181,
+      "12:00": 317,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 239,
+    "name": "Madarasa Jame Ul Ulum, Chanwara",
+    "totalVoters": 945,
+    "votes": {
+      "08:00": 129,
+      "10:00": 283,
+      "12:00": 394,
+      "14:00": 574,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 240,
+    "name": "Urdu Balika Uchcha Vidhyalay, Chandavara, Pakki Saray Purab Bhag",
+    "totalVoters": 876,
+    "votes": {
+      "08:00": 106,
+      "10:00": 165,
+      "12:00": 271,
+      "14:00": 437,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 241,
+    "name": "Agni Shamak Karyalay, Nawav Road, Chandawara, Uttar Bhag",
+    "totalVoters": 621,
+    "votes": {
+      "08:00": 72,
+      "10:00": 202,
+      "12:00": 243,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 242,
+    "name": "Agni Shamak Karyalay, Nawav Road, Chandawara, Purab Bhag",
+    "totalVoters": 611,
+    "votes": {
+      "08:00": 57,
+      "10:00": 155,
+      "12:00": 228,
+      "14:00": 351,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 243,
+    "name": "Agni Shamak Karyalay, Nawab Road, Chandwara, Dakshin Bhag",
+    "totalVoters": 691,
+    "votes": {
+      "08:00": 87,
+      "10:00": 190,
+      "12:00": 268,
+      "14:00": 470,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 244,
+    "name": "Mahila Prathmik Shikshak Prashikshan Chandwara Dakshin bhag",
+    "totalVoters": 680,
+    "votes": {
+      "08:00": 74,
+      "10:00": 148,
+      "12:00": 225,
+      "14:00": 335,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 245,
+    "name": "Urdu Madhya Vidhyalay, Chandwara, Mukarri Balak Muzaffarpur",
+    "totalVoters": 1036,
+    "votes": {
+      "08:00": 109,
+      "10:00": 235,
+      "12:00": 395,
+      "14:00": 663,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 246,
+    "name": "Urdu Madhya Vidhyalay, Chandwara, Mukarri Balika Muzaffarpur",
+    "totalVoters": 645,
+    "votes": {
+      "08:00": 77,
+      "10:00": 147,
+      "12:00": 250,
+      "14:00": 413,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 247,
+    "name": "Urdu Madhya Vidhyalay, Chandwara, Mukarri Kanya Muzaffarpur Purab Bhag",
+    "totalVoters": 604,
+    "votes": {
+      "08:00": 46,
+      "10:00": 109,
+      "12:00": 206,
+      "14:00": 289,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 248,
+    "name": "Pani Kal Compound Jal Karya Vibhag Chandwara, Purab Bhag",
+    "totalVoters": 907,
+    "votes": {
+      "08:00": 108,
+      "10:00": 216,
+      "12:00": 355,
+      "14:00": 542,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 249,
+    "name": "Pani Kal Kampaund, Jal Kary Vibhag, Chandwara, Ke Prangan Me Chalant Matdan Kendra Paschim Bhag Khata No.-601, Khesara No.-854 K, Kh, Rakwa- 0.0400 He0",
+    "totalVoters": 418,
+    "votes": {
+      "08:00": 59,
+      "10:00": 128,
+      "12:00": 162,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 250,
+    "name": "Pani Kal Kampaund, Jal Kary Vibhag, Chandwara, Ke Prangan Me Chalant Matdan Kendra Uttar Bhag Khata No.-601, Khesara No.-854 K, Kh, Rakwa- 0.0400 He0",
+    "totalVoters": 514,
+    "votes": {
+      "08:00": 75,
+      "10:00": 133,
+      "12:00": 236,
+      "14:00": 335,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 251,
+    "name": "Pani Kal Kampaund, Jal Kary Vibhag, Chandwara, Ke Prangan Me Chalant Matdan Kendra Uttar Madhya Bhag Khata No.-601, Khesara No.-854 K, Kh, Rakwa-0.0400 He0",
+    "totalVoters": 511,
+    "votes": {
+      "08:00": 69,
+      "10:00": 123,
+      "12:00": 202,
+      "14:00": 280,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 252,
+    "name": "Pani Kal Kampaund, Jal Kary Vibhag, Chandwara, Ke Prangan Me Chalant Matdan Kendra Dakshin Bhag Khata No.-601, Khesara No.-854 K,Kh, Rakwa- 0.0400 He0",
+    "totalVoters": 837,
+    "votes": {
+      "08:00": 91,
+      "10:00": 160,
+      "12:00": 278,
+      "14:00": 386,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 253,
+    "name": "Madhya Vidhyalay, Malighat Daya Bhag",
+    "totalVoters": 913,
+    "votes": {
+      "08:00": 95,
+      "10:00": 217,
+      "12:00": 375,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 254,
+    "name": "Madhya Vidhyalay, Malighat Baya Bhag",
+    "totalVoters": 920,
+    "votes": {
+      "08:00": 146,
+      "10:00": 214,
+      "12:00": 402,
+      "14:00": 593,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 255,
+    "name": "Rajkirt Tulasi Madhya Vidhyalay, Kalibari Road, Nagar Kshtra Muzaffarpur Purab Bhag",
+    "totalVoters": 651,
+    "votes": {
+      "08:00": 87,
+      "10:00": 206,
+      "12:00": 270,
+      "14:00": 448,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 256,
+    "name": "Rajkirt Tulasi Madhya Vidhyalay, Kalibari Road, Nagar Kshtra Muzaffarpur Paschim Bhag",
+    "totalVoters": 752,
+    "votes": {
+      "08:00": 81,
+      "10:00": 152,
+      "12:00": 312,
+      "14:00": 432,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 257,
+    "name": "Aweda Uchcha Vidhyalay, Tinkothiya Chandwara Purab Bhag",
+    "totalVoters": 991,
+    "votes": {
+      "08:00": 95,
+      "10:00": 186,
+      "12:00": 297,
+      "14:00": 469,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 258,
+    "name": "Aweda Uchcha Vidhyalay, Tinkothiya Chandwara Madhya Bhag",
+    "totalVoters": 627,
+    "votes": {
+      "08:00": 82,
+      "10:00": 212,
+      "12:00": 267,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 259,
+    "name": "Aweda Uchcha Vidhyalay, Tinkothiya ChandwaraPaschim Bhag",
+    "totalVoters": 618,
+    "votes": {
+      "08:00": 80,
+      "10:00": 161,
+      "12:00": 217,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 260,
+    "name": "Aweda Uchcha Vidhyalay, Tinkothiya Chandwara Paschim Madhya Bhag",
+    "totalVoters": 624,
+    "votes": {
+      "08:00": 70,
+      "10:00": 116,
+      "12:00": 206,
+      "14:00": 283,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 261,
+    "name": "Rajkirt Urdu Parthmik Vidhyalay, Kanhauli Dih Sanskirt College Road Muzaffarpur",
+    "totalVoters": 653,
+    "votes": {
+      "08:00": 99,
+      "10:00": 163,
+      "12:00": 264,
+      "14:00": 426,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 262,
+    "name": "Rajkirt Urdu Parthmik Vidhyalay, Kanhauli Dih Sanskirt College Road Muzaffarpur Purab Bhag",
+    "totalVoters": 619,
+    "votes": {
+      "08:00": 96,
+      "10:00": 173,
+      "12:00": 264,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 263,
+    "name": "Rajkirt Tulasi Madhya Vidhyalay, Kalibari Road, Nagar Kshtra Muzaffarpur Uttar Paschim Bhag",
+    "totalVoters": 703,
+    "votes": {
+      "08:00": 77,
+      "10:00": 158,
+      "12:00": 213,
+      "14:00": 334,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 264,
+    "name": "Rajkirt Tulasi Madhya Vidhyalay, Kalibari Road, Nagar Kshtra Muzaffarpur Uttar Dakshin Bhag",
+    "totalVoters": 710,
+    "votes": {
+      "08:00": 95,
+      "10:00": 210,
+      "12:00": 304,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 265,
+    "name": "Mahantha Sukhadev Das Uchcha Vidhyalay, Rambag Dakshin Bhag",
+    "totalVoters": 670,
+    "votes": {
+      "08:00": 62,
+      "10:00": 160,
+      "12:00": 224,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 266,
+    "name": "Mahantha Sukhadev Das Uchcha Vidhyalay, Rambag Uttar Bhag",
+    "totalVoters": 574,
+    "votes": {
+      "08:00": 65,
+      "10:00": 119,
+      "12:00": 159,
+      "14:00": 278,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 267,
+    "name": "Nirala Niketan Parisar Chatarbhuj Asthan Muzaffarpur Purab Bhag",
+    "totalVoters": 525,
+    "votes": {
+      "08:00": 55,
+      "10:00": 134,
+      "12:00": 170,
+      "14:00": 286,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 268,
+    "name": "Nirala Niketan Parisar Chatarbhuj Asthan Muzaffarpur Uttar Bhag",
+    "totalVoters": 526,
+    "votes": {
+      "08:00": 63,
+      "10:00": 141,
+      "12:00": 199,
+      "14:00": 284,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 269,
+    "name": "Nirala Niketan Parisar Chatarbhuj Asthan Muzaffarpur Dakshin Bhag",
+    "totalVoters": 541,
+    "votes": {
+      "08:00": 41,
+      "10:00": 107,
+      "12:00": 154,
+      "14:00": 259,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 270,
+    "name": "Mahila Prathmik Shikshak Prashikshan Mahavidyalay Rambag (Uttar Bhag)",
+    "totalVoters": 885,
+    "votes": {
+      "08:00": 94,
+      "10:00": 208,
+      "12:00": 306,
+      "14:00": 454,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 271,
+    "name": "Mahila Prathmik Shikshak Prashikshan Mahavidyalay Rambag (Dakshin Bhag)",
+    "totalVoters": 1167,
+    "votes": {
+      "08:00": 119,
+      "10:00": 297,
+      "12:00": 469,
+      "14:00": 644,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 272,
+    "name": "Karyalay Chhetriy Up-Nideshak, Swasthya Sewa, V. Pra. Muzaffarpur Kanhauli",
+    "totalVoters": 897,
+    "votes": {
+      "08:00": 65,
+      "10:00": 142,
+      "12:00": 224,
+      "14:00": 373,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 273,
+    "name": "Kanhauli Prathamik Vidhyalay, Ramabag Daya Bhag",
+    "totalVoters": 921,
+    "votes": {
+      "08:00": 76,
+      "10:00": 175,
+      "12:00": 299,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 274,
+    "name": "Kanhauli Prathamik Vidhyalay, Ramabag Baya Bhag",
+    "totalVoters": 1023,
+    "votes": {
+      "08:00": 108,
+      "10:00": 301,
+      "12:00": 406,
+      "14:00": 616,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 275,
+    "name": "Mahila Prathamik Shikshak Prashikshan Mahavidyalay, Rambag Purab Madhya Bhag",
+    "totalVoters": 767,
+    "votes": {
+      "08:00": 84,
+      "10:00": 176,
+      "12:00": 202,
+      "14:00": 363,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 276,
+    "name": "Mahila Prathmik Shikshak Prashikshan Mahavidiyalay Rambag Paschim Bhag",
+    "totalVoters": 758,
+    "votes": {
+      "08:00": 69,
+      "10:00": 145,
+      "12:00": 202,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 277,
+    "name": "Zila School, Ramna",
+    "totalVoters": 781,
+    "votes": {
+      "08:00": 70,
+      "10:00": 191,
+      "12:00": 278,
+      "14:00": 402,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 278,
+    "name": "Laghu Udhog Sewa Sansthan, Gosala Road, Mithanpura Uttar Bhag",
+    "totalVoters": 689,
+    "votes": {
+      "08:00": 99,
+      "10:00": 178,
+      "12:00": 325,
+      "14:00": 443,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 279,
+    "name": "Laghu Udhog Sewa Sansthan, Gosala Road, Mithanpura Purab Bhag",
+    "totalVoters": 695,
+    "votes": {
+      "08:00": 85,
+      "10:00": 196,
+      "12:00": 270,
+      "14:00": 442,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 280,
+    "name": "Laghu Udhog Sewa Sansthan, Gosala Road, Mithanpura Dakshin Bhag",
+    "totalVoters": 1052,
+    "votes": {
+      "08:00": 87,
+      "10:00": 270,
+      "12:00": 410,
+      "14:00": 573,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 281,
+    "name": "Laghu Udhog Sewa Sansthan, Gosala Road, Mithanpura Madhya Dakshin Bhag",
+    "totalVoters": 736,
+    "votes": {
+      "08:00": 92,
+      "10:00": 177,
+      "12:00": 230,
+      "14:00": 395,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 282,
+    "name": "Baba Saheb Bhim Rav Ambedakar Ratri Pathsala, Mithanpura Purab Bhag",
+    "totalVoters": 1151,
+    "votes": {
+      "08:00": 171,
+      "10:00": 345,
+      "12:00": 438,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 283,
+    "name": "Baba Saheb Bhim Rav Ambedakar Ratri Pathsala, Mithanpura Paschim Bhag",
+    "totalVoters": 629,
+    "votes": {
+      "08:00": 70,
+      "10:00": 111,
+      "12:00": 172,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 284,
+    "name": "Baba Saheb Bhim Rao Ambedakar Ratri Pathsala, Mithanapura ke Parisar Prangan Me Chalant Matdan Kendar Uttar Bhag Khata No.-06, Khesara No.- 330 A Rakwa-8 dicmel",
+    "totalVoters": 924,
+    "votes": {
+      "08:00": 87,
+      "10:00": 211,
+      "12:00": 357,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 285,
+    "name": "Baba Saheb Bhim Rao Ambedakar Ratri Pathsala, Mithanapura ke Parisar Me Chalant Matdan Kendar Dakshin Bhag khata 06 keshra 330 rakwa 8de.",
+    "totalVoters": 868,
+    "votes": {
+      "08:00": 143,
+      "10:00": 213,
+      "12:00": 408,
+      "14:00": 579,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 286,
+    "name": "Mahantha Sukhadev Das Uchcha Vidhyalay, Rambag Purab Bhag",
+    "totalVoters": 599,
+    "votes": {
+      "08:00": 84,
+      "10:00": 163,
+      "12:00": 224,
+      "14:00": 355,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 287,
+    "name": "Mahantha Sukhadev Das Uchcha Vidhyalay, Rambag Paschim Bhag",
+    "totalVoters": 604,
+    "votes": {
+      "08:00": 43,
+      "10:00": 119,
+      "12:00": 176,
+      "14:00": 262,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 288,
+    "name": "Dharm Samaj Sanskrit Mahavidhyaly, Muzaffarpur, Uttar Bhag",
+    "totalVoters": 692,
+    "votes": {
+      "08:00": 65,
+      "10:00": 188,
+      "12:00": 300,
+      "14:00": 416,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 289,
+    "name": "Dharm Samaj Sanskrit Mahavidhyaly, Muzaffarpur, Uttar Madhya Bhag",
+    "totalVoters": 702,
+    "votes": {
+      "08:00": 113,
+      "10:00": 198,
+      "12:00": 304,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 290,
+    "name": "Dharm Samaj Sanskrit Mahavidhyaly, Muzaffarpur, Purab Bhag",
+    "totalVoters": 871,
+    "votes": {
+      "08:00": 105,
+      "10:00": 244,
+      "12:00": 352,
+      "14:00": 491,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 291,
+    "name": "Dharm Samaj Sanskrit Mahavidhyaly, Muzaffarpur, Purab Madhya Bhag",
+    "totalVoters": 980,
+    "votes": {
+      "08:00": 100,
+      "10:00": 258,
+      "12:00": 350,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 292,
+    "name": "Dharm Samaj Sanskrit Mahavidhyaly, Muzaffarpur, Dakshin Bhag",
+    "totalVoters": 719,
+    "votes": {
+      "08:00": 98,
+      "10:00": 219,
+      "12:00": 308,
+      "14:00": 468,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 293,
+    "name": "Dharm Samaj Sanskrit Mahavidhyaly, Muzaffarpur, Dakshin Madhya Bhag",
+    "totalVoters": 740,
+    "votes": {
+      "08:00": 122,
+      "10:00": 202,
+      "12:00": 361,
+      "14:00": 516,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 294,
+    "name": "Dharm Samaj Sanskrit Mahavidhyaly, Muzaffarpur, Paschim Bhag",
+    "totalVoters": 742,
+    "votes": {
+      "08:00": 61,
+      "10:00": 157,
+      "12:00": 217,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 295,
+    "name": "Dharm Samaj Sanskrit Mahavidhyaly, Muzaffarpur, Paschim Madhya Bhag",
+    "totalVoters": 746,
+    "votes": {
+      "08:00": 49,
+      "10:00": 141,
+      "12:00": 180,
+      "14:00": 310,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 296,
+    "name": "Madhya Vidhyalay Nai Talim, Kanhauli, Khadi Bhandar Uttar Bhag",
+    "totalVoters": 655,
+    "votes": {
+      "08:00": 76,
+      "10:00": 186,
+      "12:00": 307,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 297,
+    "name": "Madhya Vidyalaya Nai Talim, Kanhauli Khadi Bhandar Ke Parisar Me Chalant Matdan Kendar Uttar Madhya Bhag",
+    "totalVoters": 757,
+    "votes": {
+      "08:00": 112,
+      "10:00": 206,
+      "12:00": 344,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 298,
+    "name": "Madhya Vidhyalay Nai Talim, Kanhauli, Khadi Bhandar Purab Bhag",
+    "totalVoters": 515,
+    "votes": {
+      "08:00": 44,
+      "10:00": 119,
+      "12:00": 180,
+      "14:00": 252,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 299,
+    "name": "Madhya Vidyalaya Nai Talim, Kanhauli Khadi Bhandar Ke Parisar Me Chalant Matdan Kendar Purab Madhya Bhag",
+    "totalVoters": 797,
+    "votes": {
+      "08:00": 108,
+      "10:00": 198,
+      "12:00": 304,
+      "14:00": 437,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 300,
+    "name": "Madhya Vidhyalay Nai Talim, Kanhauli, Khadi Bhandar Pashchimi Bhag",
+    "totalVoters": 708,
+    "votes": {
+      "08:00": 85,
+      "10:00": 170,
+      "12:00": 272,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 301,
+    "name": "Madhya Vidhyalay Nai Talim, Kanhauli, Khadi Bhandar Pashchimi Madhya Bhag",
+    "totalVoters": 707,
+    "votes": {
+      "08:00": 62,
+      "10:00": 171,
+      "12:00": 299,
+      "14:00": 410,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 302,
+    "name": "Madhya Vidhyalay Nai Talim, Kanhauli, Khadi Bhandar Dakshin Bhag",
+    "totalVoters": 654,
+    "votes": {
+      "08:00": 83,
+      "10:00": 161,
+      "12:00": 304,
+      "14:00": 456,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 303,
+    "name": "Madhya Vidhyalay Nai Talim, Kanhauli, Khadi Bhandar Dakshin Madhya Bhag",
+    "totalVoters": 616,
+    "votes": {
+      "08:00": 101,
+      "10:00": 144,
+      "12:00": 293,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 304,
+    "name": "Nitishawar Aruvedik Collage, AN M Training School, BavanBidha Kanhauli Vishundatta, Pashchami Bhag",
+    "totalVoters": 1085,
+    "votes": {
+      "08:00": 93,
+      "10:00": 196,
+      "12:00": 334,
+      "14:00": 461,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 305,
+    "name": "Nitishawar Aruvedik Collage, A.N.M. Training School, Bavanbidha Kanhauli Vishundatta, Purav Bhag",
+    "totalVoters": 678,
+    "votes": {
+      "08:00": 73,
+      "10:00": 184,
+      "12:00": 257,
+      "14:00": 445,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 306,
+    "name": "Nitishawar Aruvedik Collage, A.N.M. Training School, Bavanbidha Kanhauli Vishundatta, Purav Madhya Bhag",
+    "totalVoters": 646,
+    "votes": {
+      "08:00": 57,
+      "10:00": 114,
+      "12:00": 189,
+      "14:00": 267,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 307,
+    "name": "Niteshawar Aruvedik Collage, A.N.M Trraining School, Bawan Bidha Kanhauli Vishundatta, Uttar Bhag",
+    "totalVoters": 707,
+    "votes": {
+      "08:00": 63,
+      "10:00": 121,
+      "12:00": 182,
+      "14:00": 296,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 308,
+    "name": "Niteshawar Ayruvedik Collage, A.N.M Training School, Bawan Bidha Kanhauli Vishundatta, Dakshin Bhag",
+    "totalVoters": 619,
+    "votes": {
+      "08:00": 78,
+      "10:00": 160,
+      "12:00": 223,
+      "14:00": 400,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 309,
+    "name": "Niteshawar Ayruvedik Collage, A.N.M Training School, Bawan Bidha Kanhauli Vishundatta, Dakshin Madhya Bhag",
+    "totalVoters": 623,
+    "votes": {
+      "08:00": 67,
+      "10:00": 204,
+      "12:00": 305,
+      "14:00": 429,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 310,
+    "name": "Prathamik Vidhyalay, Kanhauli Vishundatta, Ajarkave Math Daya Bhag",
+    "totalVoters": 1022,
+    "votes": {
+      "08:00": 122,
+      "10:00": 204,
+      "12:00": 357,
+      "14:00": 533,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 311,
+    "name": "Prathamik Vidhyalay, Kanhauli Vishundatta, Ajarkave Math Baya Bhag",
+    "totalVoters": 693,
+    "votes": {
+      "08:00": 93,
+      "10:00": 195,
+      "12:00": 264,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 312,
+    "name": "Rajkiye Madhya Vidhyalay, Mithanpura Hindi Muzaffarpur, Dakshin Bhag",
+    "totalVoters": 934,
+    "votes": {
+      "08:00": 146,
+      "10:00": 251,
+      "12:00": 352,
+      "14:00": 625,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 313,
+    "name": "Rajkiye Madhya Vidhyalay, Mithanpura Hindi Muzaffarpur, Purab Bhag",
+    "totalVoters": 938,
+    "votes": {
+      "08:00": 65,
+      "10:00": 153,
+      "12:00": 290,
+      "14:00": 421,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 314,
+    "name": "Rajkiye Madhya Vidhyalay, Mithanpura Hindi Muzaffarpur, Uttar Bhag",
+    "totalVoters": 547,
+    "votes": {
+      "08:00": 53,
+      "10:00": 114,
+      "12:00": 187,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 315,
+    "name": "Sanyukta Krishi Nideshak Ka Karyalay, Mithanpura, Muzaffarpur PaschimBhag",
+    "totalVoters": 803,
+    "votes": {
+      "08:00": 111,
+      "10:00": 186,
+      "12:00": 345,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 316,
+    "name": "Sanyukta Krishi Nideshak Ka Karyalaya, Mithanpura, Muzaffarpur Purab Bhag",
+    "totalVoters": 726,
+    "votes": {
+      "08:00": 67,
+      "10:00": 128,
+      "12:00": 236,
+      "14:00": 366,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 317,
+    "name": "Sanyukta Krishi Nideshak Ka Karyalay, Mithanpura, Muzaffarpur Uttar Bhag",
+    "totalVoters": 740,
+    "votes": {
+      "08:00": 66,
+      "10:00": 184,
+      "12:00": 299,
+      "14:00": 401,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 318,
+    "name": "Sanyukta Krishi Nideshak Ka Karyalaya, Mithanpura, Muzaffarpur Dakshin Bhag",
+    "totalVoters": 745,
+    "votes": {
+      "08:00": 65,
+      "10:00": 138,
+      "12:00": 194,
+      "14:00": 340,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 319,
+    "name": "Madhya Vidyalay, Sadapur, Urdu Kanya Purab Bhag",
+    "totalVoters": 723,
+    "votes": {
+      "08:00": 82,
+      "10:00": 180,
+      "12:00": 284,
+      "14:00": 463,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 320,
+    "name": "Madhya Vidyalay, Sadapur, Urdu Kanya Uttar Bhag",
+    "totalVoters": 698,
+    "votes": {
+      "08:00": 69,
+      "10:00": 150,
+      "12:00": 249,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 321,
+    "name": "Madhya Vidhyalay, Sadpura, Urdu Kanya Purab Madhya Bhag",
+    "totalVoters": 751,
+    "votes": {
+      "08:00": 99,
+      "10:00": 157,
+      "12:00": 247,
+      "14:00": 403,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 322,
+    "name": "Madhya Vidhyalay, Sadpura, Urdu Kanya Dakshin Bhag",
+    "totalVoters": 658,
+    "votes": {
+      "08:00": 93,
+      "10:00": 195,
+      "12:00": 338,
+      "14:00": 458,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 323,
+    "name": "Madhya Vidyalay, Sadpura, Urdu Kanya Paschim Madhya Bhag",
+    "totalVoters": 743,
+    "votes": {
+      "08:00": 73,
+      "10:00": 152,
+      "12:00": 202,
+      "14:00": 324,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 324,
+    "name": "Madhya Vidyalay, Sadpura, Urdu Kanya Paschim Bhag",
+    "totalVoters": 688,
+    "votes": {
+      "08:00": 79,
+      "10:00": 148,
+      "12:00": 251,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 325,
+    "name": "Madhya Vidyalay Sadpura Urdu Kanya Dakshin Madhya Bhag",
+    "totalVoters": 814,
+    "votes": {
+      "08:00": 98,
+      "10:00": 248,
+      "12:00": 383,
+      "14:00": 521,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 326,
+    "name": "Madhya Vidhyalay Sadpura Urdu Balak Purab Bhag",
+    "totalVoters": 805,
+    "votes": {
+      "08:00": 70,
+      "10:00": 134,
+      "12:00": 230,
+      "14:00": 344,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 327,
+    "name": "Orient Club, Amgola, Uttar Bhag",
+    "totalVoters": 579,
+    "votes": {
+      "08:00": 58,
+      "10:00": 189,
+      "12:00": 236,
+      "14:00": 387,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 328,
+    "name": "Orient Club, Amgola, Dakshin Bhag",
+    "totalVoters": 602,
+    "votes": {
+      "08:00": 58,
+      "10:00": 154,
+      "12:00": 209,
+      "14:00": 344,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 329,
+    "name": "Orient Club Ke Prangan Me Chalit Matdan Kendra, Daya Bhag Khata No.- 621, Khesara No.-177, K, Rakwa-11224 He.",
+    "totalVoters": 621,
+    "votes": {
+      "08:00": 50,
+      "10:00": 101,
+      "12:00": 176,
+      "14:00": 250,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 330,
+    "name": "Oriyanat Club Ke Prangan me Chalit Matdan Kendra, Baya Bhag Khata No.- 621, Khesara No.-177, K, Rakwa-11224 He.",
+    "totalVoters": 514,
+    "votes": {
+      "08:00": 59,
+      "10:00": 121,
+      "12:00": 168,
+      "14:00": 261,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 331,
+    "name": "Ray Bahadur Tunaki Sah Homeopathic Mahavidhalay, Ramadyalu nagar, Uttar Bhag",
+    "totalVoters": 1079,
+    "votes": {
+      "08:00": 114,
+      "10:00": 304,
+      "12:00": 405,
+      "14:00": 708,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 332,
+    "name": "Raybahadur Tunaki Sah Homeopathic Mahavidyalay Ramdayalu Nagar Dakshin Bhag",
+    "totalVoters": 658,
+    "votes": {
+      "08:00": 57,
+      "10:00": 158,
+      "12:00": 275,
+      "14:00": 369,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 333,
+    "name": "Prathamik Vidhyalay, Ataradah, Uttar Bhag",
+    "totalVoters": 988,
+    "votes": {
+      "08:00": 156,
+      "10:00": 274,
+      "12:00": 493,
+      "14:00": 668,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 334,
+    "name": "Prathamik Vidyalay Ataradah Uttar Purab Bhag",
+    "totalVoters": 775,
+    "votes": {
+      "08:00": 107,
+      "10:00": 211,
+      "12:00": 329,
+      "14:00": 483,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 335,
+    "name": "Prathmik Vidylay, Atardah, Dakshin Bhag",
+    "totalVoters": 853,
+    "votes": {
+      "08:00": 129,
+      "10:00": 235,
+      "12:00": 371,
+      "14:00": 567,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 336,
+    "name": "Prathamik Vidyalay Ataradah Dakschin Paschim Bhag",
+    "totalVoters": 751,
+    "votes": {
+      "08:00": 102,
+      "10:00": 165,
+      "12:00": 286,
+      "14:00": 424,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 337,
+    "name": "Prathamik Vidhyalay, Ataradah, Madhya Bhag",
+    "totalVoters": 825,
+    "votes": {
+      "08:00": 77,
+      "10:00": 230,
+      "12:00": 326,
+      "14:00": 493,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 338,
+    "name": "Prathamik Vidhyalay, Ataradah, Purab Bhag",
+    "totalVoters": 578,
+    "votes": {
+      "08:00": 66,
+      "10:00": 130,
+      "12:00": 224,
+      "14:00": 359,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 339,
+    "name": "Karyalay Karypalak Aviyanta Gandak Project, Tirahut Pramandal, Sadpura, Pashchim Bhag",
+    "totalVoters": 1127,
+    "votes": {
+      "08:00": 94,
+      "10:00": 211,
+      "12:00": 265,
+      "14:00": 455,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 340,
+    "name": "Karyalay Karyapalak Aviyanta Gandak Project, Tirahut Pramandal, Sadpura, Purab Bhag",
+    "totalVoters": 1015,
+    "votes": {
+      "08:00": 67,
+      "10:00": 152,
+      "12:00": 267,
+      "14:00": 413,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 341,
+    "name": "Sichayi Vibhag Ka Nirikshan Bhawan Jenith Petrol Pump Ke Samne Aghoriya Bazaar Daya Bhag",
+    "totalVoters": 868,
+    "votes": {
+      "08:00": 97,
+      "10:00": 223,
+      "12:00": 420,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 342,
+    "name": "Sinchai Vibhag ka Nirikshan Bhavan Jenith Petrol Ke Bagal Me Ke samane Aghoriya Bazaar Baya Bhag",
+    "totalVoters": 826,
+    "votes": {
+      "08:00": 85,
+      "10:00": 215,
+      "12:00": 305,
+      "14:00": 455,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 343,
+    "name": "Mushahar Vidhyalay, Milki Tola, Sadpura, Uttar Bhag",
+    "totalVoters": 719,
+    "votes": {
+      "08:00": 89,
+      "10:00": 212,
+      "12:00": 291,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 344,
+    "name": "Mushahar Vidhyalay, Milki Tola, Sadpura Ke Parisar Me Chalit Matdan Kendar Uttar Madhya Bhag",
+    "totalVoters": 684,
+    "votes": {
+      "08:00": 84,
+      "10:00": 128,
+      "12:00": 199,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 345,
+    "name": "Mushahar Vidhyalay, Milki Tola, Sadpura, Dakshin Bhag",
+    "totalVoters": 986,
+    "votes": {
+      "08:00": 109,
+      "10:00": 267,
+      "12:00": 360,
+      "14:00": 618,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 346,
+    "name": "Madhay Vidhalay Mithanpura Urdu Daya Bhag",
+    "totalVoters": 627,
+    "votes": {
+      "08:00": 52,
+      "10:00": 104,
+      "12:00": 183,
+      "14:00": 265,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 347,
+    "name": "Madhya Vidyalay Mithanpura Urdu Baya Bhag",
+    "totalVoters": 976,
+    "votes": {
+      "08:00": 74,
+      "10:00": 188,
+      "12:00": 260,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 348,
+    "name": "Samaj Bhawan, Bela Chhapara,",
+    "totalVoters": 958,
+    "votes": {
+      "08:00": 121,
+      "10:00": 260,
+      "12:00": 342,
+      "14:00": 525,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 349,
+    "name": "Rajkiya Prathamik Vidhyalay Bela Muzaffarpur",
+    "totalVoters": 693,
+    "votes": {
+      "08:00": 111,
+      "10:00": 215,
+      "12:00": 346,
+      "14:00": 462,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 350,
+    "name": "Rajkiya Prathamik Vidhyalay Bela Muzaffarpur Uttar Bhag",
+    "totalVoters": 632,
+    "votes": {
+      "08:00": 62,
+      "10:00": 125,
+      "12:00": 149,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 351,
+    "name": "Uttar Bihar Adhoyagik Kshetra Vikas Karyalay, Bela Purab Bhag",
+    "totalVoters": 1072,
+    "votes": {
+      "08:00": 164,
+      "10:00": 355,
+      "12:00": 442,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 352,
+    "name": "Uttar Bihar Adhyagik Ksheta Vikas Karyalay Bela Paschim Bhag",
+    "totalVoters": 556,
+    "votes": {
+      "08:00": 55,
+      "10:00": 154,
+      "12:00": 210,
+      "14:00": 344,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 353,
+    "name": "Uttar Bihar Adhyagik Ksheta Vikas Karyalay Bela Uttar Bhag",
+    "totalVoters": 603,
+    "votes": {
+      "08:00": 68,
+      "10:00": 156,
+      "12:00": 225,
+      "14:00": 339,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 354,
+    "name": "Vaishali Rural Business Management College, Mithanpura Lal, Purab Bhag",
+    "totalVoters": 621,
+    "votes": {
+      "08:00": 87,
+      "10:00": 146,
+      "12:00": 208,
+      "14:00": 363,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 355,
+    "name": "Vaishali Rural Business Management College, Mithanpura Lal, Uttar Bhag",
+    "totalVoters": 591,
+    "votes": {
+      "08:00": 47,
+      "10:00": 136,
+      "12:00": 199,
+      "14:00": 275,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 356,
+    "name": "Vaishali Rural Bijanes Mainejamenta Collage, Mithanpura Lala, Paschim Bhag",
+    "totalVoters": 1127,
+    "votes": {
+      "08:00": 86,
+      "10:00": 183,
+      "12:00": 304,
+      "14:00": 519,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 357,
+    "name": "Uttkramit Madhyalay Kanhauli Azarkbe Rajput Tola",
+    "totalVoters": 464,
+    "votes": {
+      "08:00": 45,
+      "10:00": 118,
+      "12:00": 174,
+      "14:00": 240,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 358,
+    "name": "Prathamik Vidhyalay, Patahi Rup Purab Bhag",
+    "totalVoters": 869,
+    "votes": {
+      "08:00": 100,
+      "10:00": 163,
+      "12:00": 304,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 359,
+    "name": "Prathmik Vidyalay Patahi Rup Paschim Bhag",
+    "totalVoters": 832,
+    "votes": {
+      "08:00": 75,
+      "10:00": 216,
+      "12:00": 270,
+      "14:00": 457,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 360,
+    "name": "Balak Madhya Vidhyalay, Patahi Purab Bhag",
+    "totalVoters": 938,
+    "votes": {
+      "08:00": 58,
+      "10:00": 185,
+      "12:00": 265,
+      "14:00": 387,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 361,
+    "name": "Balak Madhya Vidyalya Patahi Paschim Bhag",
+    "totalVoters": 869,
+    "votes": {
+      "08:00": 120,
+      "10:00": 235,
+      "12:00": 346,
+      "14:00": 502,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 362,
+    "name": "Balika Madhya Vidhyalay, Patahi Purab Bhag",
+    "totalVoters": 676,
+    "votes": {
+      "08:00": 66,
+      "10:00": 132,
+      "12:00": 247,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 363,
+    "name": "Balika Madhya Vidhyalay, Patahi Paschim Bhag",
+    "totalVoters": 616,
+    "votes": {
+      "08:00": 56,
+      "10:00": 105,
+      "12:00": 169,
+      "14:00": 300,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 364,
+    "name": "Prathamik Vidhyalay, Narayanpur, Patahi Purab Bhag",
+    "totalVoters": 831,
+    "votes": {
+      "08:00": 69,
+      "10:00": 162,
+      "12:00": 227,
+      "14:00": 338,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 365,
+    "name": "Prathamik Vidyalay Narayanapur Patahi Paschim Bhag",
+    "totalVoters": 768,
+    "votes": {
+      "08:00": 69,
+      "10:00": 203,
+      "12:00": 281,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 366,
+    "name": "Prathamik Vidhyalay, Nayatola Patahi, Lahladpur Purab Bhag",
+    "totalVoters": 701,
+    "votes": {
+      "08:00": 107,
+      "10:00": 225,
+      "12:00": 362,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 367,
+    "name": "Prathamik Vidyalay nayatola Patahi Lahladapur Paschim Bhag",
+    "totalVoters": 656,
+    "votes": {
+      "08:00": 75,
+      "10:00": 176,
+      "12:00": 307,
+      "14:00": 433,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 368,
+    "name": "Prathamik Vidhyalay, Methurapur",
+    "totalVoters": 1117,
+    "votes": {
+      "08:00": 99,
+      "10:00": 232,
+      "12:00": 327,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 369,
+    "name": "Uttkramit Madhya Vidhyalay, Bhagwanpur, Uttar Bhag",
+    "totalVoters": 1078,
+    "votes": {
+      "08:00": 130,
+      "10:00": 209,
+      "12:00": 391,
+      "14:00": 535,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 370,
+    "name": "Uttkramit Madhya Vidhyalay, Bhagwanpur, Dakshin Bhag",
+    "totalVoters": 627,
+    "votes": {
+      "08:00": 74,
+      "10:00": 145,
+      "12:00": 290,
+      "14:00": 400,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 371,
+    "name": "Mukhya Abhiyanta Ka Karyalya, Vidhut Apurti Vibhag, Bhagwanpur, Purab Bhag",
+    "totalVoters": 753,
+    "votes": {
+      "08:00": 88,
+      "10:00": 176,
+      "12:00": 291,
+      "14:00": 415,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 372,
+    "name": "Mukhya Abhiyanta ka Karyalay Vidut Apurti Vibhag Bhagwanpur Purab Madhaya Bhag",
+    "totalVoters": 845,
+    "votes": {
+      "08:00": 67,
+      "10:00": 153,
+      "12:00": 220,
+      "14:00": 384,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 373,
+    "name": "Mukhya Abhiyanta Ka Karyalay, Vidhut Apurti Vibhag, Bhagwanpur, Pashchim Bhag",
+    "totalVoters": 782,
+    "votes": {
+      "08:00": 115,
+      "10:00": 222,
+      "12:00": 323,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 374,
+    "name": "Mukhya Abhiyanta ka Karyalay Vidut Apurti Vibhag Bhagwanpur Pashchim Dakshin Bhag",
+    "totalVoters": 727,
+    "votes": {
+      "08:00": 76,
+      "10:00": 119,
+      "12:00": 179,
+      "14:00": 320,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 375,
+    "name": "Mukhya Abhiyanta Ka Karyalya, Vidhut Apurti Vibhag, Bhagwanpur, Paschim Madhay Bhag",
+    "totalVoters": 686,
+    "votes": {
+      "08:00": 88,
+      "10:00": 149,
+      "12:00": 224,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 376,
+    "name": "Mukhya Abhiyanta Ka Karyalya, Vidhut Apurti Vibhag, Bhagwanpur, Paschim Purab Bhag",
+    "totalVoters": 694,
+    "votes": {
+      "08:00": 115,
+      "10:00": 170,
+      "12:00": 359,
+      "14:00": 480,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 377,
+    "name": "Prathamik Vidhyalya, Yadav Tola, Pashchim Bhag",
+    "totalVoters": 588,
+    "votes": {
+      "08:00": 74,
+      "10:00": 155,
+      "12:00": 224,
+      "14:00": 313,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 378,
+    "name": "Prathamik Vidhyalya, Yadav Tola Prangan Me Chalit Matdan Kendar Purab Madhya Bhag",
+    "totalVoters": 584,
+    "votes": {
+      "08:00": 64,
+      "10:00": 151,
+      "12:00": 301,
+      "14:00": 404,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 379,
+    "name": "Prathamik Vidhyalay, Yadav Tola, Paschim Madhya Bhag",
+    "totalVoters": 1031,
+    "votes": {
+      "08:00": 79,
+      "10:00": 170,
+      "12:00": 282,
+      "14:00": 426,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 380,
+    "name": "Prathamik Vidhyalay, Yadav Tola, Purab Bhag",
+    "totalVoters": 971,
+    "votes": {
+      "08:00": 98,
+      "10:00": 193,
+      "12:00": 306,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 381,
+    "name": "Prathamik Vidhyalay Yadav Tola Prangan Me Chalnat Matdan Kendar",
+    "totalVoters": 1028,
+    "votes": {
+      "08:00": 112,
+      "10:00": 228,
+      "12:00": 342,
+      "14:00": 601,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 382,
+    "name": "Panchayat Bhavan, Bhagwanpur, Uttar Bhag",
+    "totalVoters": 664,
+    "votes": {
+      "08:00": 78,
+      "10:00": 163,
+      "12:00": 256,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 383,
+    "name": "Panchayat Bhavan, Bhagwanpur, Purab Bhag",
+    "totalVoters": 605,
+    "votes": {
+      "08:00": 71,
+      "10:00": 166,
+      "12:00": 242,
+      "14:00": 378,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 384,
+    "name": "Panchayat Bhawan, Bhagwanpur, Madhya Bhag",
+    "totalVoters": 888,
+    "votes": {
+      "08:00": 77,
+      "10:00": 177,
+      "12:00": 254,
+      "14:00": 357,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 385,
+    "name": "Uttakramit Madhya Vidhyalya, Bhagwanpur Ke Parisar Me C.R.C. Bhawan Bhagwanpur (Uttar Bhag)",
+    "totalVoters": 1087,
+    "votes": {
+      "08:00": 80,
+      "10:00": 240,
+      "12:00": 273,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 386,
+    "name": "Uttkramit Madhya Vidhyalay Bhagwanpur Ke Parisar me C. R. C.Bhawan Bhagwanpur Uttar Madhya Bhag",
+    "totalVoters": 901,
+    "votes": {
+      "08:00": 70,
+      "10:00": 161,
+      "12:00": 286,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 387,
+    "name": "Uttkramit Madhya Vidyalay, Bhagwanpur Ke Parisar Me C.R.C.Bhawan, Bhagwanpur, Dakshin Bhag",
+    "totalVoters": 661,
+    "votes": {
+      "08:00": 67,
+      "10:00": 164,
+      "12:00": 203,
+      "14:00": 361,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 388,
+    "name": "Uttkramit Madhya Vidyalay, Bhagwanpur Ke Parisar Me C.R.C.Bhawan, Bhagwanpur, Dakshin Madhya Bhag",
+    "totalVoters": 658,
+    "votes": {
+      "08:00": 60,
+      "10:00": 100,
+      "12:00": 158,
+      "14:00": 277,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 389,
+    "name": "Karypalak Abhiyanta Muzaffarpur, Pashchim Vidhut Apurti Vibhag, Bhagwanpur, Daya Bhag",
+    "totalVoters": 604,
+    "votes": {
+      "08:00": 68,
+      "10:00": 203,
+      "12:00": 277,
+      "14:00": 414,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 390,
+    "name": "Karyapalak Abhiyanta Muzaffarpur Pashchim vidut Apurti Vibhag Bhagwanpur Baya Bhag",
+    "totalVoters": 809,
+    "votes": {
+      "08:00": 75,
+      "10:00": 178,
+      "12:00": 265,
+      "14:00": 372,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 391,
+    "name": "Prathamik Vidhyalay, Madhubani Daya Bhag",
+    "totalVoters": 952,
+    "votes": {
+      "08:00": 121,
+      "10:00": 256,
+      "12:00": 349,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 392,
+    "name": "Uttkramit Madhya Vidhyalay Chausima, Uttar Bhag",
+    "totalVoters": 705,
+    "votes": {
+      "08:00": 84,
+      "10:00": 153,
+      "12:00": 288,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 393,
+    "name": "Utkramit Madhya Vidyalay, Chausima, Uttar Madhya Bhag",
+    "totalVoters": 683,
+    "votes": {
+      "08:00": 98,
+      "10:00": 180,
+      "12:00": 232,
+      "14:00": 404,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 394,
+    "name": "Uttkramit Madhya Vidhyalay, Chausima, Dakshin Bhag",
+    "totalVoters": 1021,
+    "votes": {
+      "08:00": 73,
+      "10:00": 161,
+      "12:00": 311,
+      "14:00": 441,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 395,
+    "name": "Uttkramit Madhya Vidhyalay Chausima Dakshin Madhya Bhag",
+    "totalVoters": 1014,
+    "votes": {
+      "08:00": 115,
+      "10:00": 246,
+      "12:00": 389,
+      "14:00": 675,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 396,
+    "name": "Madhya Vidhyalay, Madapur Purab Bhag",
+    "totalVoters": 713,
+    "votes": {
+      "08:00": 51,
+      "10:00": 120,
+      "12:00": 217,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 397,
+    "name": "Madhya Vidhyalay, Madapur Paschim Bhag",
+    "totalVoters": 666,
+    "votes": {
+      "08:00": 76,
+      "10:00": 184,
+      "12:00": 272,
+      "14:00": 428,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 398,
+    "name": "Madhya Vidhyalay, Pakari Ismail Uttar Bhag",
+    "totalVoters": 949,
+    "votes": {
+      "08:00": 74,
+      "10:00": 199,
+      "12:00": 236,
+      "14:00": 429,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 399,
+    "name": "Madhya Vidhyalay, Pakari Ismail Dakshin Bhag",
+    "totalVoters": 932,
+    "votes": {
+      "08:00": 59,
+      "10:00": 186,
+      "12:00": 260,
+      "14:00": 379,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 400,
+    "name": "Prathamik Vidhyalya, Gobrasahi, Uttar Bhag",
+    "totalVoters": 1009,
+    "votes": {
+      "08:00": 159,
+      "10:00": 322,
+      "12:00": 385,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 401,
+    "name": "Prathamik Vidhyalay Gobarsahi Purab Bhag",
+    "totalVoters": 973,
+    "votes": {
+      "08:00": 138,
+      "10:00": 273,
+      "12:00": 397,
+      "14:00": 590,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 402,
+    "name": "Prathamik Vidhyalya, Gobrashi, Madhya Bhag",
+    "totalVoters": 618,
+    "votes": {
+      "08:00": 79,
+      "10:00": 158,
+      "12:00": 254,
+      "14:00": 364,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 403,
+    "name": "Prathamik Vidhyalya, Gobrasahi, Purab Madhya Bhag",
+    "totalVoters": 593,
+    "votes": {
+      "08:00": 78,
+      "10:00": 123,
+      "12:00": 254,
+      "14:00": 342,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 404,
+    "name": "Prathamik Vidhyalay, Gobarashi, Dakshin Bhag",
+    "totalVoters": 772,
+    "votes": {
+      "08:00": 111,
+      "10:00": 196,
+      "12:00": 270,
+      "14:00": 459,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 405,
+    "name": "Prathamik Vidyalay, Gobarasahi Dakshin Madhya Bhag",
+    "totalVoters": 763,
+    "votes": {
+      "08:00": 78,
+      "10:00": 230,
+      "12:00": 315,
+      "14:00": 521,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 406,
+    "name": "Prathamik Vidhyalay, Dumari, Purwi Bhag",
+    "totalVoters": 1109,
+    "votes": {
+      "08:00": 103,
+      "10:00": 197,
+      "12:00": 304,
+      "14:00": 500,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 407,
+    "name": "Prathamik Vidhyalay, Dumari, Pashchimi Bhag",
+    "totalVoters": 833,
+    "votes": {
+      "08:00": 137,
+      "10:00": 235,
+      "12:00": 420,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 408,
+    "name": "Prathamik Vidyalay, Dumari Paschim Madhya Bhag",
+    "totalVoters": 781,
+    "votes": {
+      "08:00": 134,
+      "10:00": 265,
+      "12:00": 391,
+      "14:00": 544,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 409,
+    "name": "Madhya Vidhyalay, Mazauliya, Uttar Bhag",
+    "totalVoters": 961,
+    "votes": {
+      "08:00": 99,
+      "10:00": 222,
+      "12:00": 284,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 410,
+    "name": "Madhya Vidhyalay Majhauliya, Paschim Bhag",
+    "totalVoters": 857,
+    "votes": {
+      "08:00": 96,
+      "10:00": 179,
+      "12:00": 249,
+      "14:00": 438,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 411,
+    "name": "Mahesh Prasad Singh Science College Majhauliya, Muzaffarpur, Daya Bhag",
+    "totalVoters": 664,
+    "votes": {
+      "08:00": 82,
+      "10:00": 166,
+      "12:00": 240,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 412,
+    "name": "Mahesh Prasad Singh Science College Majhauliya, Muzaffarpur, Uttar Bhag",
+    "totalVoters": 593,
+    "votes": {
+      "08:00": 74,
+      "10:00": 128,
+      "12:00": 191,
+      "14:00": 307,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 413,
+    "name": "Madhya Vidhyalay, Mazauliya, Madhya Dakshin Bhag",
+    "totalVoters": 537,
+    "votes": {
+      "08:00": 34,
+      "10:00": 94,
+      "12:00": 146,
+      "14:00": null,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 414,
+    "name": "Madhya Vidhyalay, Mazauliya, Dakshin Bhag",
+    "totalVoters": 542,
+    "votes": {
+      "08:00": 63,
+      "10:00": 104,
+      "12:00": 169,
+      "14:00": 281,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 415,
+    "name": "Mahesh Prasad Singh Science College Majhauliya, Muzaffarpur, Baya Bhag",
+    "totalVoters": 736,
+    "votes": {
+      "08:00": 62,
+      "10:00": 143,
+      "12:00": 216,
+      "14:00": 328,
+      "16:00": null,
+      "18:00": null
+    }
+  },
+  {
+    "id": 416,
+    "name": "Mahesh Prasad Singh Science College Majhauliya, Muzaffarpur, Dakshin Bhag",
+    "totalVoters": 585,
+    "votes": {
+      "08:00": 79,
+      "10:00": 137,
+      "12:00": 212,
       "14:00": null,
       "16:00": null,
       "18:00": null
