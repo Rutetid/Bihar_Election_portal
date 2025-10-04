@@ -7,6 +7,8 @@ const VotingTable = ({
   timeLabels,
   getCellStatus,
   getStatusColor,
+  onEditBooth,
+  user,
 }) => {
   const navigate = useNavigate();
   const [currentPage, setCurrentPage] = useState(1);
@@ -84,6 +86,11 @@ const VotingTable = ({
                 <th className="px-3 py-4 text-center text-xs font-medium text-gray-500 uppercase tracking-wider min-w-[100px]">
                   Total Votes Cast
                 </th>
+                {user?.role === "admin" && (
+                  <th className="px-3 py-4 text-center text-xs font-medium text-gray-500 uppercase tracking-wider min-w-[100px]">
+                    Actions
+                  </th>
+                )}
               </tr>
             </thead>
             <tbody className="bg-white divide-y divide-gray-200">
@@ -152,6 +159,29 @@ const VotingTable = ({
                       </div>
                     </div>
                   </td>
+                  {user?.role === "admin" && (
+                    <td className="px-3 py-4 text-center whitespace-nowrap">
+                      <button
+                        onClick={() => onEditBooth(booth)}
+                        className="px-3 py-1 bg-blue-600 hover:bg-blue-700 text-white text-sm rounded-lg transition-colors flex items-center gap-1 mx-auto"
+                      >
+                        <svg
+                          className="w-4 h-4"
+                          fill="none"
+                          stroke="currentColor"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            strokeWidth={2}
+                            d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"
+                          />
+                        </svg>
+                        Edit
+                      </button>
+                    </td>
+                  )}
                 </tr>
               ))}
             </tbody>

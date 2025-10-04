@@ -18,10 +18,32 @@ const BoothDetails = () => {
   const navigate = useNavigate();
   const [booth, setBooth] = useState(null);
   const [chartData, setChartData] = useState([]);
+  const [refreshTrigger, setRefreshTrigger] = useState(0);
 
   useEffect(() => {
+    // Load booth data from localStorage or fallback to JSON
+    const loadBoothData = () => {
+      const savedData = localStorage.getItem("boothData");
+      let allBooths;
+
+      if (savedData) {
+        try {
+          allBooths = JSON.parse(savedData);
+        } catch (error) {
+          console.error("Error parsing saved booth data:", error);
+          allBooths = boothDataJson;
+        }
+      } else {
+        allBooths = boothDataJson;
+      }
+
+      return allBooths;
+    };
+
     // Find the booth data - convert boothId from string to number
-    const foundBooth = boothDataJson.find((b) => b.id === parseInt(boothId));
+    const allBooths = loadBoothData();
+    const foundBooth = allBooths.find((b) => b.id === parseInt(boothId));
+
     if (foundBooth) {
       setBooth(foundBooth);
 
@@ -36,7 +58,31 @@ const BoothDetails = () => {
 
       setChartData(data);
     }
-  }, [boothId]);
+  }, [boothId, refreshTrigger]);
+
+  // Listen for localStorage changes (when data is updated from other components)
+  useEffect(() => {
+    const handleStorageChange = (e) => {
+      if (e.key === "boothData") {
+        setRefreshTrigger((prev) => prev + 1);
+      }
+    };
+
+    // Listen for storage events (from other tabs/windows)
+    window.addEventListener("storage", handleStorageChange);
+
+    // Custom event for same-tab updates
+    const handleCustomRefresh = () => {
+      setRefreshTrigger((prev) => prev + 1);
+    };
+
+    window.addEventListener("boothDataUpdated", handleCustomRefresh);
+
+    return () => {
+      window.removeEventListener("storage", handleStorageChange);
+      window.removeEventListener("boothDataUpdated", handleCustomRefresh);
+    };
+  }, []);
 
   if (!booth) {
     return (
@@ -67,26 +113,48 @@ const BoothDetails = () => {
       <Navbar />
 
       <div className="max-w-7xl mx-auto px-6 py-8">
-        {/* Back Button */}
-        <button
-          onClick={() => navigate("/dashboard")}
-          className="mb-6 flex items-center gap-2 text-blue-700 hover:text-blue-800 font-medium transition-colors"
-        >
-          <svg
-            className="w-5 h-5"
-            fill="none"
-            stroke="currentColor"
-            viewBox="0 0 24 24"
+        {/* Navigation Buttons */}
+        <div className="mb-6 flex items-center justify-between">
+          <button
+            onClick={() => navigate("/dashboard")}
+            className="flex items-center gap-2 text-blue-700 hover:text-blue-800 font-medium transition-colors"
           >
-            <path
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              strokeWidth={2}
-              d="M15 19l-7-7 7-7"
-            />
-          </svg>
-          Back to Dashboard
-        </button>
+            <svg
+              className="w-5 h-5"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M15 19l-7-7 7-7"
+              />
+            </svg>
+            Back to Dashboard
+          </button>
+
+          <button
+            onClick={() => setRefreshTrigger((prev) => prev + 1)}
+            className="flex items-center gap-2 px-4 py-2 bg-green-100 text-green-700 hover:bg-green-200 rounded-lg font-medium transition-colors"
+          >
+            <svg
+              className="w-4 h-4"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"
+              />
+            </svg>
+            Refresh Data
+          </button>
+        </div>
 
         {/* Booth Header */}
         <div className="bg-white rounded-2xl shadow-sm p-8 mb-8">
