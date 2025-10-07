@@ -15,7 +15,7 @@ const Home = () => {
               Muzaffarpur Vidhan Sabha Portal
             </h1>
             <p className="text-xl text-gray-600 mb-10 max-w-2xl mx-auto">
-              Real-time election monitoring system for Muzzafarpur Vidhan Sabha
+              Real-time election monitoring system for Muzaffarpur Vidhan Sabha
               Constituency
             </p>
             <Link
