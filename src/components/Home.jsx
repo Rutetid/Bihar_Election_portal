@@ -12,7 +12,7 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-6 py-20">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-6">
-              Muzzafarpur Vidhan Sabha Portal
+              Muzaffarpur Vidhan Sabha Portal
             </h1>
             <p className="text-xl text-gray-600 mb-10 max-w-2xl mx-auto">
               Real-time election monitoring system for Muzzafarpur Vidhan Sabha
