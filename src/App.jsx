@@ -6,6 +6,7 @@ import Dashboard from "./components/Dashboard";
 import BoothDetails from "./components/BoothDetails";
 import Login from "./components/Login";
 import OfficerDashboard from "./components/OfficerDashboard";
+import ProtectedRoute from "./components/ProtectedRoute";
 
 function App() {
   return (
@@ -13,10 +14,31 @@ function App() {
       <Router>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/dashboard" element={<Dashboard />} />
-          <Route path="/booth/:boothId" element={<BoothDetails />} />
           <Route path="/login" element={<Login />} />
-          <Route path="/officer-dashboard" element={<OfficerDashboard />} />
+          <Route
+            path="/dashboard"
+            element={
+              <ProtectedRoute requiredRole="admin">
+                <Dashboard />
+              </ProtectedRoute>
+            }
+          />
+          <Route
+            path="/officer-dashboard"
+            element={
+              <ProtectedRoute requiredRole="presiding-officer">
+                <OfficerDashboard />
+              </ProtectedRoute>
+            }
+          />
+          <Route
+            path="/booth/:boothId"
+            element={
+              <ProtectedRoute>
+                <BoothDetails />
+              </ProtectedRoute>
+            }
+          />
         </Routes>
       </Router>
     </AuthProvider>

@@ -30,16 +30,6 @@ const OfficerDashboard = () => {
     return time;
   });
 
-  // Redirect if not authenticated or not an officer
-  useEffect(() => {
-    // Don't redirect while still loading
-    if (isLoading) return;
-
-    if (!isAuthenticated || user?.role !== "presiding-officer") {
-      navigate("/login");
-    }
-  }, [isAuthenticated, user, navigate, isLoading]);
-
   // Load booth data from localStorage or default JSON
   useEffect(() => {
     if (!assignedBoothId) return;
