@@ -39,14 +39,48 @@ const Dashboard = () => {
   const [editForm, setEditForm] = useState({});
   const [showEditModal, setShowEditModal] = useState(false);
   const [activeTab, setActiveTab] = useState("dashboard");
+  const [selectedBlock, setSelectedBlock] = useState("All");
 
   const timeSlots = ["08:00", "10:00", "12:00", "14:00", "16:00", "18:00"];
   const timeLabels = ["8 AM", "10 AM", "12 PM", "2 PM", "4 PM", "6 PM"];
 
-  // Filter booths based on search term
-  const filteredBooths = boothData.filter((booth) =>
-    booth.name.toLowerCase().includes(searchTerm.toLowerCase())
-  );
+  // Block names for Muzaffarpur district
+  const blocks = [
+    "All",
+    "Aurai",
+    "Bandra",
+    "Bochahan",
+    "Gaighat",
+    "Kanti",
+    "Katra",
+    "Kurhani",
+    "Marwan",
+    "Minapur",
+    "Motipur (Baruraj)",
+    "Muraul (Dholi)",
+    "Mushahari (Musahri)",
+    "Paroo",
+    "Sahebganj",
+    "Sakra",
+    "Saraiya",
+  ];
+
+  // Function to randomly assign booths to blocks
+  const assignBoothToBlock = (boothId) => {
+    // Use booth ID for consistent random assignment
+    const blockIndex = (boothId - 1) % 16; // Distribute among 16 blocks (excluding "All")
+    return blocks[blockIndex + 1]; // +1 to skip "All" option
+  };
+
+  // Filter booths based on search term and selected block
+  const filteredBooths = boothData.filter((booth) => {
+    const matchesSearch = booth.name
+      .toLowerCase()
+      .includes(searchTerm.toLowerCase());
+    const matchesBlock =
+      selectedBlock === "All" || assignBoothToBlock(booth.id) === selectedBlock;
+    return matchesSearch && matchesBlock;
+  });
 
   // Load data from localStorage or use default JSON data
   useEffect(() => {
@@ -694,6 +728,61 @@ const Dashboard = () => {
 
         {activeTab === "data" && (
           <div>
+            {/* Block Filter Chips */}
+            <div className="mb-6">
+              <h3 className="text-lg font-semibold text-gray-900 mb-4">
+                Filter by Block
+              </h3>
+              <div className="flex flex-wrap gap-2">
+                {blocks.map((block) => (
+                  <button
+                    key={block}
+                    onClick={() => setSelectedBlock(block)}
+                    className={`px-4 py-2 rounded-full text-sm font-medium transition-all duration-200 ${
+                      selectedBlock === block
+                        ? "bg-blue-500 text-white shadow-lg"
+                        : "bg-blue-50 text-blue-700 hover:bg-blue-100 hover:shadow-md"
+                    }`}
+                  >
+                    {block}
+                    {block !== "All" && (
+                      <span
+                        className={`ml-2 px-2 py-1 rounded-full text-xs ${
+                          selectedBlock === block
+                            ? "bg-blue-400 text-white"
+                            : "bg-blue-200 text-blue-800"
+                        }`}
+                      >
+                        {
+                          boothData.filter(
+                            (booth) => assignBoothToBlock(booth.id) === block
+                          ).length
+                        }
+                      </span>
+                    )}
+                    {block === "All" && (
+                      <span
+                        className={`ml-2 px-2 py-1 rounded-full text-xs ${
+                          selectedBlock === block
+                            ? "bg-blue-400 text-white"
+                            : "bg-blue-200 text-blue-800"
+                        }`}
+                      >
+                        {boothData.length}
+                      </span>
+                    )}
+                  </button>
+                ))}
+              </div>
+              {selectedBlock !== "All" && (
+                <p className="mt-3 text-sm text-gray-600">
+                  Showing {filteredBooths.length} booths in{" "}
+                  <span className="font-medium">{selectedBlock}</span> block
+                  {searchTerm && ` matching "${searchTerm}"`}
+                </p>
+              )}
+            </div>
+
             {/* Search Bar */}
             <div>
               <p className="text-xs text-gray-500 text-end mb-5 pr-2">
