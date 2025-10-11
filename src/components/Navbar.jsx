@@ -43,7 +43,7 @@ const Navbar = () => {
                 </span>
               </div>
 
-              {/* Officer Navigation Links */}
+              {/* Officer Navigation Links
               {user?.role === "presiding-officer" && (
                 <div className="flex items-center gap-2">
                   <Link
@@ -59,7 +59,7 @@ const Navbar = () => {
                     My Booth
                   </Link>
                 </div>
-              )}
+              )} */}
 
               <button
                 onClick={handleLogout}

@@ -37,24 +37,6 @@ const Home = () => {
                 />
               </svg>
             </Link>
-
-            {/* Feature Stats */}
-            <div className="grid grid-cols-3 gap-8 mt-16 max-w-3xl mx-auto py-2">
-              <div className="text-center">
-                <div className="text-4xl font-bold text-blue-700 mb-2">416</div>
-                <div className="text-sm text-gray-600">Polling Booths</div>
-              </div>
-              <div className="text-center">
-                <div className="text-4xl font-bold text-blue-700 mb-2">6</div>
-                <div className="text-sm text-gray-600">Time Slots</div>
-              </div>
-              <div className="text-center">
-                <div className="text-4xl font-bold text-blue-700 mb-2">
-                  Live
-                </div>
-                <div className="text-sm text-gray-600">Real-time Data</div>
-              </div>
-            </div>
           </div>
         </div>
 
