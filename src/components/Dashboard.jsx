@@ -130,7 +130,7 @@ const Dashboard = () => {
       return "received"; // Green - data received
     } else if (minutesDiff < 0) {
       return "future"; // Gray - future time slot
-    } else if (minutesDiff > 15) {
+    } else if (minutesDiff > 20) {
       return "overdue"; // Red - overdue (15+ minutes late)
     } else {
       return "pending"; // Yellow - within 15 minutes
@@ -730,10 +730,10 @@ const Dashboard = () => {
           <div>
             {/* Block Filter Chips */}
             <div className="mb-6">
-              <h3 className="text-lg font-semibold text-gray-900 mb-4">
+              <h3 className="text-lg font-semibold text-gray-900 mb-4 text-center">
                 Filter by Block
               </h3>
-              <div className="flex flex-wrap gap-2">
+              <div className="flex flex-wrap gap-2 justify-center">
                 {blocks.map((block) => (
                   <button
                     key={block}
@@ -864,6 +864,7 @@ const Dashboard = () => {
                 getStatusColor={getStatusColor}
                 onEditBooth={handleEditBooth}
                 user={user}
+                disablePagination={selectedBlock !== "All"}
               />
             ) : (
               <div className="bg-white rounded-xl shadow-sm border border-gray-200 p-12 text-center">

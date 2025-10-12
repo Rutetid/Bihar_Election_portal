@@ -14,7 +14,7 @@ const StatusLegend = () => {
       <div className="flex items-center space-x-2">
         <div className="w-4 h-4 bg-red-500 rounded animate-pulse"></div>
         <span className="text-sm font-medium text-gray-700">
-          Overdue (15+ min)
+          Overdue (20+ min)
         </span>
       </div>
     </div>

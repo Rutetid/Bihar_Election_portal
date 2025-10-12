@@ -9,6 +9,7 @@ const VotingTable = ({
   getStatusColor,
   onEditBooth,
   user,
+  disablePagination = false,
 }) => {
   const navigate = useNavigate();
   const [currentPage, setCurrentPage] = useState(1);
@@ -17,7 +18,9 @@ const VotingTable = ({
   // Calculate pagination
   const indexOfLastBooth = currentPage * boothsPerPage;
   const indexOfFirstBooth = indexOfLastBooth - boothsPerPage;
-  const currentBooths = boothData.slice(indexOfFirstBooth, indexOfLastBooth);
+  const currentBooths = disablePagination
+    ? boothData
+    : boothData.slice(indexOfFirstBooth, indexOfLastBooth);
   const totalPages = Math.ceil(boothData.length / boothsPerPage);
 
   const handlePageChange = (pageNumber) => {
@@ -190,7 +193,7 @@ const VotingTable = ({
       </div>
 
       {/* Pagination Controls */}
-      {totalPages > 1 && (
+      {!disablePagination && totalPages > 1 && (
         <div className="mt-6 flex items-center justify-between px-4">
           <div className="text-sm text-gray-600">
             Showing {indexOfFirstBooth + 1} to{" "}

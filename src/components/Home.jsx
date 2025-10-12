@@ -241,12 +241,12 @@ const Home = () => {
             <div className="text-center">
               <div className="w-16 h-16 bg-amber-400 rounded-xl mx-auto mb-3"></div>
               <h4 className="font-bold text-gray-900 mb-1">Awaiting Data</h4>
-              <p className="text-sm text-gray-600">Within 15 minutes</p>
+              <p className="text-sm text-gray-600">Within 20 minutes</p>
             </div>
             <div className="text-center">
               <div className="w-16 h-16 bg-red-500 rounded-xl mx-auto mb-3"></div>
               <h4 className="font-bold text-gray-900 mb-1">Overdue</h4>
-              <p className="text-sm text-gray-600">15+ minutes late</p>
+              <p className="text-sm text-gray-600">20+ minutes late</p>
             </div>
             <div className="text-center">
               <div className="w-16 h-16 bg-gray-400 rounded-xl mx-auto mb-3"></div>
