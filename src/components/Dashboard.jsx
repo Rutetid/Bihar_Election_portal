@@ -38,8 +38,15 @@ const Dashboard = () => {
   const [editingBooth, setEditingBooth] = useState(null);
   const [editForm, setEditForm] = useState({});
   const [showEditModal, setShowEditModal] = useState(false);
-  const [activeTab, setActiveTab] = useState("dashboard");
+  const [activeTab, setActiveTab] = useState(() => {
+    return localStorage.getItem("activeTab") || "dashboard";
+  });
   const [selectedBlock, setSelectedBlock] = useState("All");
+
+  // Persist activeTab changes to localStorage
+  useEffect(() => {
+    localStorage.setItem("activeTab", activeTab);
+  }, [activeTab]);
 
   const timeSlots = ["08:00", "10:00", "12:00", "14:00", "16:00", "18:00"];
   const timeLabels = ["8 AM", "10 AM", "12 PM", "2 PM", "4 PM", "6 PM"];
@@ -401,6 +408,12 @@ const Dashboard = () => {
         [timeSlot]: numValue,
       },
     });
+  };
+
+  // Callback function to update booth data from child components
+  const handleBoothDataUpdate = (updatedData) => {
+    setBoothData(updatedData);
+    localStorage.setItem("boothData", JSON.stringify(updatedData));
   };
 
   return (
@@ -863,6 +876,7 @@ const Dashboard = () => {
                 getCellStatus={getCellStatus}
                 getStatusColor={getStatusColor}
                 onEditBooth={handleEditBooth}
+                onBoothDataUpdate={handleBoothDataUpdate}
                 user={user}
                 disablePagination={selectedBlock !== "All"}
               />
@@ -911,7 +925,14 @@ const Dashboard = () => {
 
         {/* Edit Modal */}
         {showEditModal && editingBooth && (
-          <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+          <div
+            className="fixed inset-0 flex items-center justify-center z-50"
+            style={{
+              background: "rgba(0, 0, 0, 0.3)",
+              backdropFilter: "blur(10px)",
+              WebkitBackdropFilter: "blur(10px)",
+            }}
+          >
             <div className="bg-white rounded-2xl p-8 max-w-2xl w-full mx-4 max-h-[90vh] overflow-y-auto">
               <div className="flex justify-between items-center mb-6">
                 <h2 className="text-2xl font-bold text-gray-900">
