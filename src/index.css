@@ -7,28 +7,28 @@ body {
 
 /* Vote cell status styles */
 .vote-cell-received {
-  background-color: #10b981;
-  color: white;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  background-color: #f0fdf4;
+  color: #15803d;
+  border: 1px solid #bbf7d0;
 }
 
 .vote-cell-pending {
-  background-color: #f59e0b;
-  color: white;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  background-color: #fefce8;
+  color: #a16207;
+  border: 1px solid #fef08a;
 }
 
 .vote-cell-overdue {
-  background-color: #ef4444;
-  color: white;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  background-color: #fef2f2;
+  color: #b91c1c;
+  border: 1px solid #fecaca;
   /* animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite; */
 }
 
 .vote-cell-future {
-  background-color: #9ca3af;
-  color: white;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  background-color: #f9fafb;
+  color: #374151;
+  border: 1px solid #e5e7eb;
 }
 
 @keyframes pulse {

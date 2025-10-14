@@ -158,39 +158,39 @@ const VotingTable = ({
 
   return (
     <div>
-      <div className="bg-white rounded- shadow-sm border border-gray-200 overflow-hidden">
+      <div className="bg-white shadow-lg overflow-hidden border border-gray-100">
         <div className="overflow-x-auto">
           <table className="w-full">
-            <thead className="bg-gray-50 border-b border-gray-200">
+            <thead className="">
               <tr>
-                <th className="px-5 py-4 text-left text-xs font-medium text-gray-500 uppercase tracking-wider w-16">
-                  S/N
+                <th className="pl-2 py-4 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider w-12">
+                  <div className="flex items-center gap-2 ml-2">S/N</div>
                 </th>
-                <th className="px-6 py-4 text-left text-xs font-medium text-gray-500 uppercase tracking-wider w-96">
-                  Booth Name ↗
+                <th className="px-4 py-4 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider w-[400px]">
+                  Booth Name
                 </th>
-                <th className="px-3 py-4 text-center text-xs font-medium text-gray-500 uppercase tracking-wider min-w-[100px]">
+                <th className="px-3 py-4 text-center text-xs font-semibold text-gray-600 uppercase tracking-wider w-[100px]">
                   Total Voters
                 </th>
                 {timeLabels.map((label, index) => (
                   <th
                     key={timeSlots[index]}
-                    className="px-3 py-4 text-center text-xs font-medium text-gray-500 uppercase tracking-wider min-w-[100px]"
+                    className="px-3 py-4 text-center text-xs font-semibold text-gray-600 uppercase tracking-wider w-[100px]"
                   >
                     {label}
                   </th>
                 ))}
-                <th className="px-3 py-4 text-center text-xs font-medium text-gray-500 uppercase tracking-wider min-w-[100px]">
-                  Total Votes Cast
+                <th className="px-3 py-4 text-center text-xs font-semibold text-gray-600 uppercase tracking-wider w-[100px]">
+                  Total Votes
                 </th>
                 {user?.role === "admin" && (
-                  <th className="px-3 py-4 text-center text-xs font-medium text-gray-500 uppercase tracking-wider min-w-[100px]">
+                  <th className="px-4 py-4 text-center text-xs font-semibold text-gray-600 uppercase tracking-wider w-[120px]">
                     Actions
                   </th>
                 )}
               </tr>
             </thead>
-            <tbody className="bg-white divide-y divide-gray-200">
+            <tbody className="bg-white divide-y divide-gray-100">
               {currentBooths.map((booth, index) => {
                 // Check if any cell in this row has red/overdue status
                 const hasOverdueCell = timeSlots.some((timeSlot) => {
@@ -203,30 +203,41 @@ const VotingTable = ({
                 return (
                   <tr
                     key={booth.id}
-                    className={`transition-colors ${
+                    className={`transition-all duration-200 border-t border-b border-gray-200 ${
                       hasOverdueCell
-                        ? "bg-red-100 hover:bg-red-200"
+                        ? "bg-red-50 hover:bg-red-100"
                         : "hover:bg-gray-50"
                     }`}
                   >
-                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                      {indexOfFirstBooth + index + 1}.
+                    <td className="px-4 py-2">
+                      <div className="flex items-center gap-3">
+                        <span className="text-sm font-medium text-gray-900">
+                          {indexOfFirstBooth + index + 1}
+                        </span>
+                      </div>
                     </td>
-                    <td className="px-6 py-4 text-sm font-medium max-w-md">
-                      <div className="flex items-start gap-2">
-                        <button
-                          onClick={() => navigate(`/booth/${booth.id}`)}
-                          className="text-blue-700 hover:text-blue-800 hover:underline text-left break-words transition-colors flex-1"
-                        >
-                          {booth.name}
-                        </button>
+                    <td className="px-4 py-2 w-[400px]">
+                      <div className="flex items-center justify-between gap-3">
+                        <div className="flex-1 min-w-0">
+                          <button
+                            onClick={() => navigate(`/booth/${booth.id}`)}
+                            className="text-sm font-medium text-gray-900 hover:text-blue-600 transition-colors text-left break-words whitespace-normal w-full"
+                          >
+                            {booth.name}
+                          </button>
+                          {booth.block && (
+                            <div className="text-xs text-gray-500 mt-1">
+                              {booth.block}
+                            </div>
+                          )}
+                        </div>
                         <button
                           onClick={() => handleContactClick(booth)}
-                          className="flex-shrink-0 p-1 text-green-600 hover:text-green-700 hover:bg-green-100 rounded-full transition-colors"
+                          className="p-2 hover:bg-blue-50 rounded-full transition-colors flex-shrink-0"
                           title="Contact Details"
                         >
                           <svg
-                            className="w-4 h-4"
+                            className="w-5 h-5 text-blue-600"
                             fill="none"
                             stroke="currentColor"
                             viewBox="0 0 24 24"
@@ -241,12 +252,10 @@ const VotingTable = ({
                         </button>
                       </div>
                     </td>
-                    <td className="px-2 py-4 text-center whitespace-nowrap">
-                      <div className="bg-blue-100 rounded-md px-2 py-2 text-sm font-semibold inline-block min-w-[80px]">
-                        <div className="text-base font-bold text-blue-900">
-                          {booth.totalVoters.toLocaleString("en-IN")}
-                        </div>
-                      </div>
+                    <td className="px-3 py-2 text-center">
+                      <span className="inline-flex items-center px-3 py-2 rounded-lg text-sm font-semibold bg-blue-50 text-blue-700 border border-blue-200">
+                        {booth.totalVoters.toLocaleString()}
+                      </span>
                     </td>
                     {timeSlots.map((timeSlot) => {
                       const voteCount = booth.votes[timeSlot];
@@ -254,17 +263,14 @@ const VotingTable = ({
                       const statusColor = getStatusColor(status);
 
                       return (
-                        <td
-                          key={timeSlot}
-                          className="px-2 py-4 text-center whitespace-nowrap"
-                        >
+                        <td key={timeSlot} className="px-3 py-2 text-center">
                           <div
                             onClick={() =>
                               handleCellClick(booth, timeSlot, voteCount)
                             }
-                            className={`${statusColor} rounded-md px-2 py-2 text-sm font-semibold transition-all duration-300 inline-block min-w-[80px] ${
+                            className={`${statusColor} rounded-lg px-3 py-2 text-sm font-semibold transition-all duration-200 inline-flex items-center justify-center w-16 ${
                               user?.role === "admin"
-                                ? "cursor-pointer hover:scale-105 hover:shadow-md"
+                                ? "cursor-pointer hover:scale-105 hover:shadow-lg"
                                 : ""
                             }`}
                             title={
@@ -272,39 +278,35 @@ const VotingTable = ({
                             }
                           >
                             {voteCount !== null ? (
-                              <div>
-                                <div className="text-base font-bold">
-                                  {voteCount.toLocaleString("en-IN")}
-                                </div>
-                              </div>
+                              <span className="text-base font-bold">
+                                {voteCount.toLocaleString()}
+                              </span>
                             ) : (
-                              <div className="text-base">—</div>
+                              <span className="text-gray-400">-</span>
                             )}
                           </div>
                         </td>
                       );
                     })}
-                    <td className="px-2 py-4 text-center whitespace-nowrap">
-                      <div className="bg-purple-100 rounded-md px-2 py-2 text-sm font-semibold inline-block min-w-[80px]">
-                        <div className="text-base font-bold text-purple-900">
-                          {(() => {
-                            const allVotes = Object.values(booth.votes).filter(
-                              (v) => v !== null
-                            );
-                            const lastVote =
-                              allVotes.length > 0
-                                ? allVotes[allVotes.length - 1]
-                                : 0;
-                            return lastVote.toLocaleString("en-IN");
-                          })()}
-                        </div>
-                      </div>
+                    <td className="px-3 py-2 text-center">
+                      <span className="inline-flex items-center px-3 py-2 rounded-lg text-sm font-semibold bg-purple-50 text-purple-700 border border-purple-200">
+                        {(() => {
+                          const allVotes = Object.values(booth.votes).filter(
+                            (v) => v !== null
+                          );
+                          const lastVote =
+                            allVotes.length > 0
+                              ? allVotes[allVotes.length - 1]
+                              : 0;
+                          return lastVote.toLocaleString();
+                        })()}
+                      </span>
                     </td>
                     {user?.role === "admin" && (
-                      <td className="px-3 py-4 text-center whitespace-nowrap">
+                      <td className="px-4 py-2 text-center">
                         <button
                           onClick={() => onEditBooth(booth)}
-                          className="px-3 py-1 bg-blue-600 hover:bg-blue-700 text-white text-sm rounded-lg transition-colors flex items-center gap-1 mx-auto"
+                          className="px-3 py-2 bg-blue-500 hover:bg-blue-600 text-white text-sm font-medium rounded-lg transition-all duration-200 hover:shadow-lg flex items-center gap-2 mx-auto"
                         >
                           <svg
                             className="w-4 h-4"
@@ -334,20 +336,23 @@ const VotingTable = ({
       {/* Pagination Controls */}
       {!disablePagination && totalPages > 1 && (
         <div className="mt-6 flex items-center justify-between px-4">
-          <div className="text-sm text-gray-600">
-            Showing {indexOfFirstBooth + 1} to{" "}
-            {Math.min(indexOfLastBooth, boothData.length)} of {boothData.length}{" "}
-            booths
+          <div className="text-sm font-medium text-gray-600">
+            Showing{" "}
+            <span className="text-gray-900">{indexOfFirstBooth + 1}</span> to{" "}
+            <span className="text-gray-900">
+              {Math.min(indexOfLastBooth, boothData.length)}
+            </span>{" "}
+            of <span className="text-gray-900">{boothData.length}</span> booths
           </div>
 
           <div className="flex items-center gap-2">
             <button
               onClick={() => handlePageChange(currentPage - 1)}
               disabled={currentPage === 1}
-              className={`px-4 py-2 rounded-lg font-medium transition-colors ${
+              className={`px-4 py-2 rounded-lg font-medium transition-all duration-200 ${
                 currentPage === 1
                   ? "bg-gray-100 text-gray-400 cursor-not-allowed"
-                  : "bg-white border border-gray-300 text-gray-700 hover:bg-blue-50"
+                  : "bg-white border border-gray-200 text-gray-700 hover:bg-blue-50 hover:border-blue-300 hover:shadow-md"
               }`}
             >
               Previous
@@ -366,10 +371,10 @@ const VotingTable = ({
                   <button
                     key={pageNum}
                     onClick={() => handlePageChange(pageNum)}
-                    className={`px-4 py-2 rounded-lg font-medium transition-colors ${
+                    className={`px-4 py-2 rounded-lg font-medium transition-all duration-200 ${
                       currentPage === pageNum
-                        ? "bg-blue-700 text-white"
-                        : "bg-white border border-gray-300 text-gray-700 hover:bg-blue-50"
+                        ? "bg-blue-600 text-white shadow-md"
+                        : "bg-white border border-gray-200 text-gray-700 hover:bg-blue-50 hover:border-blue-300 hover:shadow-md"
                     }`}
                   >
                     {pageNum}
@@ -381,10 +386,10 @@ const VotingTable = ({
             <button
               onClick={() => handlePageChange(currentPage + 1)}
               disabled={currentPage === totalPages}
-              className={`px-4 py-2 rounded-lg font-medium transition-colors ${
+              className={`px-4 py-2 rounded-lg font-medium transition-all duration-200 ${
                 currentPage === totalPages
                   ? "bg-gray-100 text-gray-400 cursor-not-allowed"
-                  : "bg-white border border-gray-300 text-gray-700 hover:bg-blue-50"
+                  : "bg-white border border-gray-200 text-gray-700 hover:bg-blue-50 hover:border-blue-300 hover:shadow-md"
               }`}
             >
               Next
@@ -403,15 +408,15 @@ const VotingTable = ({
             WebkitBackdropFilter: "blur(10px)",
           }}
         >
-          <div className="bg-white rounded-xl shadow-2xl max-w-lg w-full mx-4">
+          <div className="bg-white rounded-2xl shadow-2xl max-w-lg w-full mx-4 border border-gray-100">
             <div className="p-6">
-              <div className="flex items-center justify-between mb-4">
-                <h3 className="text-lg font-semibold text-gray-900">
+              <div className="flex items-center justify-between mb-6">
+                <h3 className="text-xl font-bold text-gray-900">
                   Contact Details
                 </h3>
                 <button
                   onClick={closeContactModal}
-                  className="p-2 text-gray-400 hover:text-gray-600 rounded-full hover:bg-gray-100"
+                  className="p-2 text-gray-400 hover:text-gray-600 rounded-full hover:bg-gray-100 transition-colors"
                 >
                   <svg
                     className="w-5 h-5"
@@ -429,11 +434,11 @@ const VotingTable = ({
                 </button>
               </div>
 
-              <div className="mb-4">
-                <h4 className="font-medium text-gray-900 mb-2">
+              <div className="mb-6 p-4 bg-gray-50 rounded-xl">
+                <h4 className="font-semibold text-gray-900 mb-1">
                   {selectedBooth.name}
                 </h4>
-                <p className="text-sm text-gray-600">
+                <p className="text-sm text-gray-500">
                   Booth ID: {selectedBooth.id}
                 </p>
               </div>
@@ -443,7 +448,7 @@ const VotingTable = ({
                 return (
                   <div className="space-y-4">
                     <div className="grid grid-cols-1 gap-4">
-                      <div className="flex items-center gap-3">
+                      <div className="flex items-center gap-3 p-3 bg-green-50 rounded-xl border border-green-200">
                         <div className="p-2 bg-green-100 rounded-lg">
                           <svg
                             className="w-5 h-5 text-green-600"
@@ -459,17 +464,17 @@ const VotingTable = ({
                             />
                           </svg>
                         </div>
-                        <div>
-                          <p className="text-sm font-medium text-gray-900">
+                        <div className="flex-1">
+                          <p className="text-sm font-semibold text-gray-700">
                             Landline
                           </p>
-                          <p className="text-sm text-gray-600">
+                          <p className="text-sm text-gray-900 font-medium">
                             {contact.phone}
                           </p>
                         </div>
                         <button
                           onClick={() => window.open(`tel:${contact.phone}`)}
-                          className="ml-auto p-2 text-blue-600 hover:bg-blue-100 rounded-lg"
+                          className="ml-auto p-2 text-green-600 hover:bg-green-100 rounded-lg transition-colors"
                         >
                           <svg
                             className="w-4 h-4"
@@ -487,7 +492,7 @@ const VotingTable = ({
                         </button>
                       </div>
 
-                      <div className="flex items-center gap-3">
+                      <div className="flex items-center gap-3 p-3 bg-blue-50 rounded-xl border border-blue-200">
                         <div className="p-2 bg-blue-100 rounded-lg">
                           <svg
                             className="w-5 h-5 text-blue-600"
@@ -503,17 +508,17 @@ const VotingTable = ({
                             />
                           </svg>
                         </div>
-                        <div>
-                          <p className="text-sm font-medium text-gray-900">
+                        <div className="flex-1">
+                          <p className="text-sm font-semibold text-gray-700">
                             Mobile
                           </p>
-                          <p className="text-sm text-gray-600">
+                          <p className="text-sm text-gray-900 font-medium">
                             {contact.mobile}
                           </p>
                         </div>
                         <button
                           onClick={() => window.open(`tel:${contact.mobile}`)}
-                          className="ml-auto p-2 text-blue-600 hover:bg-blue-100 rounded-lg"
+                          className="ml-auto p-2 text-blue-600 hover:bg-blue-100 rounded-lg transition-colors"
                         >
                           <svg
                             className="w-4 h-4"
